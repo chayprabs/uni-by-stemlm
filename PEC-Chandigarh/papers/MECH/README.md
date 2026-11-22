@@ -1,6 +1,8 @@
 # MECH - Mechanical Engineering
 
-54 papers. [Back to the full index](../../INDEX.md)
+54 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
+
+First-year courses common to all branches (Calculus, Chemistry, Mechatronics, Engineering Drawing...) are in [COMMON](../COMMON/README.md).
 
 ## Semester 1
 
@@ -16,6 +18,7 @@
 | Elements of Manufacturing Processes | ME1031 | End-Semester | 2023 | [PDF](Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.pdf) (2p) | [text](Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.md) |
 | Elements of Thermodynamics | ME1032 | Mid-Semester | 2023 | [PDF](Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.pdf) (1p) | [text](Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.md) |
 | Elements of Thermodynamics | ME1032 | End-Semester | 2023 | [PDF](Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.pdf) (2p) | [text](Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.md) |
+| Elements of Thermodynamics | - | Exam (type not stated) | undated | [PDF](Semester-3/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf) (1p) | [text](Semester-3/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md) |
 | Kinematics of Machines | MEN202 | Mid-Semester | 2016 | [PDF](Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.pdf) (3p) | [text](Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.md) |
 | Manufacturing Processes | MEN203 | End-Semester | 2016 | [PDF](Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.pdf) (2p) | [text](Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.md) |
 | Materials Science | ESC203 | Mid-Semester | 2016 | [PDF](Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.pdf) (1p) | [text](Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.md) |
@@ -84,9 +87,3 @@
 | Engineering Metallurgy | ME2019 | End-Semester | 2025 | [PDF](Semester-8/Engineering-Metallurgy/END-SEM_2025_nWCkzR.pdf) (1p) | [text](Semester-8/Engineering-Metallurgy/END-SEM_2025_nWCkzR.md) |
 | Power Plant Engineering | ME2032 | Mid-Semester | 2026 | [PDF](Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.pdf) (2p) | [text](Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.md) |
 | Power Plant Engineering | ME2032 | End-Semester | 2026 | [PDF](Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.pdf) (2p) | [text](Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.md) |
-
-## Semester unknown
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Elements of Thermodynamics | - | Exam (type not stated) | undated | [PDF](Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf) (1p) | [text](Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md) |

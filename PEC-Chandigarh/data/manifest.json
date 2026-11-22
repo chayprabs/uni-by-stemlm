@@ -37,7 +37,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/AERO/Semester-4/Computational-Fluid-Dynamics/END-SEM_2025_JLdL95.pdf",
-  "transcript": "papers/AERO/Semester-4/Computational-Fluid-Dynamics/END-SEM_2025_JLdL95.md"
+  "transcript": "papers/AERO/Semester-4/Computational-Fluid-Dynamics/END-SEM_2025_JLdL95.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "njwNha0DyerSid5x7I1s",
@@ -76,7 +77,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/AERO/Semester-4/Gas-Turbine-Propulsion/END-SEM_undated_7Ja5nS.pdf",
-  "transcript": "papers/AERO/Semester-4/Gas-Turbine-Propulsion/END-SEM_undated_7Ja5nS.md"
+  "transcript": "papers/AERO/Semester-4/Gas-Turbine-Propulsion/END-SEM_undated_7Ja5nS.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "DtLuon13Kwh4h5ZtlpMm",
@@ -115,7 +117,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/AERO/Semester-4/High-Speed-Aerodynamics/END-SEM_2025_62B4rM.pdf",
-  "transcript": "papers/AERO/Semester-4/High-Speed-Aerodynamics/END-SEM_2025_62B4rM.md"
+  "transcript": "papers/AERO/Semester-4/High-Speed-Aerodynamics/END-SEM_2025_62B4rM.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "qll8k0rym1FiIVF7QsEB",
@@ -146,7 +149,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 1,
   "course": "Applied Chemistry",
   "course_code": "",
@@ -154,8 +157,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CHEMISTRY/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.md"
+  "pdf": "papers/COMMON/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.pdf",
+  "transcript": "papers/COMMON/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "gUmOvYqB90IANvpilmLz",
@@ -170,7 +174,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Environmental Sciences I",
   "course_code": "GS1101",
@@ -178,8 +182,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "APMJ9alXhZaV3ipeVDEa",
@@ -194,7 +199,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Environmental Sciences I",
   "course_code": "GS1101",
@@ -202,8 +207,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "GW6tgrTSYgfKAc1QrM0g",
@@ -219,7 +225,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Environmental Sciences II",
   "course_code": "GS1201",
@@ -227,8 +233,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "XDgiESfRmIHsJwhvXQf7",
@@ -244,7 +251,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 2,
   "course": "Applied Chemistry II",
   "course_code": "CH1201",
@@ -252,8 +259,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.md"
+  "pdf": "papers/COMMON/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.pdf",
+  "transcript": "papers/COMMON/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "lyOtWF4B95DJZ9kMgjCX",
@@ -268,7 +276,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 2,
   "course": "Applied Chemistry II",
   "course_code": "CH1201",
@@ -276,8 +284,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.md"
+  "pdf": "papers/COMMON/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.pdf",
+  "transcript": "papers/COMMON/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "Ac7rgCWYRNj8Jf32tBhg",
@@ -292,7 +301,7 @@
    ]
   },
   "status": "included",
-  "department": "CHEMISTRY",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Environmental Sciences II",
   "course_code": "GS1201",
@@ -300,8 +309,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CHEMISTRY/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "I3lSsGxlYEBMPZh93GZt",
@@ -326,7 +336,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.md"
+  "transcript": "papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "4QN1ySRtbEr6Dje5EQ2T",
@@ -350,7 +361,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.pdf",
-  "transcript": "papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.md"
+  "transcript": "papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.md",
+  "uploaded_under": "CHEMISTRY"
  },
  {
   "id": "BewEZdOunqrRUo4N6MLJ",
@@ -365,7 +377,7 @@
    ]
   },
   "status": "included",
-  "department": "CIVIL",
+  "department": "COMMON",
   "semester": 1,
   "course": "Engineering Drawing",
   "course_code": "",
@@ -373,8 +385,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CIVIL/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.pdf",
-  "transcript": "papers/CIVIL/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.md"
+  "pdf": "papers/COMMON/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.pdf",
+  "transcript": "papers/COMMON/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "pNKRCXJ6QcA9U0SfiiUH",
@@ -389,7 +402,7 @@
    ]
   },
   "status": "included",
-  "department": "CIVIL",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Environmental Sciences I",
   "course_code": "GS1101",
@@ -397,8 +410,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.pdf",
-  "transcript": "papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "XOREevhUII3p4fR60M3h",
@@ -413,7 +427,7 @@
    ]
   },
   "status": "included",
-  "department": "CIVIL",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Environmental Sciences I",
   "course_code": "GS1101",
@@ -421,8 +435,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.pdf",
-  "transcript": "papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2TCuR4D6BnNro5hny711",
@@ -447,7 +462,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-7/Green-Buildings/MID-SEM_undated_2TCuR4.pdf",
-  "transcript": "papers/CIVIL/Semester-7/Green-Buildings/MID-SEM_undated_2TCuR4.md"
+  "transcript": "papers/CIVIL/Semester-7/Green-Buildings/MID-SEM_undated_2TCuR4.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "BiE6dUPHYu1zoXBN9tEW",
@@ -519,7 +535,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-7/Green-Buildings/MID-SEM_2024_WWvh44.pdf",
-  "transcript": "papers/CIVIL/Semester-7/Green-Buildings/MID-SEM_2024_WWvh44.md"
+  "transcript": "papers/CIVIL/Semester-7/Green-Buildings/MID-SEM_2024_WWvh44.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "YUHMvt7cyE2H6yDyd2LW",
@@ -535,7 +552,7 @@
    ]
   },
   "status": "included",
-  "department": "CSE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Computing",
   "course_code": "ES1101",
@@ -543,8 +560,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CSE/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.pdf",
-  "transcript": "papers/CSE/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "x6tnzMyrBYUaycB40dDd",
@@ -560,7 +578,7 @@
    ]
   },
   "status": "included",
-  "department": "CSE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Artificial Intelligence and Machine Learning",
   "course_code": "ES1701",
@@ -568,8 +586,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.pdf",
-  "transcript": "papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.md"
+  "pdf": "papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.pdf",
+  "transcript": "papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "qU7OQZdSCaoSdseWMMov",
@@ -585,7 +604,7 @@
    ]
   },
   "status": "included",
-  "department": "CSE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Artificial Intelligence and Machine Learning",
   "course_code": "ES1701",
@@ -593,8 +612,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.pdf",
-  "transcript": "papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.md"
+  "pdf": "papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.pdf",
+  "transcript": "papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "7Lgh0SQSHYnP2H3QUchn",
@@ -618,7 +638,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.pdf",
-  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.md"
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "55hf3YOYPhvr4oPnHXe4",
@@ -643,7 +664,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.pdf",
-  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.md"
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "rgxpXw6Mes6SIXZG4fW7",
@@ -668,7 +690,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Data-Structures/END-SEM_2023_rgxpXw.pdf",
-  "transcript": "papers/CSE/Semester-3/Data-Structures/END-SEM_2023_rgxpXw.md"
+  "transcript": "papers/CSE/Semester-3/Data-Structures/END-SEM_2023_rgxpXw.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "PceBufG5IrMnnoJqeuR9",
@@ -693,7 +716,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Data-Structures/MID-SEM_2022_PceBuf.pdf",
-  "transcript": "papers/CSE/Semester-3/Data-Structures/MID-SEM_2022_PceBuf.md"
+  "transcript": "papers/CSE/Semester-3/Data-Structures/MID-SEM_2022_PceBuf.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "kdMz9veR4blEzb9EOaCV",
@@ -717,7 +741,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.pdf",
-  "transcript": "papers/CSE/Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.md"
+  "transcript": "papers/CSE/Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "A7m4hDutopxEGAsThmhz",
@@ -757,7 +782,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-4/Operating-Systems/END-SEM_2023_IaH5nA.pdf",
-  "transcript": "papers/CSE/Semester-4/Operating-Systems/END-SEM_2023_IaH5nA.md"
+  "transcript": "papers/CSE/Semester-4/Operating-Systems/END-SEM_2023_IaH5nA.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "X7V2ZkR8fKWkojLt9Jfl",
@@ -782,7 +808,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-4/Operating-Systems/END-SEM_2023_X7V2Zk.pdf",
-  "transcript": "papers/CSE/Semester-4/Operating-Systems/END-SEM_2023_X7V2Zk.md"
+  "transcript": "papers/CSE/Semester-4/Operating-Systems/END-SEM_2023_X7V2Zk.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "KR4FU9RtHfFXNlDvL5x8",
@@ -807,7 +834,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.pdf",
-  "transcript": "papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.md"
+  "transcript": "papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "mIt2u9Aljqsn7qSevjKf",
@@ -832,7 +860,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.pdf",
-  "transcript": "papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.md"
+  "transcript": "papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "RlPH1VqvufBVbXrBjcMa",
@@ -857,7 +886,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.pdf",
-  "transcript": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.md"
+  "transcript": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "0u3YG1BuZygod0rULxdY",
@@ -882,7 +912,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-8/Operating-Systems/END-SEM_2025_0u3YG1.pdf",
-  "transcript": "papers/CSE/Semester-8/Operating-Systems/END-SEM_2025_0u3YG1.md"
+  "transcript": "papers/CSE/Semester-8/Operating-Systems/END-SEM_2025_0u3YG1.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "hYsLLb8SwEZDsrffTpiM",
@@ -922,7 +953,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-8/Operating-Systems/MID-SEM_2025_VdOLg7.pdf",
-  "transcript": "papers/CSE/Semester-8/Operating-Systems/MID-SEM_2025_VdOLg7.md"
+  "transcript": "papers/CSE/Semester-8/Operating-Systems/MID-SEM_2025_VdOLg7.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "WwGIxvm8oZH4vxIcX0us",
@@ -947,7 +979,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE-AI/Semester-3/Data-Structures/MID-SEM_2025_WwGIxv.pdf",
-  "transcript": "papers/CSE-AI/Semester-3/Data-Structures/MID-SEM_2025_WwGIxv.md"
+  "transcript": "papers/CSE-AI/Semester-3/Data-Structures/MID-SEM_2025_WwGIxv.md",
+  "uploaded_under": "CSE-AI"
  },
  {
   "id": "wluTfrrUKP37iw1qWiX7",
@@ -971,7 +1004,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE-AI/Semester-3/Mathematical-Foundations-of-AI/MID-SEM_undated_wluTfr.pdf",
-  "transcript": "papers/CSE-AI/Semester-3/Mathematical-Foundations-of-AI/MID-SEM_undated_wluTfr.md"
+  "transcript": "papers/CSE-AI/Semester-3/Mathematical-Foundations-of-AI/MID-SEM_undated_wluTfr.md",
+  "uploaded_under": "CSE-AI"
  },
  {
   "id": "2LzBTNKAsxvl9MZaPh4P",
@@ -987,16 +1021,17 @@
    ]
   },
   "status": "included",
-  "department": "CSE-DS",
+  "department": "COMMON",
   "semester": 2,
-  "course": "Applied Chemistry",
+  "course": "Applied Chemistry I",
   "course_code": "CH2301",
   "exam": "END-SEM",
   "year": "undated",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CSE-DS/Semester-2/Applied-Chemistry/END-SEM_undated_2LzBTN.pdf",
-  "transcript": "papers/CSE-DS/Semester-2/Applied-Chemistry/END-SEM_undated_2LzBTN.md"
+  "pdf": "papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_undated_2LzBTN.pdf",
+  "transcript": "papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_undated_2LzBTN.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "aZQIFwVe8uNHieiqgIeK",
@@ -1012,7 +1047,7 @@
    ]
   },
   "status": "included",
-  "department": "CSE-DS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Differential Equations and Vector Calculus",
   "course_code": "MA2302",
@@ -1020,8 +1055,9 @@
   "year": "2025",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CSE-DS/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.pdf",
-  "transcript": "papers/CSE-DS/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "NjxKdLXe7ma5dQ9lcrS0",
@@ -1036,7 +1072,7 @@
    ]
   },
   "status": "included",
-  "department": "CSE-DS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Mechatronics",
   "course_code": "ES2304",
@@ -1044,8 +1080,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/CSE-DS/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.pdf",
-  "transcript": "papers/CSE-DS/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "u9wxofzLwbXjwEYFk4DP",
@@ -1071,7 +1108,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/CSE-DS/Semester-4/Data-Science-and-Machine-Learning/END-SEM_2025_u9wxof.pdf",
-  "transcript": "papers/CSE-DS/Semester-4/Data-Science-and-Machine-Learning/END-SEM_2025_u9wxof.md"
+  "transcript": "papers/CSE-DS/Semester-4/Data-Science-and-Machine-Learning/END-SEM_2025_u9wxof.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "dZykGrWYLsFcF79iwCJV",
@@ -1096,7 +1134,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE-DS/Semester-4/Data-Science-and-Machine-Learning/MID-SEM_2025_dZykGr.pdf",
-  "transcript": "papers/CSE-DS/Semester-4/Data-Science-and-Machine-Learning/MID-SEM_2025_dZykGr.md"
+  "transcript": "papers/CSE-DS/Semester-4/Data-Science-and-Machine-Learning/MID-SEM_2025_dZykGr.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "ZxFzS7VelR93C1vhQcSG",
@@ -1121,7 +1160,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE-DS/Semester-7/Data-and-Internet-Security/MID-SEM_undated_ZxFzS7.pdf",
-  "transcript": "papers/CSE-DS/Semester-7/Data-and-Internet-Security/MID-SEM_undated_ZxFzS7.md"
+  "transcript": "papers/CSE-DS/Semester-7/Data-and-Internet-Security/MID-SEM_undated_ZxFzS7.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "WBsb9ELddAY9Fi5fQoRb",
@@ -1136,7 +1176,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Mechatronics",
   "course_code": "ES1301",
@@ -1144,8 +1184,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/ECE/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.pdf",
-  "transcript": "papers/ECE/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "8tLIwYvRMd4rNlhSQgQB",
@@ -1160,7 +1201,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Mechatronics",
   "course_code": "ES1301",
@@ -1168,8 +1209,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/ECE/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.pdf",
-  "transcript": "papers/ECE/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "NjxUOChuShG45qReomxt",
@@ -1186,15 +1228,17 @@
   },
   "status": "included",
   "department": "ECE",
-  "semester": 2,
+  "semester": 3,
   "course": "Digital Logic Design",
   "course_code": "EC1231",
   "exam": "END-SEM",
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Digital-Logic-Design/END-SEM_2022_NjxUOC.pdf",
-  "transcript": "papers/ECE/Semester-2/Digital-Logic-Design/END-SEM_2022_NjxUOC.md"
+  "pdf": "papers/ECE/Semester-3/Digital-Logic-Design/END-SEM_2022_NjxUOC.pdf",
+  "transcript": "papers/ECE/Semester-3/Digital-Logic-Design/END-SEM_2022_NjxUOC.md",
+  "uploaded_under": "ECE",
+  "code_fixed": false
  },
  {
   "id": "FwSMNRNvsEXsYi8clQ1I",
@@ -1210,7 +1254,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Engineering Drawing with CAD Software",
   "course_code": "ES1201",
@@ -1218,8 +1262,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.pdf",
-  "transcript": "papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.md"
+  "pdf": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.pdf",
+  "transcript": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "lxzZvgAX3IeL376LyKR0",
@@ -1234,7 +1279,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Engineering Drawing with CAD Software",
   "course_code": "ES1201",
@@ -1242,8 +1287,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.pdf",
-  "transcript": "papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.md"
+  "pdf": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.pdf",
+  "transcript": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "Jj3mxbJnd3jM2QshXVyo",
@@ -1259,7 +1305,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Mechatronics",
   "course_code": "ES1301",
@@ -1267,8 +1313,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.pdf",
-  "transcript": "papers/ECE/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "ud0PtPLozMzVDc2eAeOF",
@@ -1283,7 +1330,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Mechatronics",
   "course_code": "ES1301",
@@ -1291,8 +1338,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/ECE/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.pdf",
-  "transcript": "papers/ECE/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "ZSpl4fYeMCFx0VCpbsOI",
@@ -1308,7 +1356,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Computing",
   "course_code": "ES1101",
@@ -1316,8 +1364,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.pdf",
-  "transcript": "papers/ECE/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "oksBXWJDEW9QyMwY9qtX",
@@ -1332,7 +1381,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Computing",
   "course_code": "ES1101",
@@ -1340,8 +1389,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/ECE/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.pdf",
-  "transcript": "papers/ECE/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "W3HMpBJzO45Bs2OmXY97",
@@ -1357,7 +1407,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Electronics and Electrical Engineering",
   "course_code": "ES1401",
@@ -1365,8 +1415,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.pdf",
-  "transcript": "papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "K12kfrjXvJLwTs1Vfc91",
@@ -1382,7 +1433,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Electronics and Electrical Engineering",
   "course_code": "ES1401",
@@ -1390,8 +1441,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.pdf",
-  "transcript": "papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "pf0lRkxDApdpDDv5zRSa",
@@ -1407,7 +1459,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Strength of Materials",
   "course_code": "ES1601",
@@ -1415,8 +1467,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.pdf",
-  "transcript": "papers/ECE/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.md"
+  "pdf": "papers/COMMON/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.pdf",
+  "transcript": "papers/COMMON/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "vmdrLDe71YGvVQPZrNBW",
@@ -1431,7 +1484,7 @@
    ]
   },
   "status": "included",
-  "department": "ECE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Strength of Materials",
   "course_code": "ES1601",
@@ -1439,8 +1492,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/ECE/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.pdf",
-  "transcript": "papers/ECE/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.md"
+  "pdf": "papers/COMMON/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.pdf",
+  "transcript": "papers/COMMON/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "sySL4tyy0fPtxar02f6b",
@@ -1465,7 +1519,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-3/Analog-Electronics/END-SEM_2025_sySL4t.pdf",
-  "transcript": "papers/ECE/Semester-3/Analog-Electronics/END-SEM_2025_sySL4t.md"
+  "transcript": "papers/ECE/Semester-3/Analog-Electronics/END-SEM_2025_sySL4t.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "jWgvzhZkxjzWWrGeTL3X",
@@ -1490,7 +1545,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-3/Circuit-Theory/MID-SEM_2022_jWgvzh.pdf",
-  "transcript": "papers/ECE/Semester-3/Circuit-Theory/MID-SEM_2022_jWgvzh.md"
+  "transcript": "papers/ECE/Semester-3/Circuit-Theory/MID-SEM_2022_jWgvzh.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "LV26aMTCAsyiT3lJnz9j",
@@ -1514,7 +1570,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-3/Digital-Logic-Design/MID-SEM_2022_LV26aM.pdf",
-  "transcript": "papers/ECE/Semester-3/Digital-Logic-Design/MID-SEM_2022_LV26aM.md"
+  "transcript": "papers/ECE/Semester-3/Digital-Logic-Design/MID-SEM_2022_LV26aM.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "E9KR2ownOfYfxJ1fDXg6",
@@ -1538,7 +1595,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-3/Electronic-Devices-and-Circuits/MID-SEM_2022_E9KR2o.pdf",
-  "transcript": "papers/ECE/Semester-3/Electronic-Devices-and-Circuits/MID-SEM_2022_E9KR2o.md"
+  "transcript": "papers/ECE/Semester-3/Electronic-Devices-and-Circuits/MID-SEM_2022_E9KR2o.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "5gQwK7AugpOyhg5oBOTk",
@@ -1563,7 +1621,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2023_5gQwK7.pdf",
-  "transcript": "papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2023_5gQwK7.md"
+  "transcript": "papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2023_5gQwK7.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "8g76JX4gzaM0NaiZmcxA",
@@ -1587,7 +1646,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2025_8g76JX.pdf",
-  "transcript": "papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2025_8g76JX.md"
+  "transcript": "papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2025_8g76JX.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "QVcoGPMW1FmGIFxRsK1X",
@@ -1604,15 +1664,17 @@
   },
   "status": "included",
   "department": "ECE",
-  "semester": 4,
+  "semester": 3,
   "course": "Circuit Theory",
   "course_code": "EC1233",
   "exam": "END-SEM",
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-4/Circuit-Theory/END-SEM_2022_QVcoGP.pdf",
-  "transcript": "papers/ECE/Semester-4/Circuit-Theory/END-SEM_2022_QVcoGP.md"
+  "pdf": "papers/ECE/Semester-3/Circuit-Theory/END-SEM_2022_QVcoGP.pdf",
+  "transcript": "papers/ECE/Semester-3/Circuit-Theory/END-SEM_2022_QVcoGP.md",
+  "uploaded_under": "ECE",
+  "code_fixed": false
  },
  {
   "id": "h52Vwmr1mZJriWxY1fKB",
@@ -1636,7 +1698,9 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-4/Control-Systems/MID-SEM_undated_h52Vwm.pdf",
-  "transcript": "papers/ECE/Semester-4/Control-Systems/MID-SEM_undated_h52Vwm.md"
+  "transcript": "papers/ECE/Semester-4/Control-Systems/MID-SEM_undated_h52Vwm.md",
+  "uploaded_under": "ECE",
+  "code_fixed": true
  },
  {
   "id": "RU7Duth5o6iTFLWzRqDq",
@@ -1661,7 +1725,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-4/Probability-and-Random-Processes/END-SEM_2023_RU7Dut.pdf",
-  "transcript": "papers/ECE/Semester-4/Probability-and-Random-Processes/END-SEM_2023_RU7Dut.md"
+  "transcript": "papers/ECE/Semester-4/Probability-and-Random-Processes/END-SEM_2023_RU7Dut.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "RJiuqRoiZNRtEnZWz0Y1",
@@ -1686,7 +1751,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-4/Probability-and-Random-Processes/MID-SEM_2023_RJiuqR.pdf",
-  "transcript": "papers/ECE/Semester-4/Probability-and-Random-Processes/MID-SEM_2023_RJiuqR.md"
+  "transcript": "papers/ECE/Semester-4/Probability-and-Random-Processes/MID-SEM_2023_RJiuqR.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "7mjF6BW4gIoVEMUPaYce",
@@ -1727,7 +1793,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2023_x0A2vp.pdf",
-  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2023_x0A2vp.md"
+  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2023_x0A2vp.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "bAwP8aLmy5oSjs3Vmx5q",
@@ -1752,7 +1819,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2023_bAwP8a.pdf",
-  "transcript": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2023_bAwP8a.md"
+  "transcript": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2023_bAwP8a.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "yyZCx0DWv1VniAI1ou4o",
@@ -1778,7 +1846,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/ECE/Semester-5/Control-Systems/END-SEM_undated_yyZCx0.pdf",
-  "transcript": "papers/ECE/Semester-5/Control-Systems/END-SEM_undated_yyZCx0.md"
+  "transcript": "papers/ECE/Semester-5/Control-Systems/END-SEM_undated_yyZCx0.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "5d6DtImXZLN9hsk5JgmP",
@@ -1803,7 +1872,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Control-Systems/MID-SEM_undated_5d6DtI.pdf",
-  "transcript": "papers/ECE/Semester-5/Control-Systems/MID-SEM_undated_5d6DtI.md"
+  "transcript": "papers/ECE/Semester-5/Control-Systems/MID-SEM_undated_5d6DtI.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "1zchnzjDhOG5U1hrti98",
@@ -1827,7 +1897,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-5/Digital-Signal-Processing/MID-SEM_2023_1zchnz.pdf",
-  "transcript": "papers/ECE/Semester-5/Digital-Signal-Processing/MID-SEM_2023_1zchnz.md"
+  "transcript": "papers/ECE/Semester-5/Digital-Signal-Processing/MID-SEM_2023_1zchnz.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "MrLlrP6qOvp5QYg1gXsh",
@@ -1852,7 +1923,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_undated_MrLlrP.pdf",
-  "transcript": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_undated_MrLlrP.md"
+  "transcript": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_undated_MrLlrP.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "RUje6KTGL0mKB4dW9TxU",
@@ -1877,7 +1949,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-7/Neural-Networks-and-Fuzzy-Systems/MID-SEM_2024_RUje6K.pdf",
-  "transcript": "papers/ECE/Semester-7/Neural-Networks-and-Fuzzy-Systems/MID-SEM_2024_RUje6K.md"
+  "transcript": "papers/ECE/Semester-7/Neural-Networks-and-Fuzzy-Systems/MID-SEM_2024_RUje6K.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "uNlaJ9fX63y0SCYtvdUo",
@@ -1903,7 +1976,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/ECE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2024_uNlaJ9.pdf",
-  "transcript": "papers/ECE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2024_uNlaJ9.md"
+  "transcript": "papers/ECE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2024_uNlaJ9.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "yD41USsxR4C2uWNDPaDO",
@@ -1987,7 +2061,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-7/Wireless-Communication/MID-SEM_2024_hw7Xk7.pdf",
-  "transcript": "papers/ECE/Semester-7/Wireless-Communication/MID-SEM_2024_hw7Xk7.md"
+  "transcript": "papers/ECE/Semester-7/Wireless-Communication/MID-SEM_2024_hw7Xk7.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "ddd1XzkHjqojf61HqK5X",
@@ -2011,7 +2086,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-8/Low-Power-VLSI/MID-SEM_undated_ddd1Xz.pdf",
-  "transcript": "papers/ECE/Semester-8/Low-Power-VLSI/MID-SEM_undated_ddd1Xz.md"
+  "transcript": "papers/ECE/Semester-8/Low-Power-VLSI/MID-SEM_undated_ddd1Xz.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "lCYlTsRY5OVxzZWYfuzL",
@@ -2035,7 +2111,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-8/Semiconductor-Package-Manufacturing/END-SEM_undated_lCYlTs.pdf",
-  "transcript": "papers/ECE/Semester-8/Semiconductor-Package-Manufacturing/END-SEM_undated_lCYlTs.md"
+  "transcript": "papers/ECE/Semester-8/Semiconductor-Package-Manufacturing/END-SEM_undated_lCYlTs.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "Pk1CTNR4vnyPuExPVXDY",
@@ -2059,7 +2136,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-4/Electrical-Machines-II/MID-SEM_undated_Pk1CTN.pdf",
-  "transcript": "papers/EE/Semester-4/Electrical-Machines-II/MID-SEM_undated_Pk1CTN.md"
+  "transcript": "papers/EE/Semester-4/Electrical-Machines-II/MID-SEM_undated_Pk1CTN.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "1bS6Jw5dBdr99Pj2BzH7",
@@ -2084,7 +2162,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-4/Power-System-Analysis/MID-SEM_undated_1bS6Jw.pdf",
-  "transcript": "papers/EE/Semester-4/Power-System-Analysis/MID-SEM_undated_1bS6Jw.md"
+  "transcript": "papers/EE/Semester-4/Power-System-Analysis/MID-SEM_undated_1bS6Jw.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "Jtm7M9W9fDGDdrlybkMg",
@@ -2109,7 +2188,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-6/Renewable-Energy-Technologies/END-SEM_2025_Jtm7M9.pdf",
-  "transcript": "papers/EE/Semester-6/Renewable-Energy-Technologies/END-SEM_2025_Jtm7M9.md"
+  "transcript": "papers/EE/Semester-6/Renewable-Energy-Technologies/END-SEM_2025_Jtm7M9.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "dKRs0vUuoeyBjp1VU5iN",
@@ -2133,7 +2213,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-6/Renewable-Energy-Technologies/MID-SEM_2025_dKRs0v.pdf",
-  "transcript": "papers/EE/Semester-6/Renewable-Energy-Technologies/MID-SEM_2025_dKRs0v.md"
+  "transcript": "papers/EE/Semester-6/Renewable-Energy-Technologies/MID-SEM_2025_dKRs0v.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "KgwkKFTbvCDVuUW0NPVy",
@@ -2150,14 +2231,15 @@
   "status": "included",
   "department": "EE",
   "semester": 8,
-  "course": "Electrical Vehicles",
+  "course": "Electric Vehicles",
   "course_code": "EL6012",
   "exam": "END-SEM",
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-8/Electrical-Vehicles/END-SEM_2024_KgwkKF.pdf",
-  "transcript": "papers/EE/Semester-8/Electrical-Vehicles/END-SEM_2024_KgwkKF.md"
+  "pdf": "papers/EE/Semester-8/Electric-Vehicles/END-SEM_2024_KgwkKF.pdf",
+  "transcript": "papers/EE/Semester-8/Electric-Vehicles/END-SEM_2024_KgwkKF.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "v7sgJqcqo2lBEZPLpjBM",
@@ -2173,7 +2255,7 @@
    ]
   },
   "status": "included",
-  "department": "HSM",
+  "department": "COMMON",
   "semester": 1,
   "course": "Communication Skills and Ethics",
   "course_code": "HS1101",
@@ -2181,8 +2263,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/HSM/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.pdf",
-  "transcript": "papers/HSM/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.md"
+  "pdf": "papers/COMMON/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.pdf",
+  "transcript": "papers/COMMON/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "NkGWtmuTcmD65uyrGlPA",
@@ -2199,7 +2282,7 @@
    ]
   },
   "status": "included",
-  "department": "HSM",
+  "department": "COMMON",
   "semester": 2,
   "course": "Communication Skills and Ethics",
   "course_code": "HS1101",
@@ -2207,8 +2290,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 3,
-  "pdf": "papers/HSM/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.pdf",
-  "transcript": "papers/HSM/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.md"
+  "pdf": "papers/COMMON/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.pdf",
+  "transcript": "papers/COMMON/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "OYW5tzzoONEB3U3hsa23",
@@ -2233,7 +2317,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.pdf",
-  "transcript": "papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.md"
+  "transcript": "papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2f38FRLmNC8TGnx6NJLV",
@@ -2257,7 +2342,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.pdf",
-  "transcript": "papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.md"
+  "transcript": "papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "BtRrWlZBZ1hf6ZmeBNN4",
@@ -2282,7 +2368,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.pdf",
-  "transcript": "papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.md"
+  "transcript": "papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "84sfVLs373lGcFyoUHTw",
@@ -2307,7 +2394,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.pdf",
-  "transcript": "papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.md"
+  "transcript": "papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "BZzYsd1Rl1mMx2MIGWA8",
@@ -2332,7 +2420,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.pdf",
-  "transcript": "papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.md"
+  "transcript": "papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "CPwuwJ9871dl6pCmYphq",
@@ -2389,7 +2478,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.pdf",
-  "transcript": "papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.md"
+  "transcript": "papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "UoMj4URbZopw0Q1DnXBU",
@@ -2430,7 +2520,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.pdf",
-  "transcript": "papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.md"
+  "transcript": "papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "IOYaXdo43cywhfir0Xgi",
@@ -2454,7 +2545,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.pdf",
-  "transcript": "papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.md"
+  "transcript": "papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "92DwKgASLsL49gC9u318",
@@ -2478,7 +2570,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.pdf",
-  "transcript": "papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.md"
+  "transcript": "papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "eTkUJkDa1OK9W0rFm9YZ",
@@ -2517,7 +2610,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.pdf",
-  "transcript": "papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.md"
+  "transcript": "papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "0GamrrDIuwDUmfC6Daxf",
@@ -2542,7 +2636,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.pdf",
-  "transcript": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.md"
+  "transcript": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "9d03SEl0yoOi3tAIjkTS",
@@ -2567,7 +2662,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.pdf",
-  "transcript": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.md"
+  "transcript": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "N1v35zyOH6use4VRxp5f",
@@ -2608,7 +2704,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.pdf",
-  "transcript": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.md"
+  "transcript": "papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "DrdNPiydElh3Eelolagd",
@@ -2632,7 +2729,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.pdf",
-  "transcript": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.md"
+  "transcript": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "L3Msiu038h5HarUfLECc",
@@ -2662,7 +2760,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 1,
   "course": "Calculus and Ordinary Differential Equations",
   "course_code": "MA1101",
@@ -2670,8 +2768,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.pdf",
-  "transcript": "papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.md"
+  "pdf": "papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.pdf",
+  "transcript": "papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "7KjuCVI23y7VGzorBnbc",
@@ -2687,7 +2786,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 1,
   "course": "Calculus and Ordinary Differential Equations",
   "course_code": "MA1101",
@@ -2695,8 +2794,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.pdf",
-  "transcript": "papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.md"
+  "pdf": "papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.pdf",
+  "transcript": "papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "nkH6E5n9uMBeOkhBH0Kd",
@@ -2711,7 +2811,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 1,
   "course": "Calculus and Ordinary Differential Equations",
   "course_code": "MA1101",
@@ -2719,8 +2819,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.pdf",
-  "transcript": "papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.md"
+  "pdf": "papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.pdf",
+  "transcript": "papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "rVQbv85Wpzxgo0ez8iOw",
@@ -2736,7 +2837,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Vector Calculus and Partial Differential Equations",
   "course_code": "MA1201",
@@ -2744,8 +2845,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.pdf",
-  "transcript": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "trl5w0gx9m7mzPnzR7LH",
@@ -2760,7 +2862,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Vector Calculus and Partial Differential Equations",
   "course_code": "MA1201",
@@ -2768,8 +2870,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.pdf",
-  "transcript": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "YMv5MfbXZfD03NV1405C",
@@ -2785,7 +2888,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Vector Calculus and Partial Differential Equations",
   "course_code": "MA1201",
@@ -2793,8 +2896,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.pdf",
-  "transcript": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "t5YPTnsWahy5kyBjf5BQ",
@@ -2809,7 +2913,7 @@
    ]
   },
   "status": "included",
-  "department": "MATHS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Vector Calculus and Partial Differential Equations",
   "course_code": "MA1201",
@@ -2817,8 +2921,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.pdf",
-  "transcript": "papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "W03KSAGjvPDLfw6GN7iZ",
@@ -2843,7 +2948,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.pdf",
-  "transcript": "papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.md"
+  "transcript": "papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "eSCkM1x0wU5xt6qHGlNv",
@@ -2867,7 +2973,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.pdf",
-  "transcript": "papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.md"
+  "transcript": "papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "Bf3Upmr7wCFMvrYCdALT",
@@ -2892,7 +2999,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.pdf",
-  "transcript": "papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.md"
+  "transcript": "papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "JhIOhtHOMaR8dEjRp3cG",
@@ -2916,7 +3024,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.pdf",
-  "transcript": "papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.md"
+  "transcript": "papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "288O1Wo21sFVb5wSU0u5",
@@ -2941,7 +3050,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.pdf",
-  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.md"
+  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "OXi8KWImCkQWIUyyVojn",
@@ -2965,7 +3075,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.pdf",
-  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.md"
+  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "jm8fhZXSuo46Qe7dGMeL",
@@ -2990,7 +3101,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.pdf",
-  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.md"
+  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "uLpRNWSRp1n0E3vPjbay",
@@ -3014,7 +3126,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.pdf",
-  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.md"
+  "transcript": "papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "apWZxFdEIibhS94WrY3K",
@@ -3038,7 +3151,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.pdf",
-  "transcript": "papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.md"
+  "transcript": "papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "9S6xMReLzKOct9lg02CM",
@@ -3062,7 +3176,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.pdf",
-  "transcript": "papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.md"
+  "transcript": "papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "O7S5kTJ7kULzc4zbfAxO",
@@ -3087,7 +3202,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.pdf",
-  "transcript": "papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.md"
+  "transcript": "papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.md",
+  "uploaded_under": "MATHS"
  },
  {
   "id": "jUQ08Ytcl06ejcnVIxAs",
@@ -3112,7 +3228,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.pdf",
-  "transcript": "papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.md"
+  "transcript": "papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "GXget5RKmZwGzlDdpKHy",
@@ -3136,7 +3253,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/MID-SEM_2023_GXget5.pdf",
-  "transcript": "papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/MID-SEM_2023_GXget5.md"
+  "transcript": "papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/MID-SEM_2023_GXget5.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "qCRLmYp2ZN2hZMecmRXi",
@@ -3161,7 +3279,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.pdf",
-  "transcript": "papers/MECH/Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.md"
+  "transcript": "papers/MECH/Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "bjFnunvOA6eWuuDM52IN",
@@ -3185,7 +3304,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.pdf",
-  "transcript": "papers/MECH/Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.md"
+  "transcript": "papers/MECH/Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "aKF173ecwlkqPeNSlikJ",
@@ -3210,7 +3330,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-3/Mechanics-of-Materials/END-SEM_2023_aKF173.pdf",
-  "transcript": "papers/MECH/Semester-3/Mechanics-of-Materials/END-SEM_2023_aKF173.md"
+  "transcript": "papers/MECH/Semester-3/Mechanics-of-Materials/END-SEM_2023_aKF173.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "7AKHFCBi67S6bxoWmxsX",
@@ -3234,7 +3355,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-3/Mechanics-of-Materials/MID-SEM_2023_7AKHFC.pdf",
-  "transcript": "papers/MECH/Semester-3/Mechanics-of-Materials/MID-SEM_2023_7AKHFC.md"
+  "transcript": "papers/MECH/Semester-3/Mechanics-of-Materials/MID-SEM_2023_7AKHFC.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "qc09LWyrydWxV2RlRgy8",
@@ -3259,7 +3381,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-3/Theory-of-Machines/END-SEM_2023_qc09LW.pdf",
-  "transcript": "papers/MECH/Semester-3/Theory-of-Machines/END-SEM_2023_qc09LW.md"
+  "transcript": "papers/MECH/Semester-3/Theory-of-Machines/END-SEM_2023_qc09LW.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "41w4bIa0KzRQcmnw8IB0",
@@ -3283,7 +3406,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-3/Theory-of-Machines/MID-SEM_2023_41w4bI.pdf",
-  "transcript": "papers/MECH/Semester-3/Theory-of-Machines/MID-SEM_2023_41w4bI.md"
+  "transcript": "papers/MECH/Semester-3/Theory-of-Machines/MID-SEM_2023_41w4bI.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "D62qBLlsm5gxi6oIvVcG",
@@ -3308,7 +3432,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Applied-Thermodynamics/END-SEM_2025_D62qBL.pdf",
-  "transcript": "papers/MECH/Semester-4/Applied-Thermodynamics/END-SEM_2025_D62qBL.md"
+  "transcript": "papers/MECH/Semester-4/Applied-Thermodynamics/END-SEM_2025_D62qBL.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "YzEeYPbKQG18QzqlmM0i",
@@ -3333,7 +3458,8 @@
   "reappear": true,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Applied-Thermodynamics/END-SEM_2025_Reappear_YzEeYP.pdf",
-  "transcript": "papers/MECH/Semester-4/Applied-Thermodynamics/END-SEM_2025_Reappear_YzEeYP.md"
+  "transcript": "papers/MECH/Semester-4/Applied-Thermodynamics/END-SEM_2025_Reappear_YzEeYP.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "iGMpUxoJH7qQs3uPNN0d",
@@ -3358,7 +3484,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Applied-Thermodynamics/MID-SEM_2025_iGMpUx.pdf",
-  "transcript": "papers/MECH/Semester-4/Applied-Thermodynamics/MID-SEM_2025_iGMpUx.md"
+  "transcript": "papers/MECH/Semester-4/Applied-Thermodynamics/MID-SEM_2025_iGMpUx.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "YmrnYXna9O3zbMqGKMYA",
@@ -3383,7 +3510,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Dynamics-of-Machines/END-SEM_undated_YmrnYX.pdf",
-  "transcript": "papers/MECH/Semester-4/Dynamics-of-Machines/END-SEM_undated_YmrnYX.md"
+  "transcript": "papers/MECH/Semester-4/Dynamics-of-Machines/END-SEM_undated_YmrnYX.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "uKcCw4V1YUa4UygNdLnD",
@@ -3407,7 +3535,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-4/Dynamics-of-Machines/MID-SEM_2025_uKcCw4.pdf",
-  "transcript": "papers/MECH/Semester-4/Dynamics-of-Machines/MID-SEM_2025_uKcCw4.md"
+  "transcript": "papers/MECH/Semester-4/Dynamics-of-Machines/MID-SEM_2025_uKcCw4.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "I1FkrKpQiQdvocp8Nwjs",
@@ -3432,7 +3561,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2025_I1FkrK.pdf",
-  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2025_I1FkrK.md"
+  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2025_I1FkrK.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "IiwBMYnTTSyboQwxsNiB",
@@ -3457,7 +3587,8 @@
   "reappear": true,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2025_Reappear_IiwBMY.pdf",
-  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2025_Reappear_IiwBMY.md"
+  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2025_Reappear_IiwBMY.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "X5RMlPpGw1YVi2S5ZbaW",
@@ -3482,7 +3613,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2026_X5RMlP.pdf",
-  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2026_X5RMlP.md"
+  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/END-SEM_2026_X5RMlP.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "jAIzPBV2OEct0naiteVp",
@@ -3506,7 +3638,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-4/Manufacturing-Processes/MID-SEM_2026_jAIzPB.pdf",
-  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/MID-SEM_2026_jAIzPB.md"
+  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/MID-SEM_2026_jAIzPB.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "906eoaCI9YxAUW8G4OOD",
@@ -3530,7 +3663,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-4/Manufacturing-Processes/MID-SEM_2025_906eoa.pdf",
-  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/MID-SEM_2025_906eoa.md"
+  "transcript": "papers/MECH/Semester-4/Manufacturing-Processes/MID-SEM_2025_906eoa.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "zw66L1ynU7vka5nSnbfl",
@@ -3570,7 +3704,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Mechanical-Vibrations/END-SEM_2024_kSXTmm.pdf",
-  "transcript": "papers/MECH/Semester-4/Mechanical-Vibrations/END-SEM_2024_kSXTmm.md"
+  "transcript": "papers/MECH/Semester-4/Mechanical-Vibrations/END-SEM_2024_kSXTmm.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "0vTxv9zW2BhNL90ebK8j",
@@ -3595,7 +3730,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Mechanical-Vibrations/MID-SEM_undated_0vTxv9.pdf",
-  "transcript": "papers/MECH/Semester-4/Mechanical-Vibrations/MID-SEM_undated_0vTxv9.md"
+  "transcript": "papers/MECH/Semester-4/Mechanical-Vibrations/MID-SEM_undated_0vTxv9.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "olAzqbLib96Iv09f0Ls6",
@@ -3636,7 +3772,8 @@
   "reappear": true,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2026_Reappear_2NM6e8.pdf",
-  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2026_Reappear_2NM6e8.md"
+  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2026_Reappear_2NM6e8.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "3pG76nuMyUCbbtioo7D0",
@@ -3661,7 +3798,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2026_3pG76n.pdf",
-  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2026_3pG76n.md"
+  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2026_3pG76n.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "56WW44mL9ckrGSHqmN3A",
@@ -3686,7 +3824,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2025_56WW44.pdf",
-  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2025_56WW44.md"
+  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2025_56WW44.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "VQabDypudjtfrf9O0fbb",
@@ -3711,7 +3850,8 @@
   "reappear": true,
   "pages": 2,
   "pdf": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2025_Reappear_VQabDy.pdf",
-  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2025_Reappear_VQabDy.md"
+  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/END-SEM_2025_Reappear_VQabDy.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "9EOQ0w4ZToQfH4lNuJRi",
@@ -3735,7 +3875,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/MID-SEM_2026_9EOQ0w.pdf",
-  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/MID-SEM_2026_9EOQ0w.md"
+  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/MID-SEM_2026_9EOQ0w.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "JG5YNQ2t3amFijRO5Ejp",
@@ -3759,7 +3900,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/MID-SEM_2025_JG5YNQ.pdf",
-  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/MID-SEM_2025_JG5YNQ.md"
+  "transcript": "papers/MECH/Semester-4/Refrigeration-and-Air-Conditioning/MID-SEM_2025_JG5YNQ.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "JG6DuCVCzApfp9qvKHnH",
@@ -3784,7 +3926,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-5/Computer-Aided-Design/END-SEM_2024_JG6DuC.pdf",
-  "transcript": "papers/MECH/Semester-5/Computer-Aided-Design/END-SEM_2024_JG6DuC.md"
+  "transcript": "papers/MECH/Semester-5/Computer-Aided-Design/END-SEM_2024_JG6DuC.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "KEejaCBqNZCphKzwiiYv",
@@ -3808,7 +3951,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-5/Computer-Aided-Design/MID-SEM_2024_KEejaC.pdf",
-  "transcript": "papers/MECH/Semester-5/Computer-Aided-Design/MID-SEM_2024_KEejaC.md"
+  "transcript": "papers/MECH/Semester-5/Computer-Aided-Design/MID-SEM_2024_KEejaC.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "CpF0f4P6GTgr0s4kOoOi",
@@ -3833,7 +3977,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-5/Design-of-Mechanical-Systems/END-SEM_2024_CpF0f4.pdf",
-  "transcript": "papers/MECH/Semester-5/Design-of-Mechanical-Systems/END-SEM_2024_CpF0f4.md"
+  "transcript": "papers/MECH/Semester-5/Design-of-Mechanical-Systems/END-SEM_2024_CpF0f4.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "6JzTLBWoqW5wVTZgkMoV",
@@ -3857,7 +4002,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-5/Design-of-Mechanical-Systems/MID-SEM_2024_6JzTLB.pdf",
-  "transcript": "papers/MECH/Semester-5/Design-of-Mechanical-Systems/MID-SEM_2024_6JzTLB.md"
+  "transcript": "papers/MECH/Semester-5/Design-of-Mechanical-Systems/MID-SEM_2024_6JzTLB.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "8a69JbaonNPxwk594kyD",
@@ -3882,7 +4028,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-5/Heat-and-Mass-Transfer/END-SEM_2024_8a69Jb.pdf",
-  "transcript": "papers/MECH/Semester-5/Heat-and-Mass-Transfer/END-SEM_2024_8a69Jb.md"
+  "transcript": "papers/MECH/Semester-5/Heat-and-Mass-Transfer/END-SEM_2024_8a69Jb.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "hwxe8zTpQCzS06lXerJA",
@@ -3906,7 +4053,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-5/Heat-and-Mass-Transfer/MID-SEM_2024_hwxe8z.pdf",
-  "transcript": "papers/MECH/Semester-5/Heat-and-Mass-Transfer/MID-SEM_2024_hwxe8z.md"
+  "transcript": "papers/MECH/Semester-5/Heat-and-Mass-Transfer/MID-SEM_2024_hwxe8z.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "4dSYi8qVJKlYE6XWuCnJ",
@@ -3930,7 +4078,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-5/Non-Conventional-Energy-Resources/END-SEM_2024_4dSYi8.pdf",
-  "transcript": "papers/MECH/Semester-5/Non-Conventional-Energy-Resources/END-SEM_2024_4dSYi8.md"
+  "transcript": "papers/MECH/Semester-5/Non-Conventional-Energy-Resources/END-SEM_2024_4dSYi8.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "7DtTaPoL7MxOwzLl7Nn9",
@@ -3954,7 +4103,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-5/Non-Conventional-Energy-Resources/MID-SEM_2024_7DtTaP.pdf",
-  "transcript": "papers/MECH/Semester-5/Non-Conventional-Energy-Resources/MID-SEM_2024_7DtTaP.md"
+  "transcript": "papers/MECH/Semester-5/Non-Conventional-Energy-Resources/MID-SEM_2024_7DtTaP.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "jxWmDAYxZw843ty2Hmr6",
@@ -3979,7 +4129,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-5/Production-and-Operations-Management/END-SEM_2024_jxWmDA.pdf",
-  "transcript": "papers/MECH/Semester-5/Production-and-Operations-Management/END-SEM_2024_jxWmDA.md"
+  "transcript": "papers/MECH/Semester-5/Production-and-Operations-Management/END-SEM_2024_jxWmDA.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "glLkWr2plyNKhSr61Z5X",
@@ -4003,7 +4154,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-5/Production-and-Operations-Management/MID-SEM_2024_glLkWr.pdf",
-  "transcript": "papers/MECH/Semester-5/Production-and-Operations-Management/MID-SEM_2024_glLkWr.md"
+  "transcript": "papers/MECH/Semester-5/Production-and-Operations-Management/MID-SEM_2024_glLkWr.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "ocKtSreQ7SJBgzjBLQLn",
@@ -4028,7 +4180,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-5/Production-Engineering/END-SEM_2024_ocKtSr.pdf",
-  "transcript": "papers/MECH/Semester-5/Production-Engineering/END-SEM_2024_ocKtSr.md"
+  "transcript": "papers/MECH/Semester-5/Production-Engineering/END-SEM_2024_ocKtSr.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "JdntJaSfVQCXjudJzFS4",
@@ -4052,7 +4205,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-7/Automotive-Engineering/END-SEM_2016_JdntJa.pdf",
-  "transcript": "papers/MECH/Semester-7/Automotive-Engineering/END-SEM_2016_JdntJa.md"
+  "transcript": "papers/MECH/Semester-7/Automotive-Engineering/END-SEM_2016_JdntJa.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "N54zqgQzvDpixdSGNwcC",
@@ -4076,7 +4230,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-7/Automotive-Engineering/END-SEM_2025_N54zqg.pdf",
-  "transcript": "papers/MECH/Semester-7/Automotive-Engineering/END-SEM_2025_N54zqg.md"
+  "transcript": "papers/MECH/Semester-7/Automotive-Engineering/END-SEM_2025_N54zqg.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "gpbvaxNCQFrdryDqZgI5",
@@ -4100,7 +4255,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-7/Automotive-Engineering/MID-SEM_undated_gpbvax.pdf",
-  "transcript": "papers/MECH/Semester-7/Automotive-Engineering/MID-SEM_undated_gpbvax.md"
+  "transcript": "papers/MECH/Semester-7/Automotive-Engineering/MID-SEM_undated_gpbvax.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "npDRIY8w9K4paoSEdOyC",
@@ -4124,7 +4280,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-7/Modeling-and-Simulation/END-SEM_2025_npDRIY.pdf",
-  "transcript": "papers/MECH/Semester-7/Modeling-and-Simulation/END-SEM_2025_npDRIY.md"
+  "transcript": "papers/MECH/Semester-7/Modeling-and-Simulation/END-SEM_2025_npDRIY.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "VQkNCqH4z3wjI9g0kiGd",
@@ -4148,7 +4305,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-7/Modeling-and-Simulation/MID-SEM_2025_VQkNCq.pdf",
-  "transcript": "papers/MECH/Semester-7/Modeling-and-Simulation/MID-SEM_2025_VQkNCq.md"
+  "transcript": "papers/MECH/Semester-7/Modeling-and-Simulation/MID-SEM_2025_VQkNCq.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "4nAYaUBQxA1A5VdJ6YEf",
@@ -4172,7 +4330,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-8/Engineering-Metallurgy/END-SEM_2025_4nAYaU.pdf",
-  "transcript": "papers/MECH/Semester-8/Engineering-Metallurgy/END-SEM_2025_4nAYaU.md"
+  "transcript": "papers/MECH/Semester-8/Engineering-Metallurgy/END-SEM_2025_4nAYaU.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "nWCkzRpquQJvdB68CkAv",
@@ -4196,7 +4355,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-8/Engineering-Metallurgy/END-SEM_2025_nWCkzR.pdf",
-  "transcript": "papers/MECH/Semester-8/Engineering-Metallurgy/END-SEM_2025_nWCkzR.md"
+  "transcript": "papers/MECH/Semester-8/Engineering-Metallurgy/END-SEM_2025_nWCkzR.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "3gZYVel8uZTi0LjTONuq",
@@ -4220,7 +4380,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-8/Engineering-Metallurgy/MID-SEM_2025_3gZYVe.pdf",
-  "transcript": "papers/MECH/Semester-8/Engineering-Metallurgy/MID-SEM_2025_3gZYVe.md"
+  "transcript": "papers/MECH/Semester-8/Engineering-Metallurgy/MID-SEM_2025_3gZYVe.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "DcLlu8b3tVNORM3U7byc",
@@ -4245,7 +4406,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.pdf",
-  "transcript": "papers/MECH/Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.md"
+  "transcript": "papers/MECH/Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "EcMrGoQaGa9UuArxDN4h",
@@ -4270,7 +4432,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.pdf",
-  "transcript": "papers/MECH/Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.md"
+  "transcript": "papers/MECH/Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "McyGn8rkF4z86ovjCuYs",
@@ -4294,7 +4457,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-7/Advanced-Engineering-Materials/MID-SEM_undated_McyGn8.pdf",
-  "transcript": "papers/META/Semester-7/Advanced-Engineering-Materials/MID-SEM_undated_McyGn8.md"
+  "transcript": "papers/META/Semester-7/Advanced-Engineering-Materials/MID-SEM_undated_McyGn8.md",
+  "uploaded_under": "META"
  },
  {
   "id": "aAB0W5qDpFC6vGIFx6xE",
@@ -4310,7 +4474,7 @@
    ]
   },
   "status": "included",
-  "department": "PHYSICS",
+  "department": "COMMON",
   "semester": 1,
   "course": "Mechanics and Optics",
   "course_code": "PY1101",
@@ -4318,8 +4482,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/PHYSICS/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.pdf",
-  "transcript": "papers/PHYSICS/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.md"
+  "pdf": "papers/COMMON/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.pdf",
+  "transcript": "papers/COMMON/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.md",
+  "uploaded_under": "PHYSICS"
  },
  {
   "id": "mtrxgH9vXQzVphLOVbiQ",
@@ -4335,7 +4500,7 @@
    ]
   },
   "status": "included",
-  "department": "PHYSICS",
+  "department": "COMMON",
   "semester": 1,
   "course": "Mechanics and Optics",
   "course_code": "PY1101",
@@ -4343,8 +4508,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/PHYSICS/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.pdf",
-  "transcript": "papers/PHYSICS/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.md"
+  "pdf": "papers/COMMON/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.pdf",
+  "transcript": "papers/COMMON/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.md",
+  "uploaded_under": "PHYSICS"
  },
  {
   "id": "tDYcPkeLRQIZnMyKywG5",
@@ -4359,16 +4525,18 @@
    ]
   },
   "status": "included",
-  "department": "PHYSICS",
+  "department": "COMMON",
   "semester": 2,
   "course": "Electromagnetic Theory and Quantum Physics",
-  "course_code": "",
+  "course_code": "PY2301",
   "exam": "MID-SEM",
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/PHYSICS/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.pdf",
-  "transcript": "papers/PHYSICS/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.md"
+  "pdf": "papers/COMMON/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.pdf",
+  "transcript": "papers/COMMON/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.md",
+  "uploaded_under": "PHYSICS",
+  "code_fixed": true
  },
  {
   "id": "uGLvdaBaRnJYzzVoNYX3",
@@ -4383,7 +4551,7 @@
    ]
   },
   "status": "included",
-  "department": "PROD",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Manufacturing",
   "course_code": "ES1501",
@@ -4391,8 +4559,9 @@
   "year": "2022",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/PROD/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.pdf",
-  "transcript": "papers/PROD/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "flLtAG68jIMfuJyggGe8",
@@ -4407,7 +4576,7 @@
    ]
   },
   "status": "included",
-  "department": "PROD",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Manufacturing",
   "course_code": "ES1501",
@@ -4415,8 +4584,9 @@
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/PROD/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.pdf",
-  "transcript": "papers/PROD/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "FWtyhfxJVZ5uT1eY9ysh",
@@ -4440,7 +4610,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-7/Industrial-Trilogy/MID-SEM_undated_FWtyhf.pdf",
-  "transcript": "papers/PROD/Semester-7/Industrial-Trilogy/MID-SEM_undated_FWtyhf.md"
+  "transcript": "papers/PROD/Semester-7/Industrial-Trilogy/MID-SEM_undated_FWtyhf.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "HSBCBOtWgmdNYXmzFflF",
@@ -4479,7 +4650,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/END-SEM_2024_NIzXqa.pdf",
-  "transcript": "papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/END-SEM_2024_NIzXqa.md"
+  "transcript": "papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/END-SEM_2024_NIzXqa.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "RaofB1dD9i9bCNBAomO8",
@@ -4518,7 +4690,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-7/Product-Design-and-Development/MID-SEM_undated_DlrZXj.pdf",
-  "transcript": "papers/PROD/Semester-7/Product-Design-and-Development/MID-SEM_undated_DlrZXj.md"
+  "transcript": "papers/PROD/Semester-7/Product-Design-and-Development/MID-SEM_undated_DlrZXj.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_user_uploads:End_Sem.zip/Calculus Est.pdf:1-2",
@@ -4531,7 +4704,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Calculus",
   "course_code": "MA2301",
@@ -4539,8 +4712,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:Mid_Sem.zip/Calculus.pdf:1-2",
@@ -4553,7 +4727,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Calculus",
   "course_code": "MA2301",
@@ -4561,8 +4735,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:End_Sem.zip/Communication skills Est.pdf:1-2",
@@ -4575,7 +4750,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Communication Skills",
   "course_code": "HS2351",
@@ -4583,8 +4758,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:End_Sem.zip/EVS est.pdf:1-2",
@@ -4597,7 +4773,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Environmental Sciences",
   "course_code": "GS2301",
@@ -4605,8 +4781,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:Mid_Sem.zip/EVS mst.pdf:1-2",
@@ -4619,7 +4796,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Environmental Sciences",
   "course_code": "GS2301",
@@ -4627,8 +4804,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:End_Sem.zip/IEEE est.pdf:1-2",
@@ -4641,7 +4819,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Electronics and Electrical Engineering",
   "course_code": "ES2305",
@@ -4649,8 +4827,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:Mid_Sem.zip/IEEE mst.pdf:1-2",
@@ -4663,7 +4842,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Electronics and Electrical Engineering",
   "course_code": "ES2305",
@@ -4671,8 +4850,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:End_Sem.zip/Intro to CP Est.pdf:1-2",
@@ -4685,7 +4865,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Computer Programming",
   "course_code": "ES2301",
@@ -4693,8 +4873,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:Mid_Sem.zip/Intro to Computer programming.pdf:1-1",
@@ -4707,7 +4888,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Introduction to Computer Programming",
   "course_code": "ES2301",
@@ -4715,8 +4896,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:End_Sem.zip/Physics Est.pdf:1-2",
@@ -4729,7 +4911,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Electromagnetic Theory and Quantum Physics",
   "course_code": "PY2301",
@@ -4737,8 +4919,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:Mid_Sem.zip/Physics mst.pdf:1-1",
@@ -4751,7 +4934,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 1,
   "course": "Electromagnetic Theory and Quantum Physics",
   "course_code": "PY2301",
@@ -4759,8 +4942,9 @@
   "year": "2023",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_END_terms.pdf:1-2",
@@ -4773,16 +4957,17 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
-  "course": "Engineering Drawing using CAD Software",
+  "course": "Engineering Drawing with CAD Software",
   "course_code": "ES2302",
   "exam": "END-SEM",
   "year": "2024",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/END-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_END_terms.pdf:3-3",
@@ -4795,7 +4980,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Universal Human Values",
   "course_code": "GS2302",
@@ -4803,8 +4988,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_END_terms.pdf:4-5",
@@ -4817,7 +5003,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Mechatronics",
   "course_code": "ES2304",
@@ -4825,8 +5011,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_END_terms.pdf:6-7",
@@ -4839,16 +5026,17 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
-  "course": "Applied Chemistry",
+  "course": "Applied Chemistry I",
   "course_code": "CH2301",
   "exam": "END-SEM",
   "year": "2024",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-2/Applied-Chemistry/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Applied-Chemistry/END-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_END_terms.pdf:8-8",
@@ -4861,7 +5049,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Differential Equations and Vector Calculus",
   "course_code": "MA2302",
@@ -4869,8 +5057,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_Mid_terms.pdf:1-1",
@@ -4883,16 +5072,17 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
-  "course": "Engineering Drawing using CAD Software",
+  "course": "Engineering Drawing with CAD Software",
   "course_code": "ES2302",
   "exam": "MID-SEM",
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/MID-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_Mid_terms.pdf:4-4",
@@ -4905,16 +5095,17 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
-  "course": "Engineering Drawing using CAD Software",
+  "course": "Engineering Drawing with CAD Software",
   "course_code": "ES2302",
   "exam": "PRACTICAL",
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/PRACTICAL_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/PRACTICAL_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/PRACTICAL_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/PRACTICAL_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_Mid_terms.pdf:2-2",
@@ -4927,16 +5118,17 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
-  "course": "Applied Chemistry",
+  "course": "Applied Chemistry I",
   "course_code": "CH2301",
   "exam": "MID-SEM",
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Applied-Chemistry/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Applied-Chemistry/MID-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Applied-Chemistry-I/MID-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Applied-Chemistry-I/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_Mid_terms.pdf:3-3",
@@ -4949,7 +5141,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Linear Algebra, Differential Equations and Vector Calculus",
   "course_code": "MA2302",
@@ -4957,8 +5149,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:2ndSem_Mid_terms.pdf:5-5",
@@ -4971,7 +5164,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "COMMON",
   "semester": 2,
   "course": "Introduction to Mechatronics",
   "course_code": "ES2304",
@@ -4979,8 +5172,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/EE/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_MST.pdf:1-2",
@@ -5002,7 +5196,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Power-System-Engineering/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Power-System-Engineering/MID-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Power-System-Engineering/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_MST.pdf:3-4",
@@ -5024,7 +5219,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_MST.pdf:5-5",
@@ -5046,7 +5242,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_MST.pdf:6-6",
@@ -5068,7 +5265,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_MST.pdf:7-8",
@@ -5081,7 +5279,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "HSM",
   "semester": 3,
   "course": "Essentials of Finance",
   "course_code": "MHN2003",
@@ -5089,8 +5287,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/HSM/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/HSM/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_MST.pdf:9-9",
@@ -5112,7 +5311,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_EST.pdf:1-1",
@@ -5134,7 +5334,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_EST.pdf:2-2",
@@ -5156,7 +5357,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_EST.pdf:3-4",
@@ -5178,7 +5380,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Power-System-Engineering/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Power-System-Engineering/END-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Power-System-Engineering/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_EST.pdf:5-6",
@@ -5191,7 +5394,7 @@
    ]
   },
   "status": "included",
-  "department": "EE",
+  "department": "HSM",
   "semester": 3,
   "course": "Essentials of Finance",
   "course_code": "MHN2003",
@@ -5199,8 +5402,9 @@
   "year": "2024",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.md"
+  "pdf": "papers/HSM/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.pdf",
+  "transcript": "papers/HSM/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_EST.pdf:7-8",
@@ -5222,7 +5426,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Object-Oriented-Programming/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Object-Oriented-Programming/END-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Object-Oriented-Programming/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:3rdSem_EST.pdf:9-10",
@@ -5244,7 +5449,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:1-1",
@@ -5266,7 +5472,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-5/Power-System-Protection-and-Switchgear/MID-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Power-System-Protection-and-Switchgear/MID-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Power-System-Protection-and-Switchgear/MID-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:2-3",
@@ -5288,7 +5495,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-5/Power-System-Protection-and-Switchgear/END-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Power-System-Protection-and-Switchgear/END-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Power-System-Protection-and-Switchgear/END-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:4-4",
@@ -5310,7 +5518,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-5/Electric-Drives/MID-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Electric-Drives/MID-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Electric-Drives/MID-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:5-6",
@@ -5332,7 +5541,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-5/Electric-Drives/END-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Electric-Drives/END-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Electric-Drives/END-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:7-7",
@@ -5354,7 +5564,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-5/Electric-Vehicles/MID-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Electric-Vehicles/MID-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Electric-Vehicles/MID-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:8-9",
@@ -5376,7 +5587,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-5/Electric-Vehicles/END-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Electric-Vehicles/END-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Electric-Vehicles/END-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:10-10",
@@ -5398,7 +5610,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-5/Microprocessor-and-Microcontroller/MID-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Microprocessor-and-Microcontroller/MID-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Microprocessor-and-Microcontroller/MID-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:11-12",
@@ -5420,7 +5633,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-5/Microprocessor-and-Microcontroller/END-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Microprocessor-and-Microcontroller/END-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Microprocessor-and-Microcontroller/END-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_user_uploads:SEM_5_PYQ_2025-26.docx:13-14",
@@ -5442,7 +5656,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.pdf",
-  "transcript": "papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.md"
+  "transcript": "papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g002",
@@ -5462,7 +5677,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.pdf",
-  "transcript": "papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.md"
+  "transcript": "papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g003",
@@ -5483,7 +5699,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.pdf",
-  "transcript": "papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.md"
+  "transcript": "papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g005",
@@ -5504,7 +5721,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.pdf",
-  "transcript": "papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.md"
+  "transcript": "papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g007",
@@ -5525,7 +5743,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.pdf",
-  "transcript": "papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.md"
+  "transcript": "papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g010",
@@ -5546,7 +5765,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/AERO/Semester-unknown/Aircraft-Materials-and-Processes/END-SEM_undated_pecss-g010.pdf",
-  "transcript": "papers/AERO/Semester-unknown/Aircraft-Materials-and-Processes/END-SEM_undated_pecss-g010.md"
+  "transcript": "papers/AERO/Semester-unknown/Aircraft-Materials-and-Processes/END-SEM_undated_pecss-g010.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "2026-11-22_github_pec-css:g011",
@@ -5566,7 +5786,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/AERO/Semester-3/Aircraft-Propulsion/END-SEM_2017_pecss-g011.pdf",
-  "transcript": "papers/AERO/Semester-3/Aircraft-Propulsion/END-SEM_2017_pecss-g011.md"
+  "transcript": "papers/AERO/Semester-3/Aircraft-Propulsion/END-SEM_2017_pecss-g011.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "2026-11-22_github_pec-css:g012",
@@ -5588,7 +5809,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.pdf",
-  "transcript": "papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.md"
+  "transcript": "papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "2026-11-22_github_pec-css:g016",
@@ -5609,7 +5831,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.pdf",
-  "transcript": "papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.md"
+  "transcript": "papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g018",
@@ -5630,7 +5853,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.pdf",
-  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.md"
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g021",
@@ -5651,7 +5875,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.pdf",
-  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.md"
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g022",
@@ -5671,7 +5896,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.pdf",
-  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.md"
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g027",
@@ -5692,7 +5918,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.pdf",
-  "transcript": "papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.md"
+  "transcript": "papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g028",
@@ -5713,7 +5940,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.pdf",
-  "transcript": "papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.md"
+  "transcript": "papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g029",
@@ -5733,7 +5961,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2016_pecss-g029.pdf",
-  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2016_pecss-g029.md"
+  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2016_pecss-g029.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g030",
@@ -5754,7 +5983,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-7/Biomedical-Engineering/END-SEM_2021_pecss-g030.pdf",
-  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/END-SEM_2021_pecss-g030.md"
+  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/END-SEM_2021_pecss-g030.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g031",
@@ -5774,7 +6004,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2021_pecss-g031.pdf",
-  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2021_pecss-g031.md"
+  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2021_pecss-g031.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g034",
@@ -5795,7 +6026,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.pdf",
-  "transcript": "papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md"
+  "transcript": "papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_github_pec-css:g035",
@@ -5815,7 +6047,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.pdf",
-  "transcript": "papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md"
+  "transcript": "papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_github_pec-css:g036",
@@ -5836,7 +6069,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/META/Semester-3/Ceramics/MID-SEM_2016_pecss-g036.pdf",
-  "transcript": "papers/META/Semester-3/Ceramics/MID-SEM_2016_pecss-g036.md"
+  "transcript": "papers/META/Semester-3/Ceramics/MID-SEM_2016_pecss-g036.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g038",
@@ -5857,7 +6091,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/END-SEM_2021_pecss-g038.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/END-SEM_2021_pecss-g038.md"
+  "transcript": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/END-SEM_2021_pecss-g038.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g039",
@@ -5877,7 +6112,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/QUIZ_2021_pecss-g039.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/QUIZ_2021_pecss-g039.md"
+  "transcript": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/QUIZ_2021_pecss-g039.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g045",
@@ -5898,7 +6134,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2021_pecss-g045.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2021_pecss-g045.md"
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2021_pecss-g045.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g046",
@@ -5919,7 +6156,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-5/Structural-Analysis-II/END-SEM_2021_pecss-g046.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Structural-Analysis-II/END-SEM_2021_pecss-g046.md"
+  "transcript": "papers/CIVIL/Semester-5/Structural-Analysis-II/END-SEM_2021_pecss-g046.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g047",
@@ -5940,7 +6178,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-5/Transportation-Engineering-II/END-SEM_2021_pecss-g047.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Transportation-Engineering-II/END-SEM_2021_pecss-g047.md"
+  "transcript": "papers/CIVIL/Semester-5/Transportation-Engineering-II/END-SEM_2021_pecss-g047.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g048",
@@ -5963,7 +6202,8 @@
   "reappear": false,
   "pages": 4,
   "pdf": "papers/CIVIL/Semester-5/Environmental-Engineering-I/END-SEM_2021_pecss-g048.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Environmental-Engineering-I/END-SEM_2021_pecss-g048.md"
+  "transcript": "papers/CIVIL/Semester-5/Environmental-Engineering-I/END-SEM_2021_pecss-g048.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g051",
@@ -5983,7 +6223,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-8/Cloud-Computing/MID-SEM_undated_pecss-g051.pdf",
-  "transcript": "papers/CSE/Semester-8/Cloud-Computing/MID-SEM_undated_pecss-g051.md"
+  "transcript": "papers/CSE/Semester-8/Cloud-Computing/MID-SEM_undated_pecss-g051.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g053",
@@ -6004,7 +6245,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.pdf",
-  "transcript": "papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.md"
+  "transcript": "papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g054",
@@ -6024,7 +6266,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.pdf",
-  "transcript": "papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.md"
+  "transcript": "papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g055",
@@ -6044,7 +6287,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.pdf",
-  "transcript": "papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.md"
+  "transcript": "papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g056",
@@ -6057,15 +6301,17 @@
   },
   "status": "included",
   "department": "CSE",
-  "semester": "unknown",
+  "semester": 3,
   "course": "Computer Architecture",
-  "course_code": "",
+  "course_code": "CSN202",
   "exam": "END-SEM",
   "year": "2021",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/CSE/Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.pdf",
-  "transcript": "papers/CSE/Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.md"
+  "pdf": "papers/CSE/Semester-3/Computer-Architecture/END-SEM_2021_pecss-g056.pdf",
+  "transcript": "papers/CSE/Semester-3/Computer-Architecture/END-SEM_2021_pecss-g056.md",
+  "uploaded_under": "CSE",
+  "code_fixed": true
  },
  {
   "id": "2026-11-22_github_pec-css:g060",
@@ -6086,7 +6332,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.pdf",
-  "transcript": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md"
+  "transcript": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g062",
@@ -6106,7 +6353,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.pdf",
-  "transcript": "papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.md"
+  "transcript": "papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g063",
@@ -6127,7 +6375,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-4/Database-Management-Systems/MID-SEM_2020_pecss-g063.pdf",
-  "transcript": "papers/CSE/Semester-4/Database-Management-Systems/MID-SEM_2020_pecss-g063.md"
+  "transcript": "papers/CSE/Semester-4/Database-Management-Systems/MID-SEM_2020_pecss-g063.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g065",
@@ -6148,7 +6397,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.pdf",
-  "transcript": "papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.md"
+  "transcript": "papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g067",
@@ -6168,7 +6418,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-4/Digital-Signal-Processing/MID-SEM_2017_pecss-g067.pdf",
-  "transcript": "papers/ECE/Semester-4/Digital-Signal-Processing/MID-SEM_2017_pecss-g067.md"
+  "transcript": "papers/ECE/Semester-4/Digital-Signal-Processing/MID-SEM_2017_pecss-g067.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g071",
@@ -6189,7 +6440,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-4/Digital-Signal-Processing/END-SEM_2017_pecss-g071.pdf",
-  "transcript": "papers/ECE/Semester-4/Digital-Signal-Processing/END-SEM_2017_pecss-g071.md"
+  "transcript": "papers/ECE/Semester-4/Digital-Signal-Processing/END-SEM_2017_pecss-g071.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g069",
@@ -6210,7 +6462,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.pdf",
-  "transcript": "papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.md"
+  "transcript": "papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g074",
@@ -6231,7 +6484,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_undated_pecss-g074.pdf",
-  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_undated_pecss-g074.md"
+  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_undated_pecss-g074.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g076",
@@ -6251,7 +6505,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/END-SEM_2017_pecss-g076.pdf",
-  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/END-SEM_2017_pecss-g076.md"
+  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/END-SEM_2017_pecss-g076.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g077",
@@ -6271,7 +6526,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_2019_pecss-g077.pdf",
-  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_2019_pecss-g077.md"
+  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_2019_pecss-g077.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g078",
@@ -6291,7 +6547,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.pdf",
-  "transcript": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.md"
+  "transcript": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g081",
@@ -6312,7 +6569,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/END-SEM_undated_pecss-g081.pdf",
-  "transcript": "papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/END-SEM_undated_pecss-g081.md"
+  "transcript": "papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/END-SEM_undated_pecss-g081.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g082",
@@ -6332,7 +6590,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-3/Electro-Metallurgy-and-Corrosion/MID-SEM_2016_pecss-g082.pdf",
-  "transcript": "papers/META/Semester-3/Electro-Metallurgy-and-Corrosion/MID-SEM_2016_pecss-g082.md"
+  "transcript": "papers/META/Semester-3/Electro-Metallurgy-and-Corrosion/MID-SEM_2016_pecss-g082.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g083",
@@ -6344,15 +6603,17 @@
   },
   "status": "included",
   "department": "MECH",
-  "semester": "unknown",
+  "semester": 3,
   "course": "Elements of Thermodynamics",
   "course_code": "",
   "exam": "UNKNOWN",
   "year": "undated",
   "reappear": false,
   "pages": 1,
-  "pdf": "papers/MECH/Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf",
-  "transcript": "papers/MECH/Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md"
+  "pdf": "papers/MECH/Semester-3/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf",
+  "transcript": "papers/MECH/Semester-3/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md",
+  "uploaded_under": "MECH",
+  "code_fixed": true
  },
  {
   "id": "2026-11-22_github_pec-css:g084",
@@ -6366,13 +6627,14 @@
   "department": "ECE",
   "semester": 5,
   "course": "Embedded Systems",
-  "course_code": "",
+  "course_code": "ECN305",
   "exam": "END-SEM",
   "year": "2016",
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.pdf",
-  "transcript": "papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.md"
+  "transcript": "papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g085",
@@ -6392,7 +6654,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.pdf",
-  "transcript": "papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.md"
+  "transcript": "papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g086",
@@ -6412,7 +6675,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.pdf",
-  "transcript": "papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.md"
+  "transcript": "papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g087",
@@ -6432,7 +6696,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.pdf",
-  "transcript": "papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.md"
+  "transcript": "papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g090",
@@ -6452,7 +6717,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.pdf",
-  "transcript": "papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md"
+  "transcript": "papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_github_pec-css:g091",
@@ -6473,7 +6739,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.pdf",
-  "transcript": "papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.md"
+  "transcript": "papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_github_pec-css:g092",
@@ -6493,7 +6760,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.pdf",
-  "transcript": "papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md"
+  "transcript": "papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_github_pec-css:g094",
@@ -6513,7 +6781,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/MID-SEM_2019_pecss-g094.pdf",
-  "transcript": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/MID-SEM_2019_pecss-g094.md"
+  "transcript": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/MID-SEM_2019_pecss-g094.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g096",
@@ -6534,7 +6803,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/END-SEM_2019_pecss-g096.pdf",
-  "transcript": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/END-SEM_2019_pecss-g096.md"
+  "transcript": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/END-SEM_2019_pecss-g096.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g097",
@@ -6554,7 +6824,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.pdf",
-  "transcript": "papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.md"
+  "transcript": "papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g098",
@@ -6574,7 +6845,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2016_pecss-g098.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2016_pecss-g098.md"
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2016_pecss-g098.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g099",
@@ -6595,7 +6867,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2017_pecss-g099.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2017_pecss-g099.md"
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2017_pecss-g099.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g100",
@@ -6615,7 +6888,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/MID-SEM_2017_pecss-g100.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/MID-SEM_2017_pecss-g100.md"
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/MID-SEM_2017_pecss-g100.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g102",
@@ -6636,7 +6910,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.md"
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g104",
@@ -6656,7 +6931,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.md"
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g105",
@@ -6676,7 +6952,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g105.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g105.md"
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g105.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g106",
@@ -6696,7 +6973,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g106.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g106.md"
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g106.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g107",
@@ -6717,7 +6995,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-4/Geotechnical-Engineering/MID-SEM_2017_pecss-g107.pdf",
-  "transcript": "papers/CIVIL/Semester-4/Geotechnical-Engineering/MID-SEM_2017_pecss-g107.md"
+  "transcript": "papers/CIVIL/Semester-4/Geotechnical-Engineering/MID-SEM_2017_pecss-g107.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g109",
@@ -6737,7 +7016,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-4/Geotechnical-Engineering/END-SEM_2016_pecss-g109.pdf",
-  "transcript": "papers/CIVIL/Semester-4/Geotechnical-Engineering/END-SEM_2016_pecss-g109.md"
+  "transcript": "papers/CIVIL/Semester-4/Geotechnical-Engineering/END-SEM_2016_pecss-g109.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g110",
@@ -6758,7 +7038,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-5/Geotechnical-Engineering-I/END-SEM_2015_pecss-g110.pdf",
-  "transcript": "papers/CIVIL/Semester-5/Geotechnical-Engineering-I/END-SEM_2015_pecss-g110.md"
+  "transcript": "papers/CIVIL/Semester-5/Geotechnical-Engineering-I/END-SEM_2015_pecss-g110.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g112",
@@ -6771,15 +7052,17 @@
   },
   "status": "included",
   "department": "ECE",
-  "semester": "unknown",
-  "course": "Information Technology (Electronics)",
-  "course_code": "",
+  "semester": 3,
+  "course": "Information Technology in Engineering (EOIT)",
+  "course_code": "ESC202",
   "exam": "MID-SEM",
   "year": "undated",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/ECE/Semester-unknown/Information-Technology-Electronics/MID-SEM_undated_pecss-g112.pdf",
-  "transcript": "papers/ECE/Semester-unknown/Information-Technology-Electronics/MID-SEM_undated_pecss-g112.md"
+  "pdf": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g112.pdf",
+  "transcript": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g112.md",
+  "uploaded_under": "ECE",
+  "code_fixed": true
  },
  {
   "id": "2026-11-22_github_pec-css:g114",
@@ -6799,7 +7082,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.pdf",
-  "transcript": "papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.md"
+  "transcript": "papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g120",
@@ -6825,7 +7109,8 @@
   "reappear": false,
   "pages": 7,
   "pdf": "papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.pdf",
-  "transcript": "papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.md"
+  "transcript": "papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g122",
@@ -6845,7 +7130,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/UNKNOWN_2016_pecss-g122.pdf",
-  "transcript": "papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/UNKNOWN_2016_pecss-g122.md"
+  "transcript": "papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/UNKNOWN_2016_pecss-g122.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "2026-11-22_github_pec-css:g125",
@@ -6866,7 +7152,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/PROD/Semester-3/Kinematics-and-Dynamics-of-Machines/MID-SEM_2016_pecss-g125.pdf",
-  "transcript": "papers/PROD/Semester-3/Kinematics-and-Dynamics-of-Machines/MID-SEM_2016_pecss-g125.md"
+  "transcript": "papers/PROD/Semester-3/Kinematics-and-Dynamics-of-Machines/MID-SEM_2016_pecss-g125.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g128",
@@ -6888,7 +7175,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.pdf",
-  "transcript": "papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.md"
+  "transcript": "papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "2026-11-22_github_pec-css:g133",
@@ -6911,7 +7199,8 @@
   "reappear": false,
   "pages": 4,
   "pdf": "papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.pdf",
-  "transcript": "papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.md"
+  "transcript": "papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g135",
@@ -6931,7 +7220,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.pdf",
-  "transcript": "papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.md"
+  "transcript": "papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g136",
@@ -6946,13 +7236,14 @@
   "department": "PROD",
   "semester": 4,
   "course": "Machine Design",
-  "course_code": "",
+  "course_code": "PEN208",
   "exam": "END-SEM",
   "year": "2017",
   "reappear": false,
   "pages": 2,
   "pdf": "papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.pdf",
-  "transcript": "papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.md"
+  "transcript": "papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g149",
@@ -6972,7 +7263,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Material-Joining-Technology/END-SEM_2016_pecss-g149.pdf",
-  "transcript": "papers/META/Semester-5/Material-Joining-Technology/END-SEM_2016_pecss-g149.md"
+  "transcript": "papers/META/Semester-5/Material-Joining-Technology/END-SEM_2016_pecss-g149.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g150",
@@ -6992,7 +7284,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Material-Joining-Technology/MID-SEM_undated_pecss-g150.pdf",
-  "transcript": "papers/META/Semester-5/Material-Joining-Technology/MID-SEM_undated_pecss-g150.md"
+  "transcript": "papers/META/Semester-5/Material-Joining-Technology/MID-SEM_undated_pecss-g150.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g140",
@@ -7012,7 +7305,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/MID-SEM_2021_pecss-g140.pdf",
-  "transcript": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/MID-SEM_2021_pecss-g140.md"
+  "transcript": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/MID-SEM_2021_pecss-g140.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "2026-11-22_github_pec-css:g141",
@@ -7033,7 +7327,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/END-SEM_2021_pecss-g141.pdf",
-  "transcript": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/END-SEM_2021_pecss-g141.md"
+  "transcript": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/END-SEM_2021_pecss-g141.md",
+  "uploaded_under": "CSE-DS"
  },
  {
   "id": "2026-11-22_github_pec-css:g142",
@@ -7053,7 +7348,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-4/Machine-Learning/MID-SEM_2020_pecss-g142.pdf",
-  "transcript": "papers/CSE/Semester-4/Machine-Learning/MID-SEM_2020_pecss-g142.md"
+  "transcript": "papers/CSE/Semester-4/Machine-Learning/MID-SEM_2020_pecss-g142.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g143",
@@ -7074,7 +7370,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.pdf",
-  "transcript": "papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.md"
+  "transcript": "papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "2026-11-22_github_pec-css:g146",
@@ -7095,7 +7392,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.pdf",
-  "transcript": "papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.md"
+  "transcript": "papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_github_pec-css:g147",
@@ -7115,7 +7413,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-7/Mass-Transportation-System/MID-SEM_2017_pecss-g147.pdf",
-  "transcript": "papers/CIVIL/Semester-7/Mass-Transportation-System/MID-SEM_2017_pecss-g147.md"
+  "transcript": "papers/CIVIL/Semester-7/Mass-Transportation-System/MID-SEM_2017_pecss-g147.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g148",
@@ -7135,7 +7434,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-7/Mass-Transportation-System/END-SEM_2017_pecss-g148.pdf",
-  "transcript": "papers/CIVIL/Semester-7/Mass-Transportation-System/END-SEM_2017_pecss-g148.md"
+  "transcript": "papers/CIVIL/Semester-7/Mass-Transportation-System/END-SEM_2017_pecss-g148.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g151",
@@ -7155,7 +7455,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Materials-Characterization/END-SEM_2016_pecss-g151.pdf",
-  "transcript": "papers/META/Semester-5/Materials-Characterization/END-SEM_2016_pecss-g151.md"
+  "transcript": "papers/META/Semester-5/Materials-Characterization/END-SEM_2016_pecss-g151.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g152",
@@ -7176,7 +7477,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/META/Semester-5/Materials-Characterization/END-SEM_2018_pecss-g152.pdf",
-  "transcript": "papers/META/Semester-5/Materials-Characterization/END-SEM_2018_pecss-g152.md"
+  "transcript": "papers/META/Semester-5/Materials-Characterization/END-SEM_2018_pecss-g152.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g154",
@@ -7196,7 +7498,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Materials-Characterization/MID-SEM_undated_pecss-g154.pdf",
-  "transcript": "papers/META/Semester-5/Materials-Characterization/MID-SEM_undated_pecss-g154.md"
+  "transcript": "papers/META/Semester-5/Materials-Characterization/MID-SEM_undated_pecss-g154.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g155",
@@ -7216,7 +7519,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.pdf",
-  "transcript": "papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.md"
+  "transcript": "papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "2026-11-22_github_pec-css:g158",
@@ -7236,7 +7540,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/MECH/Semester-3/Materials-Science/END-SEM_2016_pecss-g158.pdf",
-  "transcript": "papers/MECH/Semester-3/Materials-Science/END-SEM_2016_pecss-g158.md"
+  "transcript": "papers/MECH/Semester-3/Materials-Science/END-SEM_2016_pecss-g158.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "2026-11-22_github_pec-css:g156",
@@ -7256,7 +7561,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-7/Thin-Film-Technology/MID-SEM_2019_pecss-g156.pdf",
-  "transcript": "papers/META/Semester-7/Thin-Film-Technology/MID-SEM_2019_pecss-g156.md"
+  "transcript": "papers/META/Semester-7/Thin-Film-Technology/MID-SEM_2019_pecss-g156.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g159",
@@ -7277,7 +7583,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/META/Semester-7/Thin-Film-Technology/END-SEM_2019_pecss-g159.pdf",
-  "transcript": "papers/META/Semester-7/Thin-Film-Technology/END-SEM_2019_pecss-g159.md"
+  "transcript": "papers/META/Semester-7/Thin-Film-Technology/END-SEM_2019_pecss-g159.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g160",
@@ -7297,7 +7604,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.pdf",
-  "transcript": "papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.md"
+  "transcript": "papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g161",
@@ -7318,7 +7626,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.pdf",
-  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.md"
+  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g163",
@@ -7339,7 +7648,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.pdf",
-  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.md"
+  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g165",
@@ -7359,7 +7669,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.pdf",
-  "transcript": "papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.md"
+  "transcript": "papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "2026-11-22_github_pec-css:g166",
@@ -7379,7 +7690,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-7/Mechanical-Working-of-Metals/MID-SEM_2016_pecss-g166.pdf",
-  "transcript": "papers/META/Semester-7/Mechanical-Working-of-Metals/MID-SEM_2016_pecss-g166.md"
+  "transcript": "papers/META/Semester-7/Mechanical-Working-of-Metals/MID-SEM_2016_pecss-g166.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g167",
@@ -7399,7 +7711,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Mechanical-Working-of-Metals/MID-SEM_2018_pecss-g167.pdf",
-  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/MID-SEM_2018_pecss-g167.md"
+  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/MID-SEM_2018_pecss-g167.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g169",
@@ -7419,7 +7732,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2016_pecss-g169.pdf",
-  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2016_pecss-g169.md"
+  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2016_pecss-g169.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g170",
@@ -7440,7 +7754,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2018_pecss-g170.pdf",
-  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2018_pecss-g170.md"
+  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2018_pecss-g170.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g171",
@@ -7460,7 +7775,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.pdf",
-  "transcript": "papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.md"
+  "transcript": "papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g173",
@@ -7481,7 +7797,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.pdf",
-  "transcript": "papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.md"
+  "transcript": "papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g175",
@@ -7502,7 +7819,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/END-SEM_undated_pecss-g175.pdf",
-  "transcript": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/END-SEM_undated_pecss-g175.md"
+  "transcript": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/END-SEM_undated_pecss-g175.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g176",
@@ -7522,7 +7840,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.pdf",
-  "transcript": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.md"
+  "transcript": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g178",
@@ -7543,7 +7862,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.pdf",
-  "transcript": "papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.md"
+  "transcript": "papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g180",
@@ -7564,7 +7884,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.pdf",
-  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.md"
+  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g183",
@@ -7585,7 +7906,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.pdf",
-  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.md"
+  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g184",
@@ -7599,13 +7921,14 @@
   "department": "CSE",
   "semester": 7,
   "course": "Network Security and Cryptography",
-  "course_code": "",
+  "course_code": "CSN461",
   "exam": "MID-SEM",
   "year": "undated",
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.pdf",
-  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md"
+  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g185",
@@ -7619,14 +7942,15 @@
   "status": "included",
   "department": "EE",
   "semester": 7,
-  "course": "Neural Network and Fuzzy System",
+  "course": "Neural Networks and Fuzzy Systems",
   "course_code": "EEN411",
   "exam": "END-SEM",
   "year": "2017",
   "reappear": false,
   "pages": 2,
-  "pdf": "papers/EE/Semester-7/Neural-Network-and-Fuzzy-System/END-SEM_2017_pecss-g185.pdf",
-  "transcript": "papers/EE/Semester-7/Neural-Network-and-Fuzzy-System/END-SEM_2017_pecss-g185.md"
+  "pdf": "papers/EE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2017_pecss-g185.pdf",
+  "transcript": "papers/EE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2017_pecss-g185.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g187",
@@ -7646,7 +7970,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Object-Oriented-Programming/MID-SEM_2016_pecss-g187.pdf",
-  "transcript": "papers/CSE/Semester-3/Object-Oriented-Programming/MID-SEM_2016_pecss-g187.md"
+  "transcript": "papers/CSE/Semester-3/Object-Oriented-Programming/MID-SEM_2016_pecss-g187.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g189",
@@ -7667,7 +7992,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Object-Oriented-Programming/END-SEM_2017_pecss-g189.pdf",
-  "transcript": "papers/CSE/Semester-3/Object-Oriented-Programming/END-SEM_2017_pecss-g189.md"
+  "transcript": "papers/CSE/Semester-3/Object-Oriented-Programming/END-SEM_2017_pecss-g189.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g190",
@@ -7689,7 +8015,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.pdf",
-  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.md"
+  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g192",
@@ -7709,7 +8036,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.pdf",
-  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.md"
+  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g196",
@@ -7731,7 +8059,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.pdf",
-  "transcript": "papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.md"
+  "transcript": "papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g197",
@@ -7751,7 +8080,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.pdf",
-  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.md"
+  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g198",
@@ -7771,7 +8101,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/ECE/Semester-7/Optical-Communication/MID-SEM_2017_pecss-g198.pdf",
-  "transcript": "papers/ECE/Semester-7/Optical-Communication/MID-SEM_2017_pecss-g198.md"
+  "transcript": "papers/ECE/Semester-7/Optical-Communication/MID-SEM_2017_pecss-g198.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g200",
@@ -7792,7 +8123,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.pdf",
-  "transcript": "papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.md"
+  "transcript": "papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g201",
@@ -7813,7 +8145,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.pdf",
-  "transcript": "papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.md"
+  "transcript": "papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g203",
@@ -7833,7 +8166,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-3/Python-Programming/QUIZ_2019_pecss-g203.pdf",
-  "transcript": "papers/CSE/Semester-3/Python-Programming/QUIZ_2019_pecss-g203.md"
+  "transcript": "papers/CSE/Semester-3/Python-Programming/QUIZ_2019_pecss-g203.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g205",
@@ -7854,7 +8188,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-3/Python-Programming/MID-SEM_2019_pecss-g205.pdf",
-  "transcript": "papers/CSE/Semester-3/Python-Programming/MID-SEM_2019_pecss-g205.md"
+  "transcript": "papers/CSE/Semester-3/Python-Programming/MID-SEM_2019_pecss-g205.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g207",
@@ -7875,7 +8210,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/MECH/Semester-7/Quality-Engineering-and-Management-Open-Elective/MID-SEM_2017_pecss-g207.pdf",
-  "transcript": "papers/MECH/Semester-7/Quality-Engineering-and-Management-Open-Elective/MID-SEM_2017_pecss-g207.md"
+  "transcript": "papers/MECH/Semester-7/Quality-Engineering-and-Management-Open-Elective/MID-SEM_2017_pecss-g207.md",
+  "uploaded_under": "MECH"
  },
  {
   "id": "2026-11-22_github_pec-css:g208",
@@ -7896,7 +8232,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/END-SEM_2018_pecss-g208.pdf",
-  "transcript": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/END-SEM_2018_pecss-g208.md"
+  "transcript": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/END-SEM_2018_pecss-g208.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g210",
@@ -7916,7 +8253,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.pdf",
-  "transcript": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.md"
+  "transcript": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g211",
@@ -7937,7 +8275,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.pdf",
-  "transcript": "papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.md"
+  "transcript": "papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g213",
@@ -7958,7 +8297,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.pdf",
-  "transcript": "papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.md"
+  "transcript": "papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g215",
@@ -7979,7 +8319,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-5/Software-Engineering/END-SEM_2021_pecss-g215.pdf",
-  "transcript": "papers/CSE/Semester-5/Software-Engineering/END-SEM_2021_pecss-g215.md"
+  "transcript": "papers/CSE/Semester-5/Software-Engineering/END-SEM_2021_pecss-g215.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g217",
@@ -7999,7 +8340,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-7/Solid-and-Hazardous-Waste-Management/MID-SEM_2017_pecss-g217.pdf",
-  "transcript": "papers/CIVIL/Semester-7/Solid-and-Hazardous-Waste-Management/MID-SEM_2017_pecss-g217.md"
+  "transcript": "papers/CIVIL/Semester-7/Solid-and-Hazardous-Waste-Management/MID-SEM_2017_pecss-g217.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g218",
@@ -8020,7 +8362,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/META/Semester-5/Steel-Making-Technology/END-SEM_2016_pecss-g218.pdf",
-  "transcript": "papers/META/Semester-5/Steel-Making-Technology/END-SEM_2016_pecss-g218.md"
+  "transcript": "papers/META/Semester-5/Steel-Making-Technology/END-SEM_2016_pecss-g218.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g219",
@@ -8040,7 +8383,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/META/Semester-5/Steel-Making-Technology/MID-SEM_2018_pecss-g219.pdf",
-  "transcript": "papers/META/Semester-5/Steel-Making-Technology/MID-SEM_2018_pecss-g219.md"
+  "transcript": "papers/META/Semester-5/Steel-Making-Technology/MID-SEM_2018_pecss-g219.md",
+  "uploaded_under": "META"
  },
  {
   "id": "2026-11-22_github_pec-css:g221",
@@ -8060,7 +8404,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.pdf",
-  "transcript": "papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.md"
+  "transcript": "papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g222",
@@ -8081,7 +8426,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-7/System-Software/END-SEM_2015_pecss-g222.pdf",
-  "transcript": "papers/CSE/Semester-7/System-Software/END-SEM_2015_pecss-g222.md"
+  "transcript": "papers/CSE/Semester-7/System-Software/END-SEM_2015_pecss-g222.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g224",
@@ -8101,7 +8447,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/System-Software/MID-SEM_undated_pecss-g224.pdf",
-  "transcript": "papers/CSE/Semester-7/System-Software/MID-SEM_undated_pecss-g224.md"
+  "transcript": "papers/CSE/Semester-7/System-Software/MID-SEM_undated_pecss-g224.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g225",
@@ -8121,7 +8468,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/System-Software/END-SEM_2014_pecss-g225.pdf",
-  "transcript": "papers/CSE/Semester-7/System-Software/END-SEM_2014_pecss-g225.md"
+  "transcript": "papers/CSE/Semester-7/System-Software/END-SEM_2014_pecss-g225.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g226",
@@ -8141,7 +8489,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CSE/Semester-7/System-Software/QUIZ_2015_pecss-g226.pdf",
-  "transcript": "papers/CSE/Semester-7/System-Software/QUIZ_2015_pecss-g226.md"
+  "transcript": "papers/CSE/Semester-7/System-Software/QUIZ_2015_pecss-g226.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g227",
@@ -8162,7 +8511,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-5/Theory-of-Computation/END-SEM_2021_pecss-g227.pdf",
-  "transcript": "papers/CSE/Semester-5/Theory-of-Computation/END-SEM_2021_pecss-g227.md"
+  "transcript": "papers/CSE/Semester-5/Theory-of-Computation/END-SEM_2021_pecss-g227.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g229",
@@ -8182,7 +8532,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/AERO/Semester-3/Thermodynamics/END-SEM_2017_pecss-g229.pdf",
-  "transcript": "papers/AERO/Semester-3/Thermodynamics/END-SEM_2017_pecss-g229.md"
+  "transcript": "papers/AERO/Semester-3/Thermodynamics/END-SEM_2017_pecss-g229.md",
+  "uploaded_under": "AERO"
  },
  {
   "id": "2026-11-22_github_pec-css:g230",
@@ -8202,7 +8553,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.pdf",
-  "transcript": "papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.md"
+  "transcript": "papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g231",
@@ -8223,7 +8575,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.pdf",
-  "transcript": "papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.md"
+  "transcript": "papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g233",
@@ -8244,7 +8597,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.pdf",
-  "transcript": "papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.md"
+  "transcript": "papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g235",
@@ -8264,7 +8618,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.md"
+  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g236",
@@ -8284,7 +8639,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.md"
+  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g237",
@@ -8304,7 +8660,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.pdf",
-  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md"
+  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g238",
@@ -8324,7 +8681,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.pdf",
-  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.md"
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g240",
@@ -8344,7 +8702,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.pdf",
-  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.md"
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g241",
@@ -8364,7 +8723,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.pdf",
-  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.md"
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g239",
@@ -8384,7 +8744,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.pdf",
-  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.md"
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g242",
@@ -8404,7 +8765,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.pdf",
-  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.md"
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g243",
@@ -8425,7 +8787,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-4/VLSI-Design/MID-SEM_2019_pecss-g243.pdf",
-  "transcript": "papers/ECE/Semester-4/VLSI-Design/MID-SEM_2019_pecss-g243.md"
+  "transcript": "papers/ECE/Semester-4/VLSI-Design/MID-SEM_2019_pecss-g243.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g245",
@@ -8446,7 +8809,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CSE/Semester-5/Web-Technologies/END-SEM_2021_pecss-g245.pdf",
-  "transcript": "papers/CSE/Semester-5/Web-Technologies/END-SEM_2021_pecss-g245.md"
+  "transcript": "papers/CSE/Semester-5/Web-Technologies/END-SEM_2021_pecss-g245.md",
+  "uploaded_under": "CSE"
  },
  {
   "id": "2026-11-22_github_pec-css:g247",
@@ -8467,7 +8831,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.pdf",
-  "transcript": "papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.md"
+  "transcript": "papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g249",
@@ -8487,7 +8852,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.pdf",
-  "transcript": "papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.md"
+  "transcript": "papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.md",
+  "uploaded_under": "PROD"
  },
  {
   "id": "2026-11-22_github_pec-css:g250",
@@ -8508,7 +8874,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/CIVIL/Semester-7/Works-Management-and-Construction-Engineering/MID-SEM_2017_pecss-g250.pdf",
-  "transcript": "papers/CIVIL/Semester-7/Works-Management-and-Construction-Engineering/MID-SEM_2017_pecss-g250.md"
+  "transcript": "papers/CIVIL/Semester-7/Works-Management-and-Construction-Engineering/MID-SEM_2017_pecss-g250.md",
+  "uploaded_under": "CIVIL"
  },
  {
   "id": "2026-11-22_github_pec-css:g000",
@@ -8528,7 +8895,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.pdf",
-  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.md"
+  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.md",
+  "uploaded_under": "EE"
  },
  {
   "id": "2026-11-22_github_pec-css:g017",
@@ -8548,7 +8916,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.pdf",
-  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.md"
+  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g059",
@@ -8568,7 +8937,8 @@
   "reappear": false,
   "pages": 3,
   "pdf": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.pdf",
-  "transcript": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.md"
+  "transcript": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g061",
@@ -8588,7 +8958,8 @@
   "reappear": false,
   "pages": 5,
   "pdf": "papers/ECE/Semester-5/Control-Systems/MID-SEM_2022_pecss-g061.pdf",
-  "transcript": "papers/ECE/Semester-5/Control-Systems/MID-SEM_2022_pecss-g061.md"
+  "transcript": "papers/ECE/Semester-5/Control-Systems/MID-SEM_2022_pecss-g061.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g172",
@@ -8608,7 +8979,8 @@
   "reappear": false,
   "pages": 4,
   "pdf": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.pdf",
-  "transcript": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.md"
+  "transcript": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_github_pec-css:g001",
@@ -8731,7 +9103,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.pdf",
-  "transcript": "papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.md"
+  "transcript": "papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4036",
@@ -8752,7 +9125,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.pdf",
-  "transcript": "papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.md"
+  "transcript": "papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4037",
@@ -8773,7 +9147,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.pdf",
-  "transcript": "papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.md"
+  "transcript": "papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4038",
@@ -8794,7 +9169,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.pdf",
-  "transcript": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.md"
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4039",
@@ -8815,7 +9191,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.pdf",
-  "transcript": "papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.md"
+  "transcript": "papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4041",
@@ -8836,7 +9213,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.pdf",
-  "transcript": "papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.md"
+  "transcript": "papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4040",
@@ -8857,7 +9235,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.pdf",
-  "transcript": "papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.md"
+  "transcript": "papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4034",
@@ -8877,7 +9256,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": null,
-  "transcript": "papers/COMMON/Semester-2/Engineering-Design/END-SEM_2010_howtoexam-h4034.md"
+  "transcript": "papers/COMMON/Semester-2/Engineering-Design/END-SEM_2010_howtoexam-h4034.md",
+  "uploaded_under": "COMMON"
  },
  {
   "id": "2026-11-22_howtoexam:h4042",
@@ -9238,7 +9618,8 @@
   "reappear": false,
   "pages": 2,
   "pdf": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.pdf",
-  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.md"
+  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.md",
+  "uploaded_under": "ECE"
  },
  {
   "id": "2026-11-22_robotics-pec:r98",
@@ -9258,7 +9639,8 @@
   "reappear": false,
   "pages": 1,
   "pdf": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.pdf",
-  "transcript": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md"
+  "transcript": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md",
+  "uploaded_under": "HSM"
  },
  {
   "id": "2026-11-22_robotics-pec:r01",

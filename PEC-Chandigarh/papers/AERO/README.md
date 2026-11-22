@@ -1,6 +1,8 @@
 # AERO - Aerospace Engineering
 
-8 papers. [Back to the full index](../../INDEX.md)
+8 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
+
+First-year courses common to all branches (Calculus, Chemistry, Mechatronics, Engineering Drawing...) are in [COMMON](../COMMON/README.md).
 
 ## Semester 3
 

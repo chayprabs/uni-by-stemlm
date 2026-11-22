@@ -1,10 +1,10 @@
-# Advanced Control System () - Exam (type not stated) undated
+# Advanced Control System - Exam (type not stated) undated
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** EE - Electrical Engineering
 - **Semester:** unknown
 - **Course:** Advanced Control System
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** Exam (type not stated) - no header page in source
 - **Programme:** B.Tech / B.E.
 - **Year:** undated

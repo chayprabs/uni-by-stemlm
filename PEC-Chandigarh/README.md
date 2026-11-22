@@ -3,8 +3,11 @@
 Previous year question papers (PYQs) from **Punjab Engineering College (Deemed to be University), Chandigarh**,
 collected for STEM LM. This folder will also hold worked solutions for each paper.
 
-- **Index:** [INDEX.md](INDEX.md) lists every paper by branch, then semester, then course.
-- **Papers:** `papers/<DEPT>/Semester-<n>/<Course>/`
+- **Three ways to browse:**
+  - [INDEX.md](INDEX.md): by **branch**, then semester, then course.
+  - [BY-COURSE.md](BY-COURSE.md): by **course**, A-Z. Every paper of a course is shown together, whichever branch or semester it is filed under.
+  - [BY-SEMESTER.md](BY-SEMESTER.md): by **semester**, then branch, then course.
+- **Folders:** `papers/<BRANCH>/Semester-<n>/<Course>/`. Each branch folder has a README listing its papers.
   - `<EXAM>_<year>[_Reappear]_<id>.pdf` is the question paper, one page per photo, rotated upright.
   - `<EXAM>_<year>[_Reappear]_<id>.md` has the metadata (course code, exam, year), an empty **Solutions** section to fill in, and an OCR transcript of every page.
 - **Machine-readable data:** [data/manifest.json](data/manifest.json) lists every upload on the source site and what happened to it (included, duplicate, excluded or missing). [data/source_api_dump.json](data/source_api_dump.json) is the raw API response.
@@ -16,20 +19,19 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
 | Dept | Name | Papers |
 |---|---|---|
 | AERO | Aerospace Engineering | 8 |
-| CHEMISTRY | Chemistry | 9 |
-| CIVIL | Civil Engineering | 30 |
-| COMMON | First-year common courses (all branches) | 8 |
-| CSE | Computer Science and Engineering | 49 |
+| CIVIL | Civil Engineering | 27 |
+| CSE | Computer Science and Engineering | 46 |
 | CSE-AI | CSE (Artificial Intelligence) | 2 |
-| CSE-DS | CSE (Data Science) | 8 |
-| ECE | Electronics and Communication Engineering | 56 |
-| EE | Electrical Engineering | 69 |
-| HSM | Humanities, Social Sciences and Management | 23 |
-| MATHS | Mathematics | 18 |
+| CSE-DS | CSE (Data Science) | 5 |
+| ECE | Electronics and Communication Engineering | 44 |
+| EE | Electrical Engineering | 46 |
 | MECH | Mechanical Engineering | 54 |
 | META | Metallurgical and Materials Engineering | 17 |
-| PHYSICS | Physics | 3 |
-| PROD | Production and Industrial Engineering | 21 |
+| PROD | Production and Industrial Engineering | 19 |
+| COMMON | First-year common courses (all branches) | 71 |
+| HSM | Humanities, Social Sciences and Management | 23 |
+| MATHS | Mathematics | 11 |
+| CHEMISTRY | Chemistry | 2 |
 | **Total** | | **375 papers, 591 pages** |
 
 B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
@@ -46,7 +48,7 @@ B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
 
 File names end with where the paper came from: `_<id>` (pecpapers), `_upload-<date>` (owner upload), `_pecss-gNNN` (PEC-CSS GitHub), `_robopec-rNN` (Robotics Society GitHub) or `_howtoexam-hNNNN`.
 
-**Browsing:** start at [INDEX.md](INDEX.md), or open any department folder in `papers/`. Each one has its own README listing its papers.
+**Browsing:** start at [INDEX.md](INDEX.md) (by branch), [BY-COURSE.md](BY-COURSE.md) or [BY-SEMESTER.md](BY-SEMESTER.md), or open any branch folder in `papers/`.
 
 ### Completeness audit (2026-11-22)
 
@@ -111,7 +113,7 @@ The site has no PDFs. Every paper is a set of JPG photos, so the pipeline builds
 ```bash
 python3 scripts/fetch_pecpapers.py work                        # metadata + all photos (resumable)
 OMP_THREAD_LIMIT=1 python3 scripts/prepare_images.py work      # EXIF/OSD auto-rotate, downscale, OCR
-python3 scripts/build_library.py work .                        # PDFs, transcripts, manifest, INDEX.md
+python3 scripts/build_library.py work .                        # PDFs, transcripts, manifest; then runs organize.py (sorting + all index pages)
 ```
 
 Requirements: Python 3, `pip install pillow img2pdf`, and `tesseract-ocr` (with `eng` and `osd` data).
@@ -140,6 +142,16 @@ Other cleanup:
   - "Maths" (CSE-DS): Linear Algebra, Differential Equations and Vector Calculus
 - **Course codes** were read off the papers. A blank code means it was not legible.
 - **Year** comes from the uploader's comment when there is one, otherwise from the paper header ("read from paper" in the transcript). Papers with neither are `undated`.
-- **Semesters and departments** are kept as the uploader tagged them. First-year common courses (Mechatronics, Computing, Environmental Sciences…) show up under whichever branch uploaded them.
+- **How papers are sorted.** [scripts/organize.py](scripts/organize.py) runs after every import and applies these rules:
+  1. **Branch** is the uploader's branch, except for:
+     - first-year (semester 1-2) courses taught to every branch, such as Calculus, Chemistry, Physics, Environmental Sciences, Mechatronics, Engineering Drawing, Computing and Communication Skills, which go to **COMMON**;
+     - humanities and management courses (HS/HSM/MHN codes) from semester 3 on, which go to **HSM**.
+
+     A moved paper's `.md` records the branch it was originally "uploaded under".
+  2. **Semester** is the one printed on the paper or given by the uploader. Where the paper header contradicted the uploader, the header wins; each correction is listed with its evidence in `FIXES` in the script.
+  3. **Course** has one canonical name per course, so spelling variants are merged. A missing course code is filled in only from papers of the same course in the same branch and semester.
+
+  Some courses genuinely appear in two semesters (for example, the first-year groups take Mechatronics in different semesters, and some electives moved between semesters across schemes). Those papers stay in the semester printed on them; [BY-COURSE.md](BY-COURSE.md) shows them together.
+- **`Semester-unknown`** holds 5 papers whose pages give no semester: Advanced Control System, Aircraft Materials and Processes, Aircraft Structures, Mechanical Vibrations and Aero-elasticity, and Smartphones and Next Generation Computing.
 - **Orientation:** pages were auto-rotated using EXIF data, tesseract orientation detection and an OCR-quality retry. A few were fixed by hand. Photos were downscaled to 2200 px (JPEG q80) to keep the repo small. Originals are on Cloudinary; the URLs are in the manifest.
 - **OCR** is raw tesseract output from phone photos. It is fine for search and for seeing what a paper covers, but formulas, circuit diagrams and tables are often garbled, so use the PDF as the source of truth.

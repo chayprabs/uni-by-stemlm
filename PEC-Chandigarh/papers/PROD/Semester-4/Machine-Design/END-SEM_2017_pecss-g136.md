@@ -1,10 +1,10 @@
-# Machine Design () - End-Semester 2017
+# Machine Design (PEN208) - End-Semester 2017
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** PROD - Production and Industrial Engineering
 - **Semester:** 4
 - **Course:** Machine Design
-- **Course code:** 
+- **Course code:** PEN208
 - **Exam:** End-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** 2017

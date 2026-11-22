@@ -1,10 +1,10 @@
-# Web Technologies () - End-Semester 2021
+# Web Technologies - End-Semester 2021
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** CSE - Computer Science and Engineering
 - **Semester:** 5
 - **Course:** Web Technologies
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** End-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** 2021

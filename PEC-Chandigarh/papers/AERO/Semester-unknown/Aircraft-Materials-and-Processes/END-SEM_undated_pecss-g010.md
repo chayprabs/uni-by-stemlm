@@ -1,10 +1,10 @@
-# Aircraft Materials and Processes () - End-Semester undated
+# Aircraft Materials and Processes - End-Semester undated
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** AERO - Aerospace Engineering
 - **Semester:** unknown
 - **Course:** Aircraft Materials and Processes
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** End-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** undated

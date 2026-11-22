@@ -1,10 +1,10 @@
-# Mechanical Vibrations and Aero-elasticity () - Mid-Semester 2016
+# Mechanical Vibrations and Aero-elasticity - Mid-Semester 2016
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** AERO - Aerospace Engineering
 - **Semester:** unknown
 - **Course:** Mechanical Vibrations and Aero-elasticity
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** Mid-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** 2016

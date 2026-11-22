@@ -153,6 +153,12 @@ def main(work, lib):
 
 
 def write_index(lib, entries, manifest):
+    """Re-file every paper (branch/semester/course rules) and rebuild all index pages."""
+    from organize import organize
+    organize()
+
+
+def _old_write_index(lib, entries, manifest):
     by = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(list)))
     for e in entries:
         by[e["department"]][e["semester"]][(e["course"], e["course_code"])].append(e)

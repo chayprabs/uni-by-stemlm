@@ -1,29 +1,19 @@
 # CSE - Computer Science and Engineering
 
-49 papers. [Back to the full index](../../INDEX.md)
+46 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
 
-## Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Introduction to Computing | ES1101 | End-Semester | 2022 | [PDF](Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.pdf) (2p) | [text](Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.md) |
-
-## Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | ES1701 | Mid-Semester | 2022 | [PDF](Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.pdf) (2p) | [text](Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.md) |
-| Artificial Intelligence and Machine Learning | ES1701 | End-Semester | 2022 | [PDF](Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.pdf) (2p) | [text](Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.md) |
+First-year courses common to all branches (Calculus, Chemistry, Mechatronics, Engineering Drawing...) are in [COMMON](../COMMON/README.md).
 
 ## Semester 3
 
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
-| Analysis and Design of Algorithms | CS6401 | Mid-Semester | undated | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.pdf) (1p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.md) |
-| Analysis and Design of Algorithms | CS6401 | End-Semester | 2023 | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.pdf) (2p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.md) |
 | Analysis and Design of Algorithms | CSN204 | Mid-Semester | 2017 | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.pdf) (2p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.md) |
+| Analysis and Design of Algorithms | CS6401 | Mid-Semester | undated | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.pdf) (1p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.md) |
 | Analysis and Design of Algorithms | CSN204 | End-Semester | 2017 | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.pdf) (2p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.md) |
 | Analysis and Design of Algorithms | CSN204 | End-Semester | 2019 | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.pdf) (1p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.md) |
+| Analysis and Design of Algorithms | CS6401 | End-Semester | 2023 | [PDF](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.pdf) (2p) | [text](Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.md) |
+| Computer Architecture | CSN202 | End-Semester | 2021 | [PDF](Semester-3/Computer-Architecture/END-SEM_2021_pecss-g056.pdf) (2p) | [text](Semester-3/Computer-Architecture/END-SEM_2021_pecss-g056.md) |
 | Data Structures | CS6301 | Mid-Semester | 2022 | [PDF](Semester-3/Data-Structures/MID-SEM_2022_PceBuf.pdf) (2p) | [text](Semester-3/Data-Structures/MID-SEM_2022_PceBuf.md) |
 | Data Structures | CS6301 | Mid-Semester | 2023 | [PDF](Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.pdf) (1p) | [text](Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.md) |
 | Data Structures | CS6301 | End-Semester | 2023 | [PDF](Semester-3/Data-Structures/END-SEM_2023_rgxpXw.pdf) (2p) | [text](Semester-3/Data-Structures/END-SEM_2023_rgxpXw.md) |
@@ -59,15 +49,15 @@
 | Big Data Analytics | CSN409 | Mid-Semester | 2019 | [PDF](Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.pdf) (2p) | [text](Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.md) |
 | Big Data Analytics | CSN409 | End-Semester | 2019 | [PDF](Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.pdf) (2p) | [text](Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.md) |
 | Cloud Computing | CSN405 | End-Semester | undated | [PDF](Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.pdf) (2p) | [text](Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.md) |
+| Computer Networks | CSN432 | Mid-Semester | 2019 | [PDF](Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.pdf) (2p) | [text](Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md) |
 | Computer Networks | CS6701 | Mid-Semester | undated | [PDF](Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.pdf) (2p) | [text](Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.md) |
 | Computer Networks | CS6701 | End-Semester | 2023 | [PDF](Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.pdf) (2p) | [text](Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.md) |
 | Computer Networks | CS6701 | End-Semester | 2023 | [PDF](Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.pdf) (2p) | [text](Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.md) |
-| Computer Networks | CSN432 | Mid-Semester | 2019 | [PDF](Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.pdf) (2p) | [text](Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md) |
 | Data Warehousing and Mining | CS476 | Mid-Semester | undated | [PDF](Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.pdf) (1p) | [text](Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.md) |
 | Mobile Computing | - | End-Semester | 2017 | [PDF](Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.pdf) (2p) | [text](Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.md) |
-| Network Security and Cryptography | - | Mid-Semester | undated | [PDF](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.pdf) (1p) | [text](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md) |
 | Network Security and Cryptography | CSN461 | Mid-Semester | undated | [PDF](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.pdf) (2p) | [text](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.md) |
 | Network Security and Cryptography | CSN461 | Mid-Semester | undated | [PDF](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.pdf) (2p) | [text](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.md) |
+| Network Security and Cryptography | CSN461 | Mid-Semester | undated | [PDF](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.pdf) (1p) | [text](Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md) |
 | Object Oriented Programming (Open Elective) | CSN461 | Mid-Semester | 2019 | [PDF](Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.pdf) (1p) | [text](Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.md) |
 | Soft Computing | CSN403 | End-Semester | 2020 | [PDF](Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.pdf) (2p) | [text](Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.md) |
 | System Software | CS462 | Mid-Semester | 2016 | [PDF](Semester-7/System-Software/MID-SEM_2016_pecss-g221.pdf) (1p) | [text](Semester-7/System-Software/MID-SEM_2016_pecss-g221.md) |
@@ -88,5 +78,4 @@
 
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
-| Computer Architecture | - | End-Semester | 2021 | [PDF](Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.pdf) (2p) | [text](Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.md) |
 | Smartphones and Next Generation Computing | - | End-Semester | undated | [PDF](Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.pdf) (2p) | [text](Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.md) |

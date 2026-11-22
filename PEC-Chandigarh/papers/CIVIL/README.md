@@ -1,19 +1,8 @@
 # CIVIL - Civil Engineering
 
-30 papers. [Back to the full index](../../INDEX.md)
+27 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
 
-## Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Engineering Drawing | - | End-Semester | undated | [PDF](Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.pdf) (1p) | [text](Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.md) |
-
-## Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Introduction to Environmental Sciences I | GS1101 | Mid-Semester | 2022 | [PDF](Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.pdf) (1p) | [text](Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.md) |
-| Introduction to Environmental Sciences I | GS1101 | End-Semester | 2022 | [PDF](Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.pdf) (1p) | [text](Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.md) |
+First-year courses common to all branches (Calculus, Chemistry, Mechatronics, Engineering Drawing...) are in [COMMON](../COMMON/README.md).
 
 ## Semester 3
 
@@ -24,8 +13,8 @@
 | Geoinformatics | CEN202 | Mid-Semester | 2015 | [PDF](Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.pdf) (2p) | [text](Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.md) |
 | Geoinformatics | CEN202 | Mid-Semester | 2017 | [PDF](Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.pdf) (1p) | [text](Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.md) |
 | Transportation Engineering I | CE213 | End-Semester | 2013 | [PDF](Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.pdf) (1p) | [text](Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.md) |
-| Transportation Engineering I | CE213 | Sessional Test | undated | [PDF](Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.pdf) (1p) | [text](Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md) |
 | Transportation Engineering I | CEN203 | Sessional Test | 2016 | [PDF](Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.pdf) (1p) | [text](Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.md) |
+| Transportation Engineering I | CE213 | Sessional Test | undated | [PDF](Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.pdf) (1p) | [text](Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md) |
 
 ## Semester 4
 

@@ -1,18 +1,6 @@
 # HSM - Humanities, Social Sciences and Management
 
-23 papers. [Back to the full index](../../INDEX.md)
-
-## Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Communication Skills and Ethics | HS1101 | End-Semester | 2022 | [PDF](Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.pdf) (2p) | [text](Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.md) |
-
-## Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Communication Skills and Ethics | HS1101 | End-Semester | 2022 | [PDF](Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.pdf) (3p) | [text](Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.md) |
+23 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
 
 ## Semester 3
 
@@ -20,6 +8,8 @@
 |---|---|---|---|---|---|
 | Basics of Economics | HS2301 | Mid-Semester | 2023 | [PDF](Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.pdf) (1p) | [text](Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.md) |
 | Basics of Economics | HS2301 | End-Semester | 2023 | [PDF](Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.pdf) (2p) | [text](Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.md) |
+| Essentials of Finance | MHN2003 | Mid-Semester | 2024 | [PDF](Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.md) |
+| Essentials of Finance | MHN2003 | End-Semester | 2024 | [PDF](Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.md) |
 
 ## Semester 4
 

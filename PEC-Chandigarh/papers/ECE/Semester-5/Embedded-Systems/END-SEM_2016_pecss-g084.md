@@ -1,10 +1,10 @@
-# Embedded Systems () - End-Semester 2016
+# Embedded Systems (ECN305) - End-Semester 2016
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** ECE - Electronics and Communication Engineering
 - **Semester:** 5
 - **Course:** Embedded Systems
-- **Course code:** 
+- **Course code:** ECN305
 - **Exam:** End-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** 2016

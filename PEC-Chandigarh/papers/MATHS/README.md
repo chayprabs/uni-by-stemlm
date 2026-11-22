@@ -1,23 +1,6 @@
 # MATHS - Mathematics
 
-18 papers. [Back to the full index](../../INDEX.md)
-
-## Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Calculus and Ordinary Differential Equations | MA1101 | Mid-Semester | 2022 | [PDF](Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.pdf) (1p) | [text](Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.md) |
-| Calculus and Ordinary Differential Equations | MA1101 | End-Semester | 2022 | [PDF](Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.pdf) (2p) | [text](Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.md) |
-| Calculus and Ordinary Differential Equations | MA1101 | End-Semester | undated | [PDF](Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.pdf) (1p) | [text](Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.md) |
-
-## Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | Mid-Semester | 2022 | [PDF](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.pdf) (1p) | [text](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.md) |
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | Mid-Semester | 2023 | [PDF](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.pdf) (1p) | [text](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.md) |
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | End-Semester | 2023 | [PDF](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.pdf) (2p) | [text](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.md) |
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | End-Semester | undated | [PDF](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.pdf) (2p) | [text](Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.md) |
+11 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
 
 ## Semester 4
 

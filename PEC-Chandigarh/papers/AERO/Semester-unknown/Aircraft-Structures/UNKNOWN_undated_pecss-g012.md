@@ -1,10 +1,10 @@
-# Aircraft Structures () - Exam (type not stated) undated
+# Aircraft Structures - Exam (type not stated) undated
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** AERO - Aerospace Engineering
 - **Semester:** unknown
 - **Course:** Aircraft Structures
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** Exam (type not stated) - handwritten paper, no header
 - **Programme:** B.Tech / B.E.
 - **Year:** undated

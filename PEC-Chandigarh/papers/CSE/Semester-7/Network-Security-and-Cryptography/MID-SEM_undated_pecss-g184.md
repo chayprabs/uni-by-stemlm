@@ -1,10 +1,10 @@
-# Network Security and Cryptography () - Mid-Semester undated
+# Network Security and Cryptography (CSN461) - Mid-Semester undated
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** CSE - Computer Science and Engineering
 - **Semester:** 7
 - **Course:** Network Security and Cryptography
-- **Course code:** 
+- **Course code:** CSN461
 - **Exam:** Mid-Semester - set C (honours)
 - **Programme:** B.Tech / B.E.
 - **Year:** undated

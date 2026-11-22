@@ -1,10 +1,10 @@
-# Mobile Computing () - End-Semester 2017
+# Mobile Computing - End-Semester 2017
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** CSE - Computer Science and Engineering
 - **Semester:** 7
 - **Course:** Mobile Computing
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** End-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** 2017

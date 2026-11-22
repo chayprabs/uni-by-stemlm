@@ -1,31 +1,40 @@
-# PEC Chandigarh - Previous Year Papers Index
+# PEC Chandigarh - Previous Year Papers (by branch)
 
-Organised **branch -> semester -> course**. Each paper has a PDF and a `.md` file with
-metadata, a (to be filled) solutions section and the OCR transcript.
+Views: [by branch](INDEX.md) · [by course](BY-COURSE.md) · [by semester](BY-SEMESTER.md)
 
-**375 papers** across 15 departments (591 pages). Not included: 51 duplicates, 35 excluded (test uploads, or papers from other universities wrongly labelled PEC), 1 missing. Every source file is accounted for in [data/manifest.json](data/manifest.json); see [README.md](README.md) for details.
+**375 papers, 591 pages.** Not included: 51 duplicates, 35 excluded (test uploads, or other universities' papers mislabelled PEC), 1 missing - all listed in [data/manifest.json](data/manifest.json).
 
-## Departments
+Folder layout: `papers/<BRANCH>/Semester-<n>/<Course>/<EXAM>_<year>_<source>.pdf` (+ `.md` with metadata, solutions section and OCR text).
 
-- [AERO - Aerospace Engineering](#aero) (8 papers)
-- [CHEMISTRY - Chemistry](#chemistry) (9 papers)
-- [CIVIL - Civil Engineering](#civil) (30 papers)
-- [COMMON - First-year common courses (all branches)](#common) (8 papers)
-- [CSE - Computer Science and Engineering](#cse) (49 papers)
-- [CSE-AI - CSE (Artificial Intelligence)](#cse-ai) (2 papers)
-- [CSE-DS - CSE (Data Science)](#cse-ds) (8 papers)
-- [ECE - Electronics and Communication Engineering](#ece) (56 papers)
-- [EE - Electrical Engineering](#ee) (69 papers)
-- [HSM - Humanities, Social Sciences and Management](#hsm) (23 papers)
-- [MATHS - Mathematics](#maths) (18 papers)
-- [MECH - Mechanical Engineering](#mech) (54 papers)
-- [META - Metallurgical and Materials Engineering](#meta) (17 papers)
-- [PHYSICS - Physics](#physics) (3 papers)
-- [PROD - Production and Industrial Engineering](#prod) (21 papers)
+## Engineering branches
+
+| Branch | Name | Papers | Semesters |
+|---|---|---|---|
+| [AERO](#aero) | Aerospace Engineering | 8 | 3, 4, unknown |
+| [CIVIL](#civil) | Civil Engineering | 27 | 3, 4, 5, 7, 8 |
+| [CSE](#cse) | Computer Science and Engineering | 46 | 3, 4, 5, 7, 8, unknown |
+| [CSE-AI](#cse-ai) | CSE (Artificial Intelligence) | 2 | 3 |
+| [CSE-DS](#cse-ds) | CSE (Data Science) | 5 | 4, 7 |
+| [ECE](#ece) | Electronics and Communication Engineering | 44 | 2, 3, 4, 5, 7, 8 |
+| [EE](#ee) | Electrical Engineering | 46 | 3, 4, 5, 6, 7, 8, unknown |
+| [MECH](#mech) | Mechanical Engineering | 54 | 1, 3, 4, 5, 7, 8 |
+| [META](#meta) | Metallurgical and Materials Engineering | 17 | 3, 5, 7, 8 |
+| [PROD](#prod) | Production and Industrial Engineering | 19 | 3, 4, 7, MTech-2 |
+
+## Common and service departments
+
+First-year courses taken by every branch are in **COMMON**; humanities/management courses in **HSM**; maths, chemistry and physics electives under their departments.
+
+| Group | Name | Papers | Semesters |
+|---|---|---|---|
+| [COMMON](#common) | First-year common courses (all branches) | 71 | 1, 2 |
+| [HSM](#hsm) | Humanities, Social Sciences and Management | 23 | 3, 4, 7, 8 |
+| [MATHS](#maths) | Mathematics | 11 | 4, 7, 8 |
+| [CHEMISTRY](#chemistry) | Chemistry | 2 | 7 |
 
 ## AERO
 
-_Aerospace Engineering_
+_Aerospace Engineering_ - [folder README](papers/AERO/README.md)
 
 ### AERO - Semester 3
 
@@ -50,50 +59,9 @@ _Aerospace Engineering_
 | Aircraft Structures | - | Exam (type not stated) | undated | [PDF](papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.pdf) (3p) | [text](papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.md) |
 | Mechanical Vibrations and Aero-elasticity | - | Mid-Semester | 2016 | [PDF](papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.pdf) (1p) | [text](papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.md) |
 
-## CHEMISTRY
-
-_Chemistry_
-
-### CHEMISTRY - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Applied Chemistry | - | End-Semester | undated | [PDF](papers/CHEMISTRY/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.pdf) (2p) | [text](papers/CHEMISTRY/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.md) |
-| Introduction to Environmental Sciences I | GS1101 | Mid-Semester | 2022 | [PDF](papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.pdf) (1p) | [text](papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.md) |
-| Introduction to Environmental Sciences I | GS1101 | End-Semester | 2022 | [PDF](papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.pdf) (1p) | [text](papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.md) |
-| Introduction to Environmental Sciences II | GS1201 | End-Semester | 2022 | [PDF](papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.pdf) (2p) | [text](papers/CHEMISTRY/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.md) |
-
-### CHEMISTRY - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Applied Chemistry II | CH1201 | Mid-Semester | 2023 | [PDF](papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.pdf) (1p) | [text](papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.md) |
-| Applied Chemistry II | CH1201 | End-Semester | 2023 | [PDF](papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.pdf) (2p) | [text](papers/CHEMISTRY/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.md) |
-| Introduction to Environmental Sciences II | GS1201 | End-Semester | undated | [PDF](papers/CHEMISTRY/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.pdf) (1p) | [text](papers/CHEMISTRY/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.md) |
-
-### CHEMISTRY - Semester 7
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Green Chemical Processing and Technologies for Circular Economy | CH6004 | Mid-Semester | 2025 | [PDF](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.pdf) (1p) | [text](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.md) |
-| Green Chemical Processing and Technologies for Circular Economy | CH6004 | End-Semester | 2025 | [PDF](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.pdf) (2p) | [text](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.md) |
-
 ## CIVIL
 
-_Civil Engineering_
-
-### CIVIL - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Engineering Drawing | - | End-Semester | undated | [PDF](papers/CIVIL/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.pdf) (1p) | [text](papers/CIVIL/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.md) |
-
-### CIVIL - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Introduction to Environmental Sciences I | GS1101 | Mid-Semester | 2022 | [PDF](papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.pdf) (1p) | [text](papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.md) |
-| Introduction to Environmental Sciences I | GS1101 | End-Semester | 2022 | [PDF](papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.pdf) (1p) | [text](papers/CIVIL/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.md) |
+_Civil Engineering_ - [folder README](papers/CIVIL/README.md)
 
 ### CIVIL - Semester 3
 
@@ -104,8 +72,8 @@ _Civil Engineering_
 | Geoinformatics | CEN202 | Mid-Semester | 2015 | [PDF](papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.pdf) (2p) | [text](papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.md) |
 | Geoinformatics | CEN202 | Mid-Semester | 2017 | [PDF](papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.pdf) (1p) | [text](papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.md) |
 | Transportation Engineering I | CE213 | End-Semester | 2013 | [PDF](papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.pdf) (1p) | [text](papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.md) |
-| Transportation Engineering I | CE213 | Sessional Test | undated | [PDF](papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.pdf) (1p) | [text](papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md) |
 | Transportation Engineering I | CEN203 | Sessional Test | 2016 | [PDF](papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.pdf) (1p) | [text](papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.md) |
+| Transportation Engineering I | CE213 | Sessional Test | undated | [PDF](papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.pdf) (1p) | [text](papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md) |
 
 ### CIVIL - Semester 4
 
@@ -147,49 +115,20 @@ _Civil Engineering_
 | Advanced Structural Design | CE443 | Mid-Semester | 2017 | [PDF](papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.pdf) (2p) | [text](papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.md) |
 | Traffic Engineering | CEN412 | End-Semester | 2019 | [PDF](papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.pdf) (2p) | [text](papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.md) |
 
-## COMMON
-
-_First-year common courses (all branches)_
-
-### COMMON - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Engineering Design | TA103 | End-Semester | 2010 | text only | [text](papers/COMMON/Semester-2/Engineering-Design/END-SEM_2010_howtoexam-h4034.md) |
-| Engineering Design | TA103 | Sessional Test | 2010 | [PDF](papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.pdf) (1p) | [text](papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.md) |
-| Introduction to Computing | TA101 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.md) |
-| Mathematics II | MA102 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.md) |
-| Mathematics II | MA102 | Quiz / Class Test | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.md) |
-| Mathematics II | MA102 | Assignment | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.md) |
-| Physics I | PY101 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.pdf) (1p) | [text](papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.md) |
-| Physics I | PY101 | End-Semester | 2007 | [PDF](papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.pdf) (1p) | [text](papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.md) |
-
 ## CSE
 
-_Computer Science and Engineering_
-
-### CSE - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Introduction to Computing | ES1101 | End-Semester | 2022 | [PDF](papers/CSE/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.pdf) (2p) | [text](papers/CSE/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.md) |
-
-### CSE - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Artificial Intelligence and Machine Learning | ES1701 | Mid-Semester | 2022 | [PDF](papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.pdf) (2p) | [text](papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.md) |
-| Artificial Intelligence and Machine Learning | ES1701 | End-Semester | 2022 | [PDF](papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.pdf) (2p) | [text](papers/CSE/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.md) |
+_Computer Science and Engineering_ - [folder README](papers/CSE/README.md)
 
 ### CSE - Semester 3
 
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
-| Analysis and Design of Algorithms | CS6401 | Mid-Semester | undated | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.pdf) (1p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.md) |
-| Analysis and Design of Algorithms | CS6401 | End-Semester | 2023 | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.pdf) (2p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.md) |
 | Analysis and Design of Algorithms | CSN204 | Mid-Semester | 2017 | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.pdf) (2p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.md) |
+| Analysis and Design of Algorithms | CS6401 | Mid-Semester | undated | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.pdf) (1p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_undated_7Lgh0S.md) |
 | Analysis and Design of Algorithms | CSN204 | End-Semester | 2017 | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.pdf) (2p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.md) |
 | Analysis and Design of Algorithms | CSN204 | End-Semester | 2019 | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.pdf) (1p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.md) |
+| Analysis and Design of Algorithms | CS6401 | End-Semester | 2023 | [PDF](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.pdf) (2p) | [text](papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2023_55hf3Y.md) |
+| Computer Architecture | CSN202 | End-Semester | 2021 | [PDF](papers/CSE/Semester-3/Computer-Architecture/END-SEM_2021_pecss-g056.pdf) (2p) | [text](papers/CSE/Semester-3/Computer-Architecture/END-SEM_2021_pecss-g056.md) |
 | Data Structures | CS6301 | Mid-Semester | 2022 | [PDF](papers/CSE/Semester-3/Data-Structures/MID-SEM_2022_PceBuf.pdf) (2p) | [text](papers/CSE/Semester-3/Data-Structures/MID-SEM_2022_PceBuf.md) |
 | Data Structures | CS6301 | Mid-Semester | 2023 | [PDF](papers/CSE/Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.pdf) (1p) | [text](papers/CSE/Semester-3/Data-Structures/MID-SEM_2023_kdMz9v.md) |
 | Data Structures | CS6301 | End-Semester | 2023 | [PDF](papers/CSE/Semester-3/Data-Structures/END-SEM_2023_rgxpXw.pdf) (2p) | [text](papers/CSE/Semester-3/Data-Structures/END-SEM_2023_rgxpXw.md) |
@@ -225,15 +164,15 @@ _Computer Science and Engineering_
 | Big Data Analytics | CSN409 | Mid-Semester | 2019 | [PDF](papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.pdf) (2p) | [text](papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.md) |
 | Big Data Analytics | CSN409 | End-Semester | 2019 | [PDF](papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.pdf) (2p) | [text](papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.md) |
 | Cloud Computing | CSN405 | End-Semester | undated | [PDF](papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.pdf) (2p) | [text](papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.md) |
+| Computer Networks | CSN432 | Mid-Semester | 2019 | [PDF](papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.pdf) (2p) | [text](papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md) |
 | Computer Networks | CS6701 | Mid-Semester | undated | [PDF](papers/CSE/Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.pdf) (2p) | [text](papers/CSE/Semester-7/Computer-Networks/MID-SEM_undated_RlPH1V.md) |
 | Computer Networks | CS6701 | End-Semester | 2023 | [PDF](papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.pdf) (2p) | [text](papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_KR4FU9.md) |
 | Computer Networks | CS6701 | End-Semester | 2023 | [PDF](papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.pdf) (2p) | [text](papers/CSE/Semester-7/Computer-Networks/END-SEM_2023_mIt2u9.md) |
-| Computer Networks | CSN432 | Mid-Semester | 2019 | [PDF](papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.pdf) (2p) | [text](papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md) |
 | Data Warehousing and Mining | CS476 | Mid-Semester | undated | [PDF](papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.pdf) (1p) | [text](papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.md) |
 | Mobile Computing | - | End-Semester | 2017 | [PDF](papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.pdf) (2p) | [text](papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.md) |
-| Network Security and Cryptography | - | Mid-Semester | undated | [PDF](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.pdf) (1p) | [text](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md) |
 | Network Security and Cryptography | CSN461 | Mid-Semester | undated | [PDF](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.pdf) (2p) | [text](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.md) |
 | Network Security and Cryptography | CSN461 | Mid-Semester | undated | [PDF](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.pdf) (2p) | [text](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.md) |
+| Network Security and Cryptography | CSN461 | Mid-Semester | undated | [PDF](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.pdf) (1p) | [text](papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md) |
 | Object Oriented Programming (Open Elective) | CSN461 | Mid-Semester | 2019 | [PDF](papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.pdf) (1p) | [text](papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.md) |
 | Soft Computing | CSN403 | End-Semester | 2020 | [PDF](papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.pdf) (2p) | [text](papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.md) |
 | System Software | CS462 | Mid-Semester | 2016 | [PDF](papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.pdf) (1p) | [text](papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.md) |
@@ -254,12 +193,11 @@ _Computer Science and Engineering_
 
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
-| Computer Architecture | - | End-Semester | 2021 | [PDF](papers/CSE/Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.pdf) (2p) | [text](papers/CSE/Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.md) |
 | Smartphones and Next Generation Computing | - | End-Semester | undated | [PDF](papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.pdf) (2p) | [text](papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.md) |
 
 ## CSE-AI
 
-_CSE (Artificial Intelligence)_
+_CSE (Artificial Intelligence)_ - [folder README](papers/CSE-AI/README.md)
 
 ### CSE-AI - Semester 3
 
@@ -270,15 +208,7 @@ _CSE (Artificial Intelligence)_
 
 ## CSE-DS
 
-_CSE (Data Science)_
-
-### CSE-DS - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Applied Chemistry | CH2301 | End-Semester | undated | [PDF](papers/CSE-DS/Semester-2/Applied-Chemistry/END-SEM_undated_2LzBTN.pdf) (2p) | [text](papers/CSE-DS/Semester-2/Applied-Chemistry/END-SEM_undated_2LzBTN.md) |
-| Introduction to Mechatronics | ES2304 | End-Semester | undated | [PDF](papers/CSE-DS/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.pdf) (1p) | [text](papers/CSE-DS/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.md) |
-| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | End-Semester | 2025 | [PDF](papers/CSE-DS/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.pdf) (2p) | [text](papers/CSE-DS/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.md) |
+_CSE (Data Science)_ - [folder README](papers/CSE-DS/README.md)
 
 ### CSE-DS - Semester 4
 
@@ -297,14 +227,7 @@ _CSE (Data Science)_
 
 ## ECE
 
-_Electronics and Communication Engineering_
-
-### ECE - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Introduction to Mechatronics | ES1301 | Mid-Semester | 2022 | [PDF](papers/ECE/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.pdf) (1p) | [text](papers/ECE/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.md) |
-| Introduction to Mechatronics | ES1301 | End-Semester | 2022 | [PDF](papers/ECE/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.pdf) (1p) | [text](papers/ECE/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.md) |
+_Electronics and Communication Engineering_ - [folder README](papers/ECE/README.md)
 
 ### ECE - Semester 2
 
@@ -312,17 +235,6 @@ _Electronics and Communication Engineering_
 |---|---|---|---|---|---|
 | Analog Electronic Circuits I | ECN102 | Mid-Semester | 2016 | [PDF](papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.pdf) (2p) | [text](papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.md) |
 | Digital Design | ECN103 | End-Semester | 2016 | [PDF](papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.pdf) (2p) | [text](papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.md) |
-| Digital Logic Design | EC1231 | End-Semester | 2022 | [PDF](papers/ECE/Semester-2/Digital-Logic-Design/END-SEM_2022_NjxUOC.pdf) (2p) | [text](papers/ECE/Semester-2/Digital-Logic-Design/END-SEM_2022_NjxUOC.md) |
-| Engineering Drawing with CAD Software | ES1201 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.pdf) (1p) | [text](papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.md) |
-| Engineering Drawing with CAD Software | ES1201 | End-Semester | 2023 | [PDF](papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.pdf) (2p) | [text](papers/ECE/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.md) |
-| Introduction to Computing | ES1101 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.pdf) (1p) | [text](papers/ECE/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.md) |
-| Introduction to Computing | ES1101 | End-Semester | 2023 | [PDF](papers/ECE/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.pdf) (2p) | [text](papers/ECE/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.md) |
-| Introduction to Electronics and Electrical Engineering | ES1401 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.pdf) (2p) | [text](papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.md) |
-| Introduction to Electronics and Electrical Engineering | ES1401 | End-Semester | 2023 | [PDF](papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.pdf) (2p) | [text](papers/ECE/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.md) |
-| Introduction to Mechatronics | ES1301 | Mid-Semester | undated | [PDF](papers/ECE/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.pdf) (1p) | [text](papers/ECE/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.md) |
-| Introduction to Mechatronics | ES1301 | End-Semester | undated | [PDF](papers/ECE/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.pdf) (2p) | [text](papers/ECE/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.md) |
-| Strength of Materials | ES1601 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.pdf) (1p) | [text](papers/ECE/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.md) |
-| Strength of Materials | ES1601 | End-Semester | 2023 | [PDF](papers/ECE/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.pdf) (2p) | [text](papers/ECE/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.md) |
 
 ### ECE - Semester 3
 
@@ -330,9 +242,12 @@ _Electronics and Communication Engineering_
 |---|---|---|---|---|---|
 | Analog Electronics | EC1241 | End-Semester | 2025 | [PDF](papers/ECE/Semester-3/Analog-Electronics/END-SEM_2025_sySL4t.pdf) (2p) | [text](papers/ECE/Semester-3/Analog-Electronics/END-SEM_2025_sySL4t.md) |
 | Circuit Theory | EC1233 | Mid-Semester | 2022 | [PDF](papers/ECE/Semester-3/Circuit-Theory/MID-SEM_2022_jWgvzh.pdf) (2p) | [text](papers/ECE/Semester-3/Circuit-Theory/MID-SEM_2022_jWgvzh.md) |
+| Circuit Theory | EC1233 | End-Semester | 2022 | [PDF](papers/ECE/Semester-3/Circuit-Theory/END-SEM_2022_QVcoGP.pdf) (2p) | [text](papers/ECE/Semester-3/Circuit-Theory/END-SEM_2022_QVcoGP.md) |
 | Digital Logic Design | EC1231 | Mid-Semester | 2022 | [PDF](papers/ECE/Semester-3/Digital-Logic-Design/MID-SEM_2022_LV26aM.pdf) (1p) | [text](papers/ECE/Semester-3/Digital-Logic-Design/MID-SEM_2022_LV26aM.md) |
+| Digital Logic Design | EC1231 | End-Semester | 2022 | [PDF](papers/ECE/Semester-3/Digital-Logic-Design/END-SEM_2022_NjxUOC.pdf) (2p) | [text](papers/ECE/Semester-3/Digital-Logic-Design/END-SEM_2022_NjxUOC.md) |
 | Electronic Devices and Circuits | EC1232 | Mid-Semester | 2022 | [PDF](papers/ECE/Semester-3/Electronic-Devices-and-Circuits/MID-SEM_2022_E9KR2o.pdf) (1p) | [text](papers/ECE/Semester-3/Electronic-Devices-and-Circuits/MID-SEM_2022_E9KR2o.md) |
 | Information Technology in Engineering (EOIT) | ESC202 | Mid-Semester | undated | [PDF](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.pdf) (1p) | [text](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.md) |
+| Information Technology in Engineering (EOIT) | ESC202 | Mid-Semester | undated | [PDF](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g112.pdf) (2p) | [text](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g112.md) |
 
 ### ECE - Semester 4
 
@@ -340,7 +255,6 @@ _Electronics and Communication Engineering_
 |---|---|---|---|---|---|
 | Analog Electronics | EC1241 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2023_5gQwK7.pdf) (2p) | [text](papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2023_5gQwK7.md) |
 | Analog Electronics | EC1241 | Mid-Semester | 2025 | [PDF](papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2025_8g76JX.pdf) (1p) | [text](papers/ECE/Semester-4/Analog-Electronics/MID-SEM_2025_8g76JX.md) |
-| Circuit Theory | EC1233 | End-Semester | 2022 | [PDF](papers/ECE/Semester-4/Circuit-Theory/END-SEM_2022_QVcoGP.pdf) (2p) | [text](papers/ECE/Semester-4/Circuit-Theory/END-SEM_2022_QVcoGP.md) |
 | Communication Engineering | ECN201 | Mid-Semester | 2017 | [PDF](papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.pdf) (1p) | [text](papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.md) |
 | Communication Engineering | ECN201 | End-Semester | undated | [PDF](papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.pdf) (1p) | [text](papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.md) |
 | Control Systems | - | Mid-Semester | undated | [PDF](papers/ECE/Semester-4/Control-Systems/MID-SEM_undated_h52Vwm.pdf) (1p) | [text](papers/ECE/Semester-4/Control-Systems/MID-SEM_undated_h52Vwm.md) |
@@ -365,8 +279,8 @@ _Electronics and Communication Engineering_
 | Control Systems | EC1352 | Mid-Semester | undated | [PDF](papers/ECE/Semester-5/Control-Systems/MID-SEM_undated_5d6DtI.pdf) (2p) | [text](papers/ECE/Semester-5/Control-Systems/MID-SEM_undated_5d6DtI.md) |
 | Control Systems | EC1352 | End-Semester | undated | [PDF](papers/ECE/Semester-5/Control-Systems/END-SEM_undated_yyZCx0.pdf) (3p) | [text](papers/ECE/Semester-5/Control-Systems/END-SEM_undated_yyZCx0.md) |
 | Digital Signal Processing | EC2214 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-5/Digital-Signal-Processing/MID-SEM_2023_1zchnz.pdf) (1p) | [text](papers/ECE/Semester-5/Digital-Signal-Processing/MID-SEM_2023_1zchnz.md) |
-| Embedded Systems | - | End-Semester | 2016 | [PDF](papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.pdf) (1p) | [text](papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.md) |
 | Embedded Systems | ECN305 | Mid-Semester | undated | [PDF](papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.pdf) (1p) | [text](papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.md) |
+| Embedded Systems | ECN305 | End-Semester | 2016 | [PDF](papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.pdf) (1p) | [text](papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.md) |
 | Microwave Engineering | EC1353 | End-Semester | 2022 | [PDF](papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.pdf) (4p) | [text](papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.md) |
 | Microwave Engineering | EC1353 | End-Semester | undated | [PDF](papers/ECE/Semester-5/Microwave-Engineering/END-SEM_undated_MrLlrP.pdf) (2p) | [text](papers/ECE/Semester-5/Microwave-Engineering/END-SEM_undated_MrLlrP.md) |
 | Microwave and Radar Engineering | ECN303 | Mid-Semester | undated | [PDF](papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.pdf) (1p) | [text](papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.md) |
@@ -389,60 +303,21 @@ _Electronics and Communication Engineering_
 | Microwave and Radar Engineering | ECN451 | Mid-Semester | 2017 | [PDF](papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.pdf) (2p) | [text](papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.md) |
 | Semiconductor Package Manufacturing | EC2435 | End-Semester | undated | [PDF](papers/ECE/Semester-8/Semiconductor-Package-Manufacturing/END-SEM_undated_lCYlTs.pdf) (1p) | [text](papers/ECE/Semester-8/Semiconductor-Package-Manufacturing/END-SEM_undated_lCYlTs.md) |
 
-### ECE - Semester unknown
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Information Technology (Electronics) | - | Mid-Semester | undated | [PDF](papers/ECE/Semester-unknown/Information-Technology-Electronics/MID-SEM_undated_pecss-g112.pdf) (2p) | [text](papers/ECE/Semester-unknown/Information-Technology-Electronics/MID-SEM_undated_pecss-g112.md) |
-
 ## EE
 
-_Electrical Engineering_
-
-### EE - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Calculus | MA2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.md) |
-| Calculus | MA2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.md) |
-| Communication Skills | HS2351 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.md) |
-| Electromagnetic Theory and Quantum Physics | PY2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.md) |
-| Electromagnetic Theory and Quantum Physics | PY2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.md) |
-| Introduction to Computer Programming | ES2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.md) |
-| Introduction to Computer Programming | ES2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.md) |
-| Introduction to Electronics and Electrical Engineering | ES2305 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.md) |
-| Introduction to Electronics and Electrical Engineering | ES2305 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.md) |
-| Introduction to Environmental Sciences | GS2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.md) |
-| Introduction to Environmental Sciences | GS2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.md) |
-
-### EE - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Applied Chemistry | CH2301 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Applied-Chemistry/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Applied-Chemistry/MID-SEM_2024_upload-2026-11-22.md) |
-| Applied Chemistry | CH2301 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Applied-Chemistry/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-2/Applied-Chemistry/END-SEM_2024_upload-2026-11-22.md) |
-| Engineering Drawing using CAD Software | ES2302 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/MID-SEM_2024_upload-2026-11-22.md) |
-| Engineering Drawing using CAD Software | ES2302 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/END-SEM_2024_upload-2026-11-22.md) |
-| Engineering Drawing using CAD Software | ES2302 | Practical | 2024 | [PDF](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/PRACTICAL_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/PRACTICAL_2024_upload-2026-11-22.md) |
-| Introduction to Mechatronics | ES2304 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.md) |
-| Introduction to Mechatronics | ES2304 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.md) |
-| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.md) |
-| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.md) |
-| Universal Human Values | GS2302 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.md) |
+_Electrical Engineering_ - [folder README](papers/EE/README.md)
 
 ### EE - Semester 3
 
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
 | Electrical Machines I | EEN3003 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.md) |
-| Electrical Machines I | EEN3003 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.md) |
 | Electrical Machines I | EL1003 | End-Semester | 2021 | [PDF](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.pdf) (1p) | [text](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.md) |
-| Essentials of Finance | MHN2003 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.md) |
-| Essentials of Finance | MHN2003 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.md) |
-| Measurement and Instrumentation | EE212 | End-Semester | 2014 | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.pdf) (2p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.md) |
-| Measurement and Instrumentation | EE212 | Exam (type not stated) | undated | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.pdf) (2p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.md) |
+| Electrical Machines I | EEN3003 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.md) |
 | Measurement and Instrumentation | EEN3002 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.md) |
+| Measurement and Instrumentation | EE212 | End-Semester | 2014 | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.pdf) (2p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.md) |
 | Measurement and Instrumentation | EEN3002 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.md) |
+| Measurement and Instrumentation | EE212 | Exam (type not stated) | undated | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.pdf) (2p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.md) |
 | Networks and Systems | EL3001 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.md) |
 | Networks and Systems | EL3001 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.md) |
 | Object Oriented Programming | CSM1001 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.md) |
@@ -488,7 +363,7 @@ _Electrical Engineering_
 | Control System Lab (DL-IV) | EE413 | Quiz / Class Test | undated | [PDF](papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.pdf) (4p) | [text](papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.md) |
 | Energy Auditing and Management | EEN405 | Mid-Semester | undated | [PDF](papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.pdf) (1p) | [text](papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.md) |
 | Energy Auditing and Management | EEN405 | Exam (type not stated) | undated | [PDF](papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.pdf) (1p) | [text](papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.md) |
-| Neural Network and Fuzzy System | EEN411 | End-Semester | 2017 | [PDF](papers/EE/Semester-7/Neural-Network-and-Fuzzy-System/END-SEM_2017_pecss-g185.pdf) (2p) | [text](papers/EE/Semester-7/Neural-Network-and-Fuzzy-System/END-SEM_2017_pecss-g185.md) |
+| Neural Networks and Fuzzy Systems | EEN411 | End-Semester | 2017 | [PDF](papers/EE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2017_pecss-g185.pdf) (2p) | [text](papers/EE/Semester-7/Neural-Networks-and-Fuzzy-Systems/END-SEM_2017_pecss-g185.md) |
 | Power System Operation and Control | EEN413 | Mid-Semester | 2018 | [PDF](papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.pdf) (2p) | [text](papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.md) |
 | Power System Operation and Control | EEN413 | End-Semester | 2018 | [PDF](papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.pdf) (2p) | [text](papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.md) |
 | Restructured and Deregulated Power Systems | EEN401 | Mid-Semester | 2018 | [PDF](papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.pdf) (1p) | [text](papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.md) |
@@ -499,13 +374,13 @@ _Electrical Engineering_
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
 | Digital Signal Processing | EEN417 | End-Semester | 2018 | [PDF](papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.pdf) (2p) | [text](papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.md) |
-| Electrical Vehicles | EL6012 | End-Semester | 2024 | [PDF](papers/EE/Semester-8/Electrical-Vehicles/END-SEM_2024_KgwkKF.pdf) (1p) | [text](papers/EE/Semester-8/Electrical-Vehicles/END-SEM_2024_KgwkKF.md) |
+| Electric Vehicles | EL6012 | End-Semester | 2024 | [PDF](papers/EE/Semester-8/Electric-Vehicles/END-SEM_2024_KgwkKF.pdf) (1p) | [text](papers/EE/Semester-8/Electric-Vehicles/END-SEM_2024_KgwkKF.md) |
 | Microcontroller and PLC Applications | EE425A | End-Semester | 2017 | [PDF](papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.pdf) (1p) | [text](papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.md) |
 | Utilization of Electrical Energy and Illumination Engineering | EE426 | Mid-Semester | 2017 | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.md) |
-| Utilization of Electrical Energy and Illumination Engineering | EE426 | End-Semester | 2017 | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.md) |
-| Utilization of Electrical Energy and Illumination Engineering | EE426 | Quiz / Class Test | undated | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.md) |
 | Utilization of Electrical Energy and Illumination Engineering | EEN414 | Mid-Semester | 2018 | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.md) |
+| Utilization of Electrical Energy and Illumination Engineering | EE426 | End-Semester | 2017 | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.md) |
 | Utilization of Electrical Energy and Illumination Engineering | EEN414 | End-Semester | 2018 | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.md) |
+| Utilization of Electrical Energy and Illumination Engineering | EE426 | Quiz / Class Test | undated | [PDF](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.pdf) (1p) | [text](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.md) |
 
 ### EE - Semester unknown
 
@@ -513,113 +388,9 @@ _Electrical Engineering_
 |---|---|---|---|---|---|
 | Advanced Control System | - | Exam (type not stated) | undated | [PDF](papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.pdf) (2p) | [text](papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.md) |
 
-## HSM
-
-_Humanities, Social Sciences and Management_
-
-### HSM - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Communication Skills and Ethics | HS1101 | End-Semester | 2022 | [PDF](papers/HSM/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.pdf) (2p) | [text](papers/HSM/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.md) |
-
-### HSM - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Communication Skills and Ethics | HS1101 | End-Semester | 2022 | [PDF](papers/HSM/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.pdf) (3p) | [text](papers/HSM/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.md) |
-
-### HSM - Semester 3
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Basics of Economics | HS2301 | Mid-Semester | 2023 | [PDF](papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.pdf) (1p) | [text](papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.md) |
-| Basics of Economics | HS2301 | End-Semester | 2023 | [PDF](papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.pdf) (2p) | [text](papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.md) |
-
-### HSM - Semester 4
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Basics of Economics | HS2301 | Mid-Semester | 2023 | [PDF](papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.pdf) (2p) | [text](papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.md) |
-| Essentials of Finance | MHN2003 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.pdf) (2p) | [text](papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.md) |
-| Essentials of Finance | MHN2003 | End-Semester | 2025 | [PDF](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.pdf) (2p) | [text](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.md) |
-| Essentials of Finance | MHN2003 | End-Semester | 2025 | [PDF](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.pdf) (2p) | [text](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.md) |
-
-### HSM - Semester 7
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Managing Innovation and Change | HS2710 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.pdf) (1p) | [text](papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.md) |
-| Managing Innovation and Change | HS2710 | End-Semester | 2025 | [PDF](papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.pdf) (2p) | [text](papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.md) |
-| Strategic Management | - | Mid-Semester | 2024 | [PDF](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.pdf) (1p) | [text](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.md) |
-| Strategic Management | - | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.pdf) (1p) | [text](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.md) |
-
-### HSM - Semester 8
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Business Environment and Business Laws | HS2801 | Mid-Semester | 2026 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.md) |
-| Business Environment and Business Laws | HS2801 | End-Semester | 2025 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.md) |
-| Business Environment and Business Laws | HS2801 | End-Semester | 2026 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.md) |
-| Business Research (Minor) | HSM432 | Mid-Semester | 2019 | [PDF](papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.pdf) (1p) | [text](papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md) |
-| Business Research (Minor) | HSM432 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md) |
-| Entrepreneurship and Project Management | HS2802 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.pdf) (1p) | [text](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md) |
-| Entrepreneurship and Project Management | HS2802 | End-Semester | 2025 | [PDF](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.pdf) (1p) | [text](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.md) |
-| Financial Management | HSM404 | Mid-Semester | 2018 | [PDF](papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.pdf) (1p) | [text](papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md) |
-| Financial Management (Minor) | HSM434 | Mid-Semester | 2019 | [PDF](papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.pdf) (1p) | [text](papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md) |
-| Financial Management (Minor) | HSM434 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.pdf) (2p) | [text](papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.md) |
-| Marketing Management (Minor) | HSM435 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.pdf) (2p) | [text](papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.md) |
-
-## MATHS
-
-_Mathematics_
-
-### MATHS - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Calculus and Ordinary Differential Equations | MA1101 | Mid-Semester | 2022 | [PDF](papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.pdf) (1p) | [text](papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.md) |
-| Calculus and Ordinary Differential Equations | MA1101 | End-Semester | 2022 | [PDF](papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.pdf) (2p) | [text](papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.md) |
-| Calculus and Ordinary Differential Equations | MA1101 | End-Semester | undated | [PDF](papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.pdf) (1p) | [text](papers/MATHS/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.md) |
-
-### MATHS - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | Mid-Semester | 2022 | [PDF](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.pdf) (1p) | [text](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.md) |
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | Mid-Semester | 2023 | [PDF](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.pdf) (1p) | [text](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.md) |
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | End-Semester | 2023 | [PDF](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.pdf) (2p) | [text](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.md) |
-| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | End-Semester | undated | [PDF](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.pdf) (2p) | [text](papers/MATHS/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.md) |
-
-### MATHS - Semester 4
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Fourier Series and Integral Transforms | MA6005 | Mid-Semester | 2024 | [PDF](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.pdf) (1p) | [text](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.md) |
-| Fourier Series and Integral Transforms | MA6005 | End-Semester | 2024 | [PDF](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.pdf) (2p) | [text](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.md) |
-
-### MATHS - Semester 7
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Optimization Techniques | MA6002 | Mid-Semester | 2025 | [PDF](papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.pdf) (1p) | [text](papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.md) |
-| Optimization Techniques | MA6002 | End-Semester | 2025 | [PDF](papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.pdf) (2p) | [text](papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.md) |
-
-### MATHS - Semester 8
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Algebraic Coding Theory | MA6007 | Mid-Semester | 2025 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.pdf) (1p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.md) |
-| Algebraic Coding Theory | MA6007 | Mid-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.pdf) (1p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.md) |
-| Algebraic Coding Theory | MA6007 | End-Semester | 2025 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.pdf) (2p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.md) |
-| Algebraic Coding Theory | MA6007 | End-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.pdf) (2p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.md) |
-| Number Theory | MA6004 | Mid-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.pdf) (1p) | [text](papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.md) |
-| Number Theory | MA6004 | End-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.pdf) (1p) | [text](papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.md) |
-| Numerical Analysis | - | End-Semester | 2025 | [PDF](papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.pdf) (2p) | [text](papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.md) |
-
 ## MECH
 
-_Mechanical Engineering_
+_Mechanical Engineering_ - [folder README](papers/MECH/README.md)
 
 ### MECH - Semester 1
 
@@ -635,6 +406,7 @@ _Mechanical Engineering_
 | Elements of Manufacturing Processes | ME1031 | End-Semester | 2023 | [PDF](papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.pdf) (2p) | [text](papers/MECH/Semester-3/Elements-of-Manufacturing-Processes/END-SEM_2023_jUQ08Y.md) |
 | Elements of Thermodynamics | ME1032 | Mid-Semester | 2023 | [PDF](papers/MECH/Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.pdf) (1p) | [text](papers/MECH/Semester-3/Elements-of-Thermodynamics/MID-SEM_2023_bjFnun.md) |
 | Elements of Thermodynamics | ME1032 | End-Semester | 2023 | [PDF](papers/MECH/Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.pdf) (2p) | [text](papers/MECH/Semester-3/Elements-of-Thermodynamics/END-SEM_2023_qCRLmY.md) |
+| Elements of Thermodynamics | - | Exam (type not stated) | undated | [PDF](papers/MECH/Semester-3/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf) (1p) | [text](papers/MECH/Semester-3/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md) |
 | Kinematics of Machines | MEN202 | Mid-Semester | 2016 | [PDF](papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.pdf) (3p) | [text](papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.md) |
 | Manufacturing Processes | MEN203 | End-Semester | 2016 | [PDF](papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.pdf) (2p) | [text](papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.md) |
 | Materials Science | ESC203 | Mid-Semester | 2016 | [PDF](papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.pdf) (1p) | [text](papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.md) |
@@ -704,15 +476,9 @@ _Mechanical Engineering_
 | Power Plant Engineering | ME2032 | Mid-Semester | 2026 | [PDF](papers/MECH/Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.pdf) (2p) | [text](papers/MECH/Semester-8/Power-Plant-Engineering/MID-SEM_2026_EcMrGo.md) |
 | Power Plant Engineering | ME2032 | End-Semester | 2026 | [PDF](papers/MECH/Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.pdf) (2p) | [text](papers/MECH/Semester-8/Power-Plant-Engineering/END-SEM_2026_DcLlu8.md) |
 
-### MECH - Semester unknown
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Elements of Thermodynamics | - | Exam (type not stated) | undated | [PDF](papers/MECH/Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf) (1p) | [text](papers/MECH/Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md) |
-
 ## META
 
-_Metallurgical and Materials Engineering_
+_Metallurgical and Materials Engineering_ - [folder README](papers/META/README.md)
 
 ### META - Semester 3
 
@@ -751,33 +517,9 @@ _Metallurgical and Materials Engineering_
 |---|---|---|---|---|---|
 | Surface Engineering | MTN409 | Mid-Semester | 2020 | [PDF](papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.pdf) (1p) | [text](papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.md) |
 
-## PHYSICS
-
-_Physics_
-
-### PHYSICS - Semester 1
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Mechanics and Optics | PY1101 | Mid-Semester | 2022 | [PDF](papers/PHYSICS/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.pdf) (2p) | [text](papers/PHYSICS/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.md) |
-| Mechanics and Optics | PY1101 | End-Semester | 2022 | [PDF](papers/PHYSICS/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.pdf) (2p) | [text](papers/PHYSICS/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.md) |
-
-### PHYSICS - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Electromagnetic Theory and Quantum Physics | - | Mid-Semester | undated | [PDF](papers/PHYSICS/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.pdf) (1p) | [text](papers/PHYSICS/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.md) |
-
 ## PROD
 
-_Production and Industrial Engineering_
-
-### PROD - Semester 2
-
-| Course | Code | Exam | Year | Paper | Transcript |
-|---|---|---|---|---|---|
-| Introduction to Manufacturing | ES1501 | Mid-Semester | undated | [PDF](papers/PROD/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.pdf) (1p) | [text](papers/PROD/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.md) |
-| Introduction to Manufacturing | ES1501 | End-Semester | 2022 | [PDF](papers/PROD/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.pdf) (1p) | [text](papers/PROD/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.md) |
+_Production and Industrial Engineering_ - [folder README](papers/PROD/README.md)
 
 ### PROD - Semester 3
 
@@ -791,8 +533,8 @@ _Production and Industrial Engineering_
 |---|---|---|---|---|---|
 | Forming and Welding | PEN207 | End-Semester | 2016 | [PDF](papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.pdf) (1p) | [text](papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.md) |
 | Industrial Engineering I | PEN210 | End-Semester | 2017 | [PDF](papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.pdf) (1p) | [text](papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.md) |
-| Machine Design | - | End-Semester | 2017 | [PDF](papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.pdf) (2p) | [text](papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.md) |
 | Machine Design | PEN208 | Mid-Semester | 2017 | [PDF](papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.pdf) (1p) | [text](papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.md) |
+| Machine Design | PEN208 | End-Semester | 2017 | [PDF](papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.pdf) (2p) | [text](papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.md) |
 | Tool Design | PEN209 | Mid-Semester | 2017 | [PDF](papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.pdf) (2p) | [text](papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.md) |
 | Tool Design | PEN209 | End-Semester | 2017 | [PDF](papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.pdf) (1p) | [text](papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.md) |
 
@@ -801,10 +543,10 @@ _Production and Industrial Engineering_
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
 | Industrial Trilogy | PR2007 | Mid-Semester | undated | [PDF](papers/PROD/Semester-7/Industrial-Trilogy/MID-SEM_undated_FWtyhf.pdf) (1p) | [text](papers/PROD/Semester-7/Industrial-Trilogy/MID-SEM_undated_FWtyhf.md) |
+| Operations Research | PE401 | Mid-Semester | 2016 | [PDF](papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.pdf) (3p) | [text](papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.md) |
 | Operations Research | MAN401 | Mid-Semester | 2018 | [PDF](papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.pdf) (1p) | [text](papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.md) |
 | Operations Research | MAN401 | Mid-Semester | undated | [PDF](papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.pdf) (1p) | [text](papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.md) |
 | Operations Research | MAN401 | End-Semester | 2018 | [PDF](papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.pdf) (3p) | [text](papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.md) |
-| Operations Research | PE401 | Mid-Semester | 2016 | [PDF](papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.pdf) (3p) | [text](papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.md) |
 | Optimization Techniques in Manufacturing | PR2020 | End-Semester | 2024 | [PDF](papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/END-SEM_2024_NIzXqa.pdf) (1p) | [text](papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/END-SEM_2024_NIzXqa.md) |
 | Product Design and Development | PR6010 | Mid-Semester | undated | [PDF](papers/PROD/Semester-7/Product-Design-and-Development/MID-SEM_undated_DlrZXj.pdf) (1p) | [text](papers/PROD/Semester-7/Product-Design-and-Development/MID-SEM_undated_DlrZXj.md) |
 
@@ -817,3 +559,176 @@ _Production and Industrial Engineering_
 | Industrial Robotics | PRM5401 | End-Semester | 2019 | [PDF](papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.pdf) (7p) | [text](papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.md) |
 | Welding Engineering | PRM5041 | End-Semester | undated | [PDF](papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.pdf) (1p) | [text](papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.md) |
 | Welding Engineering | PRM5041 | Assignment | undated | [PDF](papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.pdf) (2p) | [text](papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.md) |
+
+## COMMON
+
+_First-year common courses (all branches)_ - [folder README](papers/COMMON/README.md)
+
+### COMMON - Semester 1
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Applied Chemistry | - | End-Semester | undated | [PDF](papers/COMMON/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.pdf) (2p) | [text](papers/COMMON/Semester-1/Applied-Chemistry/END-SEM_undated_fwcfiE.md) |
+| Calculus | MA2301 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.md) |
+| Calculus | MA2301 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.md) |
+| Calculus and Ordinary Differential Equations | MA1101 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.pdf) (1p) | [text](papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/MID-SEM_2022_nkH6E5.md) |
+| Calculus and Ordinary Differential Equations | MA1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.pdf) (2p) | [text](papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_2022_7KjuCV.md) |
+| Calculus and Ordinary Differential Equations | MA1101 | End-Semester | undated | [PDF](papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.pdf) (1p) | [text](papers/COMMON/Semester-1/Calculus-and-Ordinary-Differential-Equations/END-SEM_undated_0BHBx7.md) |
+| Communication Skills | HS2351 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.md) |
+| Communication Skills and Ethics | HS1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.pdf) (2p) | [text](papers/COMMON/Semester-1/Communication-Skills-and-Ethics/END-SEM_2022_v7sgJq.md) |
+| Electromagnetic Theory and Quantum Physics | PY2301 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.md) |
+| Electromagnetic Theory and Quantum Physics | PY2301 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.md) |
+| Engineering Drawing | - | End-Semester | undated | [PDF](papers/COMMON/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.pdf) (1p) | [text](papers/COMMON/Semester-1/Engineering-Drawing/END-SEM_undated_BewEZd.md) |
+| Introduction to Computer Programming | ES2301 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Computer Programming | ES2301 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Computing | ES1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Computing/END-SEM_2022_YUHMvt.md) |
+| Introduction to Electronics and Electrical Engineering | ES2305 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Electronics and Electrical Engineering | ES2305 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Environmental Sciences | GS2301 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Environmental Sciences | GS2301 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Environmental Sciences I | GS1101 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.pdf) (1p) | [text](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_APMJ9a.md) |
+| Introduction to Environmental Sciences I | GS1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.pdf) (1p) | [text](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-I/END-SEM_2022_gUmOvY.md) |
+| Introduction to Environmental Sciences II | GS1201 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.pdf) (2p) | [text](papers/COMMON/Semester-1/Introduction-to-Environmental-Sciences-II/END-SEM_2022_GW6tgr.md) |
+| Introduction to Mechatronics | ES1301 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.pdf) (1p) | [text](papers/COMMON/Semester-1/Introduction-to-Mechatronics/MID-SEM_2022_8tLIwY.md) |
+| Introduction to Mechatronics | ES1301 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.pdf) (1p) | [text](papers/COMMON/Semester-1/Introduction-to-Mechatronics/END-SEM_2022_WBsb9E.md) |
+| Mechanics and Optics | PY1101 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.pdf) (2p) | [text](papers/COMMON/Semester-1/Mechanics-and-Optics/MID-SEM_2022_mtrxgH.md) |
+| Mechanics and Optics | PY1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.pdf) (2p) | [text](papers/COMMON/Semester-1/Mechanics-and-Optics/END-SEM_2022_aAB0W5.md) |
+
+### COMMON - Semester 2
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Applied Chemistry I | CH2301 | Mid-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Applied-Chemistry-I/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Applied-Chemistry-I/MID-SEM_2024_upload-2026-11-22.md) |
+| Applied Chemistry I | CH2301 | End-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_2024_upload-2026-11-22.md) |
+| Applied Chemistry I | CH2301 | End-Semester | undated | [PDF](papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_undated_2LzBTN.pdf) (2p) | [text](papers/COMMON/Semester-2/Applied-Chemistry-I/END-SEM_undated_2LzBTN.md) |
+| Applied Chemistry II | CH1201 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.pdf) (1p) | [text](papers/COMMON/Semester-2/Applied-Chemistry-II/MID-SEM_2023_lyOtWF.md) |
+| Applied Chemistry II | CH1201 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.pdf) (2p) | [text](papers/COMMON/Semester-2/Applied-Chemistry-II/END-SEM_2023_XDgiES.md) |
+| Artificial Intelligence and Machine Learning | ES1701 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.pdf) (2p) | [text](papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/MID-SEM_2022_x6tnzM.md) |
+| Artificial Intelligence and Machine Learning | ES1701 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.pdf) (2p) | [text](papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/END-SEM_2022_qU7OQZ.md) |
+| Communication Skills and Ethics | HS1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.pdf) (3p) | [text](papers/COMMON/Semester-2/Communication-Skills-and-Ethics/END-SEM_2022_NkGWtm.md) |
+| Electromagnetic Theory and Quantum Physics | PY2301 | Mid-Semester | undated | [PDF](papers/COMMON/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.pdf) (1p) | [text](papers/COMMON/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_undated_tDYcPk.md) |
+| Engineering Design | TA103 | End-Semester | 2010 | text only | [text](papers/COMMON/Semester-2/Engineering-Design/END-SEM_2010_howtoexam-h4034.md) |
+| Engineering Design | TA103 | Sessional Test | 2010 | [PDF](papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.pdf) (1p) | [text](papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.md) |
+| Engineering Drawing with CAD Software | ES1201 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.pdf) (1p) | [text](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2023_lxzZvg.md) |
+| Engineering Drawing with CAD Software | ES2302 | Mid-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MID-SEM_2024_upload-2026-11-22.md) |
+| Engineering Drawing with CAD Software | ES1201 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.pdf) (2p) | [text](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2023_FwSMNR.md) |
+| Engineering Drawing with CAD Software | ES2302 | End-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/END-SEM_2024_upload-2026-11-22.md) |
+| Engineering Drawing with CAD Software | ES2302 | Practical | 2024 | [PDF](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/PRACTICAL_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/PRACTICAL_2024_upload-2026-11-22.md) |
+| Introduction to Computing | TA101 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.md) |
+| Introduction to Computing | ES1101 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2023_oksBXW.md) |
+| Introduction to Computing | ES1101 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.pdf) (2p) | [text](papers/COMMON/Semester-2/Introduction-to-Computing/END-SEM_2023_ZSpl4f.md) |
+| Introduction to Electronics and Electrical Engineering | ES1401 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.pdf) (2p) | [text](papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_K12kfr.md) |
+| Introduction to Electronics and Electrical Engineering | ES1401 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.pdf) (2p) | [text](papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_W3HMpB.md) |
+| Introduction to Environmental Sciences I | GS1101 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/MID-SEM_2022_pNKRCX.md) |
+| Introduction to Environmental Sciences I | GS1101 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-I/END-SEM_2022_XOREev.md) |
+| Introduction to Environmental Sciences II | GS1201 | End-Semester | undated | [PDF](papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Environmental-Sciences-II/END-SEM_undated_Ac7rgC.md) |
+| Introduction to Manufacturing | ES1501 | Mid-Semester | undated | [PDF](papers/COMMON/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Manufacturing/MID-SEM_undated_flLtAG.md) |
+| Introduction to Manufacturing | ES1501 | End-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Manufacturing/END-SEM_2022_uGLvda.md) |
+| Introduction to Mechatronics | ES2304 | Mid-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.md) |
+| Introduction to Mechatronics | ES1301 | Mid-Semester | undated | [PDF](papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Mechatronics/MID-SEM_undated_ud0PtP.md) |
+| Introduction to Mechatronics | ES2304 | End-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.md) |
+| Introduction to Mechatronics | ES1301 | End-Semester | undated | [PDF](papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.pdf) (2p) | [text](papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_Jj3mxb.md) |
+| Introduction to Mechatronics | ES2304 | End-Semester | undated | [PDF](papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Mechatronics/END-SEM_undated_NjxKdL.md) |
+| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | Mid-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.md) |
+| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | End-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.md) |
+| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | End-Semester | 2025 | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.pdf) (2p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2025_aZQIFw.md) |
+| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | Mid-Semester | 2022 | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.pdf) (1p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2022_t5YPTn.md) |
+| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.pdf) (1p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MID-SEM_2023_trl5w0.md) |
+| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.pdf) (2p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_2023_rVQbv8.md) |
+| Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | End-Semester | undated | [PDF](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.pdf) (2p) | [text](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/END-SEM_undated_YMv5Mf.md) |
+| Mathematics II | MA102 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.md) |
+| Mathematics II | MA102 | Quiz / Class Test | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.md) |
+| Mathematics II | MA102 | Assignment | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.md) |
+| Physics I | PY101 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.pdf) (1p) | [text](papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.md) |
+| Physics I | PY101 | End-Semester | 2007 | [PDF](papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.pdf) (1p) | [text](papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.md) |
+| Strength of Materials | ES1601 | Mid-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.pdf) (1p) | [text](papers/COMMON/Semester-2/Strength-of-Materials/MID-SEM_2023_vmdrLD.md) |
+| Strength of Materials | ES1601 | End-Semester | 2023 | [PDF](papers/COMMON/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.pdf) (2p) | [text](papers/COMMON/Semester-2/Strength-of-Materials/END-SEM_2023_pf0lRk.md) |
+| Universal Human Values | GS2302 | End-Semester | 2024 | [PDF](papers/COMMON/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/COMMON/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.md) |
+
+## HSM
+
+_Humanities, Social Sciences and Management_ - [folder README](papers/HSM/README.md)
+
+### HSM - Semester 3
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Basics of Economics | HS2301 | Mid-Semester | 2023 | [PDF](papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.pdf) (1p) | [text](papers/HSM/Semester-3/Basics-of-Economics/MID-SEM_2023_2f38FR.md) |
+| Basics of Economics | HS2301 | End-Semester | 2023 | [PDF](papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.pdf) (2p) | [text](papers/HSM/Semester-3/Basics-of-Economics/END-SEM_2023_OYW5tz.md) |
+| Essentials of Finance | MHN2003 | Mid-Semester | 2024 | [PDF](papers/HSM/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/HSM/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.md) |
+| Essentials of Finance | MHN2003 | End-Semester | 2024 | [PDF](papers/HSM/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/HSM/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.md) |
+
+### HSM - Semester 4
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Basics of Economics | HS2301 | Mid-Semester | 2023 | [PDF](papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.pdf) (2p) | [text](papers/HSM/Semester-4/Basics-of-Economics/MID-SEM_2023_BtRrWl.md) |
+| Essentials of Finance | MHN2003 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.pdf) (2p) | [text](papers/HSM/Semester-4/Essentials-of-Finance/MID-SEM_2025_AxfnX2.md) |
+| Essentials of Finance | MHN2003 | End-Semester | 2025 | [PDF](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.pdf) (2p) | [text](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_84sfVL.md) |
+| Essentials of Finance | MHN2003 | End-Semester | 2025 | [PDF](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.pdf) (2p) | [text](papers/HSM/Semester-4/Essentials-of-Finance/END-SEM_2025_BZzYsd.md) |
+
+### HSM - Semester 7
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Managing Innovation and Change | HS2710 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.pdf) (1p) | [text](papers/HSM/Semester-7/Managing-Innovation-and-Change/MID-SEM_2025_IOYaXd.md) |
+| Managing Innovation and Change | HS2710 | End-Semester | 2025 | [PDF](papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.pdf) (2p) | [text](papers/HSM/Semester-7/Managing-Innovation-and-Change/END-SEM_2025_nN2ANR.md) |
+| Strategic Management | - | Mid-Semester | 2024 | [PDF](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.pdf) (1p) | [text](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2024_MLgz9d.md) |
+| Strategic Management | - | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.pdf) (1p) | [text](papers/HSM/Semester-7/Strategic-Management/MID-SEM_2025_92DwKg.md) |
+
+### HSM - Semester 8
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Business Environment and Business Laws | HS2801 | Mid-Semester | 2026 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/MID-SEM_2026_7qzx6v.md) |
+| Business Environment and Business Laws | HS2801 | End-Semester | 2025 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2025_9d03SE.md) |
+| Business Environment and Business Laws | HS2801 | End-Semester | 2026 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.md) |
+| Business Research (Minor) | HSM432 | Mid-Semester | 2019 | [PDF](papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.pdf) (1p) | [text](papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md) |
+| Business Research (Minor) | HSM432 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md) |
+| Entrepreneurship and Project Management | HS2802 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.pdf) (1p) | [text](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md) |
+| Entrepreneurship and Project Management | HS2802 | End-Semester | 2025 | [PDF](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.pdf) (1p) | [text](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.md) |
+| Financial Management | HSM404 | Mid-Semester | 2018 | [PDF](papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.pdf) (1p) | [text](papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md) |
+| Financial Management (Minor) | HSM434 | Mid-Semester | 2019 | [PDF](papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.pdf) (1p) | [text](papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md) |
+| Financial Management (Minor) | HSM434 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.pdf) (2p) | [text](papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.md) |
+| Marketing Management (Minor) | HSM435 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.pdf) (2p) | [text](papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.md) |
+
+## MATHS
+
+_Mathematics_ - [folder README](papers/MATHS/README.md)
+
+### MATHS - Semester 4
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Fourier Series and Integral Transforms | MA6005 | Mid-Semester | 2024 | [PDF](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.pdf) (1p) | [text](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/MID-SEM_2024_eSCkM1.md) |
+| Fourier Series and Integral Transforms | MA6005 | End-Semester | 2024 | [PDF](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.pdf) (2p) | [text](papers/MATHS/Semester-4/Fourier-Series-and-Integral-Transforms/END-SEM_2024_W03KSA.md) |
+
+### MATHS - Semester 7
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Optimization Techniques | MA6002 | Mid-Semester | 2025 | [PDF](papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.pdf) (1p) | [text](papers/MATHS/Semester-7/Optimization-Techniques/MID-SEM_2025_JhIOht.md) |
+| Optimization Techniques | MA6002 | End-Semester | 2025 | [PDF](papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.pdf) (2p) | [text](papers/MATHS/Semester-7/Optimization-Techniques/END-SEM_2025_Bf3Upm.md) |
+
+### MATHS - Semester 8
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Algebraic Coding Theory | MA6007 | Mid-Semester | 2025 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.pdf) (1p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2025_uLpRNW.md) |
+| Algebraic Coding Theory | MA6007 | Mid-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.pdf) (1p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/MID-SEM_2026_OXi8KW.md) |
+| Algebraic Coding Theory | MA6007 | End-Semester | 2025 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.pdf) (2p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2025_jm8fhZ.md) |
+| Algebraic Coding Theory | MA6007 | End-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.pdf) (2p) | [text](papers/MATHS/Semester-8/Algebraic-Coding-Theory/END-SEM_2026_288O1W.md) |
+| Number Theory | MA6004 | Mid-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.pdf) (1p) | [text](papers/MATHS/Semester-8/Number-Theory/MID-SEM_2026_9S6xMR.md) |
+| Number Theory | MA6004 | End-Semester | 2026 | [PDF](papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.pdf) (1p) | [text](papers/MATHS/Semester-8/Number-Theory/END-SEM_2026_apWZxF.md) |
+| Numerical Analysis | - | End-Semester | 2025 | [PDF](papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.pdf) (2p) | [text](papers/MATHS/Semester-8/Numerical-Analysis/END-SEM_2025_O7S5kT.md) |
+
+## CHEMISTRY
+
+_Chemistry_ - [folder README](papers/CHEMISTRY/README.md)
+
+### CHEMISTRY - Semester 7
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Green Chemical Processing and Technologies for Circular Economy | CH6004 | Mid-Semester | 2025 | [PDF](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.pdf) (1p) | [text](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MID-SEM_2025_4QN1yS.md) |
+| Green Chemical Processing and Technologies for Circular Economy | CH6004 | End-Semester | 2025 | [PDF](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.pdf) (2p) | [text](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/END-SEM_2025_I3lSsG.md) |

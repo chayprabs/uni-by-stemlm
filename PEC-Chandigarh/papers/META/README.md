@@ -1,6 +1,8 @@
 # META - Metallurgical and Materials Engineering
 
-17 papers. [Back to the full index](../../INDEX.md)
+17 papers. [Full index](../../INDEX.md) · [by course](../../BY-COURSE.md) · [by semester](../../BY-SEMESTER.md)
+
+First-year courses common to all branches (Calculus, Chemistry, Mechatronics, Engineering Drawing...) are in [COMMON](../COMMON/README.md).
 
 ## Semester 3
 

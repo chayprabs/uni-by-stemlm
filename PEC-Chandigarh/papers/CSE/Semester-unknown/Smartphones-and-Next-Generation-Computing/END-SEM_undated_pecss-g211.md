@@ -1,10 +1,10 @@
-# Smartphones and Next Generation Computing () - End-Semester undated
+# Smartphones and Next Generation Computing - End-Semester undated
 
 - **Institute:** Punjab Engineering College (Deemed to be University), Chandigarh
 - **Department:** CSE - Computer Science and Engineering
 - **Semester:** unknown
 - **Course:** Smartphones and Next Generation Computing
-- **Course code:** 
+- **Course code:** not legible on paper
 - **Exam:** End-Semester
 - **Programme:** B.Tech / B.E.
 - **Year:** undated
