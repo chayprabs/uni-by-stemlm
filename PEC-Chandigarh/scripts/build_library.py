@@ -24,7 +24,7 @@ import img2pdf
 sys.path.insert(0, os.path.dirname(__file__))
 from catalog import BROKEN, COURSES, DEPARTMENTS, DUPLICATE_OF, JUNK, YEAR_OVERRIDES  # noqa: E402
 
-EXAM_LABEL = {"MID-SEM": "Mid-Semester", "END-SEM": "End-Semester"}
+EXAM_LABEL = {"MID-SEM": "Mid-Semester", "END-SEM": "End-Semester", "PRACTICAL": "Practical"}
 
 
 def slug(s):

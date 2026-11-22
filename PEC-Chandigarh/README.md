@@ -9,6 +9,7 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
   - `<EXAM>_<year>[_Reappear]_<id>.md` has the metadata (course code, exam, year), an empty **Solutions** section to fill in, and an OCR transcript of every page.
 - **Machine-readable data:** [data/manifest.json](data/manifest.json) lists every upload on the source site and what happened to it (included, duplicate, excluded or missing). [data/source_api_dump.json](data/source_api_dump.json) is the raw API response.
 - **Adding your own images:** see [incoming/README.md](incoming/README.md).
+- **Original files you uploaded:** `sources/<date>/`, untouched. How they were split into papers is in `data/imports/<date>_*.json`.
 
 ## What's here
 
@@ -21,16 +22,31 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
 | CSE-AI | CSE (Artificial Intelligence) | 2 |
 | CSE-DS | CSE (Data Science) | 6 |
 | ECE | Electronics and Communication Engineering | 34 |
-| EE | Electrical Engineering | 5 |
+| EE | Electrical Engineering | 47 |
 | HSM | Humanities, Social Sciences and Management | 16 |
 | MATHS | Mathematics | 18 |
 | MECH | Mechanical Engineering | 47 |
 | META | Metallurgical and Materials Engineering | 1 |
 | PHYSICS | Physics | 3 |
 | PROD | Production and Industrial Engineering | 5 |
-| **Total** | | **169 papers, 263 pages** |
+| **Total** | | **211 papers, 329 pages** |
 
 B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
+
+## Owner uploads
+
+### 2026-11-22: EE batch (42 papers)
+
+Source files are in [sources/2026-11-22/](sources/2026-11-22/), and the page-to-paper mapping is in [data/imports/2026-11-22_user_uploads.json](data/imports/2026-11-22_user_uploads.json). All papers are filed under **EE**. Semesters 1 and 2 are courses common to all B.Tech branches.
+
+| Semester | Year | Papers |
+|---|---|---|
+| 1 (`End_Sem.zip`, `Mid_Sem.zip`) | 2023 | Calculus, Communication Skills (end only), Intro to Environmental Sciences, Intro to Electronics and Electrical Engg, Intro to Computer Programming, EM Theory and Quantum Physics: 11 papers |
+| 2 (`2ndSem_END_terms.pdf`, `2ndSem_Mid_terms.pdf`) | 2024 | Engineering Drawing using CAD (mid, end and the April 2024 CAD **practical**), Universal Human Values (end), Intro to Mechatronics, Applied Chemistry, Linear Algebra, DE and Vector Calculus: 10 papers |
+| 3 (`3rdSem_MST.pdf`, `3rdSem_EST.pdf`) | 2024 | Power System Engg, Object Oriented Programming, Electrical Machines I, Networks and Systems, Essentials of Finance, Measurement and Instrumentation (mid and end for each): 12 papers |
+| 5 (`SEM_5_PYQ_2025-26.docx`) | 2025 | Power System Protection and Switchgear, Electric Drives, Electric Vehicles, Microprocessor and Microcontroller (mid and end for each), Analytical Tools for Data Science (minor, mid only): 9 papers |
+
+The bundled PDFs were cut into one PDF per paper at their original scan quality, with the scanner's text layer kept. Each transcript uses whichever reads better: the scanner's text layer or a fresh tesseract OCR. To import another bundle, copy the files to `sources/<date>/`, write `data/imports/<date>_*.json` and run `OMP_THREAD_LIMIT=1 python3 scripts/import_uploads.py data/imports/<date>_*.json`.
 
 ## Source and how it was collected
 

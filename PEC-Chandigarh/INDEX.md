@@ -3,7 +3,7 @@
 Organised **branch -> semester -> course**. Each paper has a PDF and a `.md` file with
 metadata, a (to be filled) solutions section and the OCR transcript.
 
-**169 papers** across 14 departments (263 pages). Skipped: 19 duplicate uploads, 4 test uploads, 1 deleted upload (details in [README.md](README.md#data-notes)).
+**211 papers** across 14 departments (329 pages). Skipped: 19 duplicate uploads, 4 test uploads, 1 deleted upload (details in [README.md](README.md#data-notes)).
 
 ## Departments
 
@@ -14,7 +14,7 @@ metadata, a (to be filled) solutions section and the OCR transcript.
 - [CSE-AI - CSE (Artificial Intelligence)](#cse-ai) (2 papers)
 - [CSE-DS - CSE (Data Science)](#cse-ds) (6 papers)
 - [ECE - Electronics and Communication Engineering](#ece) (34 papers)
-- [EE - Electrical Engineering](#ee) (5 papers)
+- [EE - Electrical Engineering](#ee) (47 papers)
 - [HSM - Humanities, Social Sciences and Management](#hsm) (16 papers)
 - [MATHS - Mathematics](#maths) (18 papers)
 - [MECH - Mechanical Engineering](#mech) (47 papers)
@@ -248,12 +248,74 @@ _Electronics and Communication Engineering_
 
 _Electrical Engineering_
 
+### EE - Semester 1
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Calculus | MA2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Calculus/MID-SEM_2023_upload-2026-11-22.md) |
+| Calculus | MA2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Calculus/END-SEM_2023_upload-2026-11-22.md) |
+| Communication Skills | HS2351 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Communication-Skills/END-SEM_2023_upload-2026-11-22.md) |
+| Electromagnetic Theory and Quantum Physics | PY2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/MID-SEM_2023_upload-2026-11-22.md) |
+| Electromagnetic Theory and Quantum Physics | PY2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Electromagnetic-Theory-and-Quantum-Physics/END-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Computer Programming | ES2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-1/Introduction-to-Computer-Programming/MID-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Computer Programming | ES2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Computer-Programming/END-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Electronics and Electrical Engineering | ES2305 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/MID-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Electronics and Electrical Engineering | ES2305 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Electronics-and-Electrical-Engineering/END-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Environmental Sciences | GS2301 | Mid-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/MID-SEM_2023_upload-2026-11-22.md) |
+| Introduction to Environmental Sciences | GS2301 | End-Semester | 2023 | [PDF](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-1/Introduction-to-Environmental-Sciences/END-SEM_2023_upload-2026-11-22.md) |
+
+### EE - Semester 2
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Applied Chemistry | CH2301 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Applied-Chemistry/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Applied-Chemistry/MID-SEM_2024_upload-2026-11-22.md) |
+| Applied Chemistry | CH2301 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Applied-Chemistry/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-2/Applied-Chemistry/END-SEM_2024_upload-2026-11-22.md) |
+| Engineering Drawing using CAD Software | ES2302 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/MID-SEM_2024_upload-2026-11-22.md) |
+| Engineering Drawing using CAD Software | ES2302 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/END-SEM_2024_upload-2026-11-22.md) |
+| Engineering Drawing using CAD Software | ES2302 | Practical | 2024 | [PDF](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/PRACTICAL_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Engineering-Drawing-using-CAD-Software/PRACTICAL_2024_upload-2026-11-22.md) |
+| Introduction to Mechatronics | ES2304 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Introduction-to-Mechatronics/MID-SEM_2024_upload-2026-11-22.md) |
+| Introduction to Mechatronics | ES2304 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-2/Introduction-to-Mechatronics/END-SEM_2024_upload-2026-11-22.md) |
+| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/MID-SEM_2024_upload-2026-11-22.md) |
+| Linear Algebra, Differential Equations and Vector Calculus | MA2302 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Linear-Algebra-Differential-Equations-and-Vector-Calculus/END-SEM_2024_upload-2026-11-22.md) |
+| Universal Human Values | GS2302 | End-Semester | 2024 | [PDF](papers/EE/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-2/Universal-Human-Values/END-SEM_2024_upload-2026-11-22.md) |
+
+### EE - Semester 3
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Electrical Machines I | EEN3003 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Electrical-Machines-I/MID-SEM_2024_upload-2026-11-22.md) |
+| Electrical Machines I | EEN3003 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2024_upload-2026-11-22.md) |
+| Essentials of Finance | MHN2003 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Essentials-of-Finance/MID-SEM_2024_upload-2026-11-22.md) |
+| Essentials of Finance | MHN2003 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Essentials-of-Finance/END-SEM_2024_upload-2026-11-22.md) |
+| Measurement and Instrumentation | EEN3002 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/MID-SEM_2024_upload-2026-11-22.md) |
+| Measurement and Instrumentation | EEN3002 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2024_upload-2026-11-22.md) |
+| Networks and Systems | EL3001 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-3/Networks-and-Systems/MID-SEM_2024_upload-2026-11-22.md) |
+| Networks and Systems | EL3001 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Networks-and-Systems/END-SEM_2024_upload-2026-11-22.md) |
+| Object Oriented Programming | CSM1001 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Object-Oriented-Programming/MID-SEM_2024_upload-2026-11-22.md) |
+| Object Oriented Programming | CSM1001 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Object-Oriented-Programming/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Object-Oriented-Programming/END-SEM_2024_upload-2026-11-22.md) |
+| Power System Engineering | EEN3004 | Mid-Semester | 2024 | [PDF](papers/EE/Semester-3/Power-System-Engineering/MID-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Power-System-Engineering/MID-SEM_2024_upload-2026-11-22.md) |
+| Power System Engineering | EEN3004 | End-Semester | 2024 | [PDF](papers/EE/Semester-3/Power-System-Engineering/END-SEM_2024_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-3/Power-System-Engineering/END-SEM_2024_upload-2026-11-22.md) |
+
 ### EE - Semester 4
 
 | Course | Code | Exam | Year | Paper | Transcript |
 |---|---|---|---|---|---|
 | Electrical Machines II | - | Mid-Semester | undated | [PDF](papers/EE/Semester-4/Electrical-Machines-II/MID-SEM_undated_Pk1CTN.pdf) (1p) | [text](papers/EE/Semester-4/Electrical-Machines-II/MID-SEM_undated_Pk1CTN.md) |
 | Power System Analysis | - | Mid-Semester | undated | [PDF](papers/EE/Semester-4/Power-System-Analysis/MID-SEM_undated_1bS6Jw.pdf) (2p) | [text](papers/EE/Semester-4/Power-System-Analysis/MID-SEM_undated_1bS6Jw.md) |
+
+### EE - Semester 5
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Analytical Tools for Data Science (Minor) | DSM1003 | Mid-Semester | 2025 | [PDF](papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.md) |
+| Electric Drives | EEN5002 | Mid-Semester | 2025 | [PDF](papers/EE/Semester-5/Electric-Drives/MID-SEM_2025_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-5/Electric-Drives/MID-SEM_2025_upload-2026-11-22.md) |
+| Electric Drives | EEN5002 | End-Semester | 2025 | [PDF](papers/EE/Semester-5/Electric-Drives/END-SEM_2025_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-5/Electric-Drives/END-SEM_2025_upload-2026-11-22.md) |
+| Electric Vehicles | EEN5003 | Mid-Semester | 2025 | [PDF](papers/EE/Semester-5/Electric-Vehicles/MID-SEM_2025_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-5/Electric-Vehicles/MID-SEM_2025_upload-2026-11-22.md) |
+| Electric Vehicles | EEN5003 | End-Semester | 2025 | [PDF](papers/EE/Semester-5/Electric-Vehicles/END-SEM_2025_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-5/Electric-Vehicles/END-SEM_2025_upload-2026-11-22.md) |
+| Microprocessor and Microcontroller | EEN5004 | Mid-Semester | 2025 | [PDF](papers/EE/Semester-5/Microprocessor-and-Microcontroller/MID-SEM_2025_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-5/Microprocessor-and-Microcontroller/MID-SEM_2025_upload-2026-11-22.md) |
+| Microprocessor and Microcontroller | EEN5004 | End-Semester | 2025 | [PDF](papers/EE/Semester-5/Microprocessor-and-Microcontroller/END-SEM_2025_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-5/Microprocessor-and-Microcontroller/END-SEM_2025_upload-2026-11-22.md) |
+| Power System Protection and Switchgear | EEN5001 | Mid-Semester | 2025 | [PDF](papers/EE/Semester-5/Power-System-Protection-and-Switchgear/MID-SEM_2025_upload-2026-11-22.pdf) (1p) | [text](papers/EE/Semester-5/Power-System-Protection-and-Switchgear/MID-SEM_2025_upload-2026-11-22.md) |
+| Power System Protection and Switchgear | EEN5001 | End-Semester | 2025 | [PDF](papers/EE/Semester-5/Power-System-Protection-and-Switchgear/END-SEM_2025_upload-2026-11-22.pdf) (2p) | [text](papers/EE/Semester-5/Power-System-Protection-and-Switchgear/END-SEM_2025_upload-2026-11-22.md) |
 
 ### EE - Semester 6
 
