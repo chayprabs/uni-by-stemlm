@@ -15,23 +15,43 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
 
 | Dept | Name | Papers |
 |---|---|---|
-| AERO | Aerospace Engineering | 3 |
+| AERO | Aerospace Engineering | 8 |
 | CHEMISTRY | Chemistry | 9 |
-| CIVIL | Civil Engineering | 5 |
-| CSE | Computer Science and Engineering | 15 |
+| CIVIL | Civil Engineering | 30 |
+| CSE | Computer Science and Engineering | 49 |
 | CSE-AI | CSE (Artificial Intelligence) | 2 |
-| CSE-DS | CSE (Data Science) | 6 |
-| ECE | Electronics and Communication Engineering | 34 |
-| EE | Electrical Engineering | 47 |
-| HSM | Humanities, Social Sciences and Management | 16 |
+| CSE-DS | CSE (Data Science) | 8 |
+| ECE | Electronics and Communication Engineering | 55 |
+| EE | Electrical Engineering | 69 |
+| HSM | Humanities, Social Sciences and Management | 22 |
 | MATHS | Mathematics | 18 |
-| MECH | Mechanical Engineering | 47 |
-| META | Metallurgical and Materials Engineering | 1 |
+| MECH | Mechanical Engineering | 54 |
+| META | Metallurgical and Materials Engineering | 17 |
 | PHYSICS | Physics | 3 |
-| PROD | Production and Industrial Engineering | 5 |
-| **Total** | | **211 papers, 329 pages** |
+| PROD | Production and Industrial Engineering | 21 |
+| **Total** | | **365 papers, 580 pages** |
 
 B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
+
+## Sources
+
+| Source | Papers | Years | Notes |
+|---|---|---|---|
+| [pecpapers.vercel.app](https://pecpapers.vercel.app/) | 169 | 2016-2026 | crowd-sourced site; see "Source and how it was collected" below |
+| Owner uploads (`sources/2026-11-22/`) | 42 | 2023-2025 | EE semesters 1, 2, 3 and 5 |
+| [PEC-CSS/PEC-Previous-Year-Papers](https://github.com/PEC-CSS/PEC-Previous-Year-Papers) (GitHub, PEC CSS student society) | 154 | 2013-2022 | mostly the old *PEC University of Technology* scheme (codes like CSN-409, EEN-413) |
+
+File names end with where the paper came from: `_<id>` (pecpapers), `_upload-<date>` (owner upload) or `_pecss-gNNN` (GitHub).
+
+### GitHub: PEC-CSS/PEC-Previous-Year-Papers
+
+All 252 unique files in the repo were checked, plus the full git history and 18 forks, which hold nothing extra. The repo's folders are named by subject but the photos inside are in random order (they were scraped from a Facebook group album), and one folder can mix mid-sems, end-sems and years. So **every page header was read by hand** to split the folders into **154 papers** and to record the department, semester, course code, exam and year. The full page-to-paper mapping, with links to every original file, is in [data/imports/2026-11-22_github_pec-css.json](data/imports/2026-11-22_github_pec-css.json).
+
+- **9 files skipped as duplicates.** Five of them are 2024 first-year papers already in the library from your upload (UHV, Applied Chemistry, Engineering Drawing, Mechatronics, Linear Algebra). The other four are second photos of the same page.
+- **Continuation pages** (pages with no header) were attached to the paper they most likely belong to, based on question numbering and marks. In a few multi-paper folders (Operations Research, Big Data, Network Security) that attachment is a best guess.
+- **Exam types beyond mid/end-sem:** `QUIZ` (quizzes, class tests, lab quizzes), `SESSIONAL`, `ASSIGNMENT` (one M.Tech coursework sheet) and `UNKNOWN` (the header was not photographed).
+- **`Semester-unknown`** holds papers whose semester isn't printed. **`Semester-MTech-2`** holds the M.Tech papers (Production and Industrial Engg.).
+- **Years** come from the printed date or the session code (e.g. `18191` means the 2018-19 odd semester, i.e. Nov/Dec 2018). Papers without either are `undated`.
 
 ## Owner uploads
 

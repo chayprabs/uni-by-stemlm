@@ -5443,5 +5443,3273 @@
   "pages": 2,
   "pdf": "papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.pdf",
   "transcript": "papers/EE/Semester-5/Analytical-Tools-for-Data-Science-Minor/MID-SEM_2025_upload-2026-11-22.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g002",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/25%20September%202019/25%20September%202019%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Object Oriented Programming (Open Elective)",
+  "course_code": "CSN461",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.pdf",
+  "transcript": "papers/CSE/Semester-7/Object-Oriented-Programming-Open-Elective/MID-SEM_2019_pecss-g002.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g003",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Advanced%20Communication/Advanced%20Communication%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Advanced%20Communication/Advanced%20Communication%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Advanced Communication",
+  "course_code": "ECN302",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.pdf",
+  "transcript": "papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g005",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Advanced%20Control%20System/Advanced%20Control%20System%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Advanced%20Control%20System/Advanced%20Control%20System%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": "unknown",
+  "course": "Advanced Control System",
+  "course_code": "",
+  "exam": "UNKNOWN",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.pdf",
+  "transcript": "papers/EE/Semester-unknown/Advanced-Control-System/UNKNOWN_undated_pecss-g005.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g007",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Advanced%20Structural%20Design/Advanced%20Structural%20Design%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Advanced%20Structural%20Design/Advanced%20Structural%20Design%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 8,
+  "course": "Advanced Structural Design",
+  "course_code": "CE443",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.pdf",
+  "transcript": "papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g010",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Aircraft%20Materials%20_amp_%20Processes/Aircraft%20Materials%20_amp_%20Processes%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Aircraft%20Materials%20_amp_%20Processes/Aircraft%20Materials%20_amp_%20Processes%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "AERO",
+  "semester": "unknown",
+  "course": "Aircraft Materials and Processes",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/AERO/Semester-unknown/Aircraft-Materials-and-Processes/END-SEM_undated_pecss-g010.pdf",
+  "transcript": "papers/AERO/Semester-unknown/Aircraft-Materials-and-Processes/END-SEM_undated_pecss-g010.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g011",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Aircraft%20Propulsion/Aircraft%20Propulsion%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "AERO",
+  "semester": 3,
+  "course": "Aircraft Propulsion",
+  "course_code": "AEN202",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/AERO/Semester-3/Aircraft-Propulsion/END-SEM_2017_pecss-g011.pdf",
+  "transcript": "papers/AERO/Semester-3/Aircraft-Propulsion/END-SEM_2017_pecss-g011.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g012",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Aircraft%20Structures/Aircraft%20Structures%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Aircraft%20Structures/Aircraft%20Structures%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Aircraft%20Structures/Aircraft%20Structures%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "AERO",
+  "semester": "unknown",
+  "course": "Aircraft Structures",
+  "course_code": "",
+  "exam": "UNKNOWN",
+  "year": "undated",
+  "reappear": false,
+  "pages": 3,
+  "pdf": "papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.pdf",
+  "transcript": "papers/AERO/Semester-unknown/Aircraft-Structures/UNKNOWN_undated_pecss-g012.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g016",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analog%20Electronic%20Circuits-I/Analog%20Electronic%20Circuits-I%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analog%20Electronic%20Circuits-I/Analog%20Electronic%20Circuits-I%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 2,
+  "course": "Analog Electronic Circuits I",
+  "course_code": "ECN102",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.pdf",
+  "transcript": "papers/ECE/Semester-2/Analog-Electronic-Circuits-I/MID-SEM_2016_pecss-g016.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g018",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analysis%20_amp_%20Design%20of%20Algorithms/Analysis%20_amp_%20Design%20of%20Algorithms%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analysis%20_amp_%20Design%20of%20Algorithms/Analysis%20_amp_%20Design%20of%20Algorithms%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Analysis and Design of Algorithms",
+  "course_code": "CSN204",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.pdf",
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/MID-SEM_2017_pecss-g018.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g021",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analysis%20_amp_%20Design%20of%20Algorithms/Analysis%20_amp_%20Design%20of%20Algorithms%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analysis%20_amp_%20Design%20of%20Algorithms/Analysis%20_amp_%20Design%20of%20Algorithms%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Analysis and Design of Algorithms",
+  "course_code": "CSN204",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.pdf",
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2017_pecss-g021.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g022",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analysis%20_amp_%20Design%20of%20Algorithms/Analysis%20_amp_%20Design%20of%20Algorithms%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Analysis and Design of Algorithms",
+  "course_code": "CSN204",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.pdf",
+  "transcript": "papers/CSE/Semester-3/Analysis-and-Design-of-Algorithms/END-SEM_2019_pecss-g022.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g027",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Big%20Data%20Analytics/Big%20Data%20Analytics%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Big%20Data%20Analytics/Big%20Data%20Analytics%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Big Data Analytics",
+  "course_code": "CSN409",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.pdf",
+  "transcript": "papers/CSE/Semester-7/Big-Data-Analytics/END-SEM_2019_pecss-g027.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g028",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Big%20Data%20Analytics/Big%20Data%20Analytics%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Big%20Data%20Analytics/Big%20Data%20Analytics%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Big Data Analytics",
+  "course_code": "CSN409",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.pdf",
+  "transcript": "papers/CSE/Semester-7/Big-Data-Analytics/MID-SEM_2019_pecss-g028.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g029",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Biomedical%20Engineering/Biomedical%20Engineering%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Biomedical Engineering",
+  "course_code": "EE433",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2016_pecss-g029.pdf",
+  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2016_pecss-g029.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g030",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Biomedical%20Engineering/Biomedical%20Engineering%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Biomedical%20Engineering/Biomedical%20Engineering%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Biomedical Engineering",
+  "course_code": "EEN404",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-7/Biomedical-Engineering/END-SEM_2021_pecss-g030.pdf",
+  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/END-SEM_2021_pecss-g030.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g031",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Biomedical%20Engineering/Biomedical%20Engineering%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Biomedical Engineering",
+  "course_code": "EEN404",
+  "exam": "MID-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2021_pecss-g031.pdf",
+  "transcript": "papers/EE/Semester-7/Biomedical-Engineering/MID-SEM_2021_pecss-g031.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g034",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Business%20Research/Business%20Research%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Business%20Research/Business%20Research%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Business Research (Minor)",
+  "course_code": "HSM432",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.pdf",
+  "transcript": "papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g035",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Business%20Research/Business%20Research%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Business Research (Minor)",
+  "course_code": "HSM432",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.pdf",
+  "transcript": "papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g036",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Ceramics/Ceramics%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Ceramics/Ceramics%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 3,
+  "course": "Ceramics",
+  "course_code": "MTN204",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/META/Semester-3/Ceramics/MID-SEM_2016_pecss-g036.pdf",
+  "transcript": "papers/META/Semester-3/Ceramics/MID-SEM_2016_pecss-g036.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g038",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%206.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Design of Steel Structures",
+  "course_code": "CEN301",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/END-SEM_2021_pecss-g038.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/END-SEM_2021_pecss-g038.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g039",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Design of Steel Structures",
+  "course_code": "CEN301",
+  "exam": "QUIZ",
+  "year": "2021",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/QUIZ_2021_pecss-g039.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Design-of-Steel-Structures/QUIZ_2021_pecss-g039.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g045",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%207.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Foundation Engineering",
+  "course_code": "CEN302",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2021_pecss-g045.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2021_pecss-g045.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g046",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%208.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Structural Analysis II",
+  "course_code": "CEN303",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-5/Structural-Analysis-II/END-SEM_2021_pecss-g046.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Structural-Analysis-II/END-SEM_2021_pecss-g046.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g047",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%209.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Transportation Engineering II",
+  "course_code": "CEN304",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-5/Transportation-Engineering-II/END-SEM_2021_pecss-g047.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Transportation-Engineering-II/END-SEM_2021_pecss-g047.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g048",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%2010.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%2011.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%205.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021/Civil%20-%205th%20Sem%20-%20EST%20-%20Dec.%202021%20-%2012.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Environmental Engineering I",
+  "course_code": "CEN305",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 4,
+  "pdf": "papers/CIVIL/Semester-5/Environmental-Engineering-I/END-SEM_2021_pecss-g048.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Environmental-Engineering-I/END-SEM_2021_pecss-g048.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g051",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Cloud%20Computing/Cloud%20Computing%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 8,
+  "course": "Cloud Computing",
+  "course_code": "CSN405",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-8/Cloud-Computing/MID-SEM_undated_pecss-g051.pdf",
+  "transcript": "papers/CSE/Semester-8/Cloud-Computing/MID-SEM_undated_pecss-g051.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g053",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Cloud%20Computing/Cloud%20Computing%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Cloud%20Computing/Cloud%20Computing%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Cloud Computing",
+  "course_code": "CSN405",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.pdf",
+  "transcript": "papers/CSE/Semester-7/Cloud-Computing/END-SEM_undated_pecss-g053.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g054",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Communication%20Engineering/Communication%20Engineering%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 4,
+  "course": "Communication Engineering",
+  "course_code": "ECN201",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.pdf",
+  "transcript": "papers/ECE/Semester-4/Communication-Engineering/MID-SEM_2017_pecss-g054.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g055",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Communication%20Engineering/Communication%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 4,
+  "course": "Communication Engineering",
+  "course_code": "ECN201",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.pdf",
+  "transcript": "papers/ECE/Semester-4/Communication-Engineering/END-SEM_undated_pecss-g055.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g056",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Computer%20Architecture/Computer%20Architecture%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Computer%20Architecture/Computer%20Architecture%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": "unknown",
+  "course": "Computer Architecture",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.pdf",
+  "transcript": "papers/CSE/Semester-unknown/Computer-Architecture/END-SEM_2021_pecss-g056.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g060",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Computer%20Networks/Computer%20Networks%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Computer%20Networks/Computer%20Networks%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Computer Networks",
+  "course_code": "CSN432",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.pdf",
+  "transcript": "papers/CSE/Semester-7/Computer-Networks/MID-SEM_2019_pecss-g060.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g062",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Data%20Warehousing%20and%20Mining/Data%20Warehousing%20and%20Mining%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Data Warehousing and Mining",
+  "course_code": "CS476",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.pdf",
+  "transcript": "papers/CSE/Semester-7/Data-Warehousing-and-Mining/MID-SEM_undated_pecss-g062.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g063",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Database%20Management%20Systems%20(DBMS)/Database%20Management%20Systems%20(DBMS)%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Database%20Management%20Systems%20(DBMS)/Database%20Management%20Systems%20(DBMS)%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 4,
+  "course": "Database Management Systems",
+  "course_code": "CSN208",
+  "exam": "MID-SEM",
+  "year": "2020",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-4/Database-Management-Systems/MID-SEM_2020_pecss-g063.pdf",
+  "transcript": "papers/CSE/Semester-4/Database-Management-Systems/MID-SEM_2020_pecss-g063.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g065",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Design/Digital%20Design%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Design/Digital%20Design%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 2,
+  "course": "Digital Design",
+  "course_code": "ECN103",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.pdf",
+  "transcript": "papers/ECE/Semester-2/Digital-Design/END-SEM_2016_pecss-g065.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g067",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 4,
+  "course": "Digital Signal Processing",
+  "course_code": "ECN209",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-4/Digital-Signal-Processing/MID-SEM_2017_pecss-g067.pdf",
+  "transcript": "papers/ECE/Semester-4/Digital-Signal-Processing/MID-SEM_2017_pecss-g067.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g071",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%204.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 4,
+  "course": "Digital Signal Processing",
+  "course_code": "ECN209",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-4/Digital-Signal-Processing/END-SEM_2017_pecss-g071.pdf",
+  "transcript": "papers/ECE/Semester-4/Digital-Signal-Processing/END-SEM_2017_pecss-g071.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g069",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%206.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Digital Signal Processing",
+  "course_code": "EEN417",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.pdf",
+  "transcript": "papers/EE/Semester-8/Digital-Signal-Processing/END-SEM_2018_pecss-g069.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g074",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Discrete%20Structures%20for%20Computer%20Science/Discrete%20Structures%20for%20Computer%20Science%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Discrete%20Structures%20for%20Computer%20Science/Discrete%20Structures%20for%20Computer%20Science%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Discrete Structures for Computer Science",
+  "course_code": "CSN201",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_undated_pecss-g074.pdf",
+  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_undated_pecss-g074.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g076",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Discrete%20Structures%20for%20Computer%20Science/Discrete%20Structures%20for%20Computer%20Science%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Discrete Structures for Computer Science",
+  "course_code": "CSN201",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/END-SEM_2017_pecss-g076.pdf",
+  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/END-SEM_2017_pecss-g076.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g077",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Discrete%20Structures%20for%20Computer%20Science/Discrete%20Structures%20for%20Computer%20Science%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Discrete Structures for Computer Science",
+  "course_code": "CSN201",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_2019_pecss-g077.pdf",
+  "transcript": "papers/CSE/Semester-3/Discrete-Structures-for-Computer-Science/MID-SEM_2019_pecss-g077.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g078",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/EOIT%20(Information%20Technology%20in%20Engineering)/EOIT%20(Information%20Technology%20in%20Engineering)%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 3,
+  "course": "Information Technology in Engineering (EOIT)",
+  "course_code": "ESC202",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.pdf",
+  "transcript": "papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MID-SEM_undated_pecss-g078.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g081",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/EOIT%20(Information%20Technology%20in%20Engineering)/EOIT%20(Information%20Technology%20in%20Engineering)%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/EOIT%20(Information%20Technology%20in%20Engineering)/EOIT%20(Information%20Technology%20in%20Engineering)%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 4,
+  "course": "Information Technology in Engineering (EOIT)",
+  "course_code": "ESC202",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/END-SEM_undated_pecss-g081.pdf",
+  "transcript": "papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/END-SEM_undated_pecss-g081.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g082",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Electro_Metallurgy%20and%20Corrosion/Electro_Metallurgy%20and%20Corrosion%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 3,
+  "course": "Electro-Metallurgy and Corrosion",
+  "course_code": "MTN202",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-3/Electro-Metallurgy-and-Corrosion/MID-SEM_2016_pecss-g082.pdf",
+  "transcript": "papers/META/Semester-3/Electro-Metallurgy-and-Corrosion/MID-SEM_2016_pecss-g082.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g083",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Elements%20and%20Thermodynamics/Elements%20and%20Thermodynamics%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": "unknown",
+  "course": "Elements of Thermodynamics",
+  "course_code": "",
+  "exam": "UNKNOWN",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/MECH/Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.pdf",
+  "transcript": "papers/MECH/Semester-unknown/Elements-of-Thermodynamics/UNKNOWN_undated_pecss-g083.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g084",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Embedded%20Systems/Embedded%20Systems%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Embedded Systems",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.pdf",
+  "transcript": "papers/ECE/Semester-5/Embedded-Systems/END-SEM_2016_pecss-g084.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g085",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Embedded%20Systems/Embedded%20Systems%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Embedded Systems",
+  "course_code": "ECN305",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.pdf",
+  "transcript": "papers/ECE/Semester-5/Embedded-Systems/MID-SEM_undated_pecss-g085.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g086",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Energy%20Auditing%20and%20Management/Energy%20Auditing%20and%20Management%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Energy Auditing and Management",
+  "course_code": "EEN405",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.pdf",
+  "transcript": "papers/EE/Semester-7/Energy-Auditing-and-Management/MID-SEM_undated_pecss-g086.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g087",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Energy%20Auditing%20and%20Management/Energy%20Auditing%20and%20Management%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Energy Auditing and Management",
+  "course_code": "EEN405",
+  "exam": "UNKNOWN",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.pdf",
+  "transcript": "papers/EE/Semester-7/Energy-Auditing-and-Management/UNKNOWN_undated_pecss-g087.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g090",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Financial%20Management/Financial%20Management%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Financial Management",
+  "course_code": "HSM404",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.pdf",
+  "transcript": "papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g091",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Financial%20Management/Financial%20Management%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Financial%20Management/Financial%20Management%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Financial Management (Minor)",
+  "course_code": "HSM434",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.pdf",
+  "transcript": "papers/HSM/Semester-8/Financial-Management-Minor/END-SEM_2019_pecss-g091.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g092",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Financial%20Management/Financial%20Management%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Financial Management (Minor)",
+  "course_code": "HSM434",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.pdf",
+  "transcript": "papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g094",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Finite%20Element%20Analysis/Finite%20Element%20Analysis%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": "MTech-2",
+  "course": "Finite Element Analysis",
+  "course_code": "PRM5031",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/MID-SEM_2019_pecss-g094.pdf",
+  "transcript": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/MID-SEM_2019_pecss-g094.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g096",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Finite%20Element%20Analysis/Finite%20Element%20Analysis%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Finite%20Element%20Analysis/Finite%20Element%20Analysis%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": "MTech-2",
+  "course": "Finite Element Analysis",
+  "course_code": "PRM5031",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/END-SEM_2019_pecss-g096.pdf",
+  "transcript": "papers/PROD/Semester-MTech-2/Finite-Element-Analysis/END-SEM_2019_pecss-g096.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g097",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Forming%20_amp_%20Welding/Forming%20_amp_%20Welding%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 4,
+  "course": "Forming and Welding",
+  "course_code": "PEN207",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.pdf",
+  "transcript": "papers/PROD/Semester-4/Forming-and-Welding/END-SEM_2016_pecss-g097.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g098",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Foundation%20Engineering/Foundation%20Engineering%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Foundation Engineering",
+  "course_code": "CEN302",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2016_pecss-g098.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2016_pecss-g098.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g099",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Foundation%20Engineering/Foundation%20Engineering%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Foundation%20Engineering/Foundation%20Engineering%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Foundation Engineering",
+  "course_code": "CEN302",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2017_pecss-g099.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/END-SEM_2017_pecss-g099.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g100",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Foundation%20Engineering/Foundation%20Engineering%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Foundation Engineering",
+  "course_code": "CEN302",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-5/Foundation-Engineering/MID-SEM_2017_pecss-g100.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Foundation-Engineering/MID-SEM_2017_pecss-g100.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g102",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geoinformatics/Geoinformatics%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geoinformatics/Geoinformatics%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Geoinformatics",
+  "course_code": "CEN202",
+  "exam": "MID-SEM",
+  "year": "2015",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2015_pecss-g102.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g104",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geoinformatics/Geoinformatics%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Geoinformatics",
+  "course_code": "CEN202",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2017_pecss-g104.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g105",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geoinformatics/Geoinformatics%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Geoinformatics",
+  "course_code": "CE211",
+  "exam": "MID-SEM",
+  "year": "2013",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g105.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g105.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g106",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geoinformatics/Geoinformatics%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Geoinformatics",
+  "course_code": "CE211",
+  "exam": "MID-SEM",
+  "year": "2013",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g106.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Geoinformatics/MID-SEM_2013_pecss-g106.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g107",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geotechnical%20Engineering/Geotechnical%20Engineering%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geotechnical%20Engineering/Geotechnical%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 4,
+  "course": "Geotechnical Engineering",
+  "course_code": "CEN210",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-4/Geotechnical-Engineering/MID-SEM_2017_pecss-g107.pdf",
+  "transcript": "papers/CIVIL/Semester-4/Geotechnical-Engineering/MID-SEM_2017_pecss-g107.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g109",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geotechnical%20Engineering/Geotechnical%20Engineering%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 4,
+  "course": "Geotechnical Engineering",
+  "course_code": "CEN210",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-4/Geotechnical-Engineering/END-SEM_2016_pecss-g109.pdf",
+  "transcript": "papers/CIVIL/Semester-4/Geotechnical-Engineering/END-SEM_2016_pecss-g109.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g110",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geotechnical%20Engineering/Geotechnical%20Engineering%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Geotechnical%20Engineering/Geotechnical%20Engineering%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 5,
+  "course": "Geotechnical Engineering I",
+  "course_code": "CE343",
+  "exam": "END-SEM",
+  "year": "2015",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-5/Geotechnical-Engineering-I/END-SEM_2015_pecss-g110.pdf",
+  "transcript": "papers/CIVIL/Semester-5/Geotechnical-Engineering-I/END-SEM_2015_pecss-g110.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g112",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/IT(Electronics)/IT(Electronics)%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/IT(Electronics)/IT(Electronics)%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": "unknown",
+  "course": "Information Technology (Electronics)",
+  "course_code": "",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-unknown/Information-Technology-Electronics/MID-SEM_undated_pecss-g112.pdf",
+  "transcript": "papers/ECE/Semester-unknown/Information-Technology-Electronics/MID-SEM_undated_pecss-g112.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g114",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Engineering%20I/Industrial%20Engineering%20I%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 4,
+  "course": "Industrial Engineering I",
+  "course_code": "PEN210",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.pdf",
+  "transcript": "papers/PROD/Semester-4/Industrial-Engineering-I/END-SEM_2017_pecss-g114.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g120",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%205.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%204.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Industrial%20Robotics/Industrial%20Robotics%20-%206.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": "MTech-2",
+  "course": "Industrial Robotics",
+  "course_code": "PRM5401",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 7,
+  "pdf": "papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.pdf",
+  "transcript": "papers/PROD/Semester-MTech-2/Industrial-Robotics/END-SEM_2019_pecss-g120.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g122",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Introduction%20to%20Mechanical%20Engineering/Introduction%20to%20Mechanical%20Engineering%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": 1,
+  "course": "Introduction to Mechanical Engineering",
+  "course_code": "MEN101",
+  "exam": "UNKNOWN",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/UNKNOWN_2016_pecss-g122.pdf",
+  "transcript": "papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/UNKNOWN_2016_pecss-g122.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g125",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Kinematics%20and%20Dynamics%20of%20Machines/Kinematics%20and%20Dynamics%20of%20Machines%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Kinematics%20and%20Dynamics%20of%20Machines/Kinematics%20and%20Dynamics%20of%20Machines%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 3,
+  "course": "Kinematics and Dynamics of Machines",
+  "course_code": "PRN201",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/PROD/Semester-3/Kinematics-and-Dynamics-of-Machines/MID-SEM_2016_pecss-g125.pdf",
+  "transcript": "papers/PROD/Semester-3/Kinematics-and-Dynamics-of-Machines/MID-SEM_2016_pecss-g125.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g128",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Kinematics%20of%20Machines/Kinematics%20of%20Machines%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Kinematics%20of%20Machines/Kinematics%20of%20Machines%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Kinematics%20of%20Machines/Kinematics%20of%20Machines%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": 3,
+  "course": "Kinematics of Machines",
+  "course_code": "MEN202",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 3,
+  "pdf": "papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.pdf",
+  "transcript": "papers/MECH/Semester-3/Kinematics-of-Machines/MID-SEM_2016_pecss-g128.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g133",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Lab%20(DL-IV,%20Control%20System)/Lab%20(DL-IV,%20Control%20System)%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Lab%20(DL-IV,%20Control%20System)/Lab%20(DL-IV,%20Control%20System)%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Lab%20(DL-IV,%20Control%20System)/Lab%20(DL-IV,%20Control%20System)%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Lab%20(DL-IV,%20Control%20System)/Lab%20(DL-IV,%20Control%20System)%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Control System Lab (DL-IV)",
+  "course_code": "EE413",
+  "exam": "QUIZ",
+  "year": "undated",
+  "reappear": false,
+  "pages": 4,
+  "pdf": "papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.pdf",
+  "transcript": "papers/EE/Semester-7/Control-System-Lab-DL-IV/QUIZ_undated_pecss-g133.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g135",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Design/Machine%20Design%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 4,
+  "course": "Machine Design",
+  "course_code": "PEN208",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.pdf",
+  "transcript": "papers/PROD/Semester-4/Machine-Design/MID-SEM_2017_pecss-g135.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g136",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Design/Machine%20Design%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Design/Machine%20Design%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 4,
+  "course": "Machine Design",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.pdf",
+  "transcript": "papers/PROD/Semester-4/Machine-Design/END-SEM_2017_pecss-g136.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g149",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Material%20Joining%20Technology/Material%20Joining%20Technology%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Material Joining Technology",
+  "course_code": "MTN305",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Material-Joining-Technology/END-SEM_2016_pecss-g149.pdf",
+  "transcript": "papers/META/Semester-5/Material-Joining-Technology/END-SEM_2016_pecss-g149.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g150",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Material%20Joining%20Technology/Material%20Joining%20Technology%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Material Joining Technology",
+  "course_code": "MTN305",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Material-Joining-Technology/MID-SEM_undated_pecss-g150.pdf",
+  "transcript": "papers/META/Semester-5/Material-Joining-Technology/MID-SEM_undated_pecss-g150.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g140",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE-DS",
+  "semester": 7,
+  "course": "Machine Learning for Data Science",
+  "course_code": "DSC303",
+  "exam": "MID-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/MID-SEM_2021_pecss-g140.pdf",
+  "transcript": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/MID-SEM_2021_pecss-g140.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g141",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE-DS",
+  "semester": 7,
+  "course": "Machine Learning for Data Science",
+  "course_code": "DSC303",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/END-SEM_2021_pecss-g141.pdf",
+  "transcript": "papers/CSE-DS/Semester-7/Machine-Learning-for-Data-Science/END-SEM_2021_pecss-g141.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g142",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303/Machine%20Learning%20for%20Data%20Science%20-%20DSC%20303%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 4,
+  "course": "Machine Learning",
+  "course_code": "CSN211",
+  "exam": "MID-SEM",
+  "year": "2020",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-4/Machine-Learning/MID-SEM_2020_pecss-g142.pdf",
+  "transcript": "papers/CSE/Semester-4/Machine-Learning/MID-SEM_2020_pecss-g142.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g143",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Manufacturing%20Processes/Manufacturing%20Processes%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Manufacturing%20Processes/Manufacturing%20Processes%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": 3,
+  "course": "Manufacturing Processes",
+  "course_code": "MEN203",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.pdf",
+  "transcript": "papers/MECH/Semester-3/Manufacturing-Processes/END-SEM_2016_pecss-g143.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g146",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Marketing%20Management/Marketing%20Management%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Marketing%20Management/Marketing%20Management%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Marketing Management (Minor)",
+  "course_code": "HSM435",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.pdf",
+  "transcript": "papers/HSM/Semester-8/Marketing-Management-Minor/END-SEM_2019_pecss-g146.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g147",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mass%20Transportation%20System/Mass%20Transportation%20System%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 7,
+  "course": "Mass Transportation System",
+  "course_code": "CEN411",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-7/Mass-Transportation-System/MID-SEM_2017_pecss-g147.pdf",
+  "transcript": "papers/CIVIL/Semester-7/Mass-Transportation-System/MID-SEM_2017_pecss-g147.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g148",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mass%20Transportation%20System/Mass%20Transportation%20System%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 7,
+  "course": "Mass Transportation System",
+  "course_code": "CEN411",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-7/Mass-Transportation-System/END-SEM_2017_pecss-g148.pdf",
+  "transcript": "papers/CIVIL/Semester-7/Mass-Transportation-System/END-SEM_2017_pecss-g148.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g151",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Characterization/Materials%20Characterization%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Materials Characterization",
+  "course_code": "MTN302",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Materials-Characterization/END-SEM_2016_pecss-g151.pdf",
+  "transcript": "papers/META/Semester-5/Materials-Characterization/END-SEM_2016_pecss-g151.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g152",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Characterization/Materials%20Characterization%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Characterization/Materials%20Characterization%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Materials Characterization",
+  "course_code": "MTN302",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/META/Semester-5/Materials-Characterization/END-SEM_2018_pecss-g152.pdf",
+  "transcript": "papers/META/Semester-5/Materials-Characterization/END-SEM_2018_pecss-g152.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g154",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Characterization/Materials%20Characterization%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Materials Characterization",
+  "course_code": "MTN302",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Materials-Characterization/MID-SEM_undated_pecss-g154.pdf",
+  "transcript": "papers/META/Semester-5/Materials-Characterization/MID-SEM_undated_pecss-g154.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g155",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Science/Materials%20Science%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": 3,
+  "course": "Materials Science",
+  "course_code": "ESC203",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.pdf",
+  "transcript": "papers/MECH/Semester-3/Materials-Science/MID-SEM_2016_pecss-g155.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g158",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Science/Materials%20Science%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": 3,
+  "course": "Materials Science",
+  "course_code": "ESC203",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/MECH/Semester-3/Materials-Science/END-SEM_2016_pecss-g158.pdf",
+  "transcript": "papers/MECH/Semester-3/Materials-Science/END-SEM_2016_pecss-g158.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g156",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Science/Materials%20Science%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 7,
+  "course": "Thin Film Technology",
+  "course_code": "MTN404",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-7/Thin-Film-Technology/MID-SEM_2019_pecss-g156.pdf",
+  "transcript": "papers/META/Semester-7/Thin-Film-Technology/MID-SEM_2019_pecss-g156.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g159",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Science/Materials%20Science%20-%204.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Science/Materials%20Science%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 7,
+  "course": "Thin Film Technology",
+  "course_code": "MTN404",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/META/Semester-7/Thin-Film-Technology/END-SEM_2019_pecss-g159.pdf",
+  "transcript": "papers/META/Semester-7/Thin-Film-Technology/END-SEM_2019_pecss-g159.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g160",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Materials%20Science/Materials%20Science%20-%205.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 8,
+  "course": "Surface Engineering",
+  "course_code": "MTN409",
+  "exam": "MID-SEM",
+  "year": "2020",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.pdf",
+  "transcript": "papers/META/Semester-8/Surface-Engineering/MID-SEM_2020_pecss-g160.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g161",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Measurement%20and%20Instrumentation/Measurement%20and%20Instrumentation%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Measurement%20and%20Instrumentation/Measurement%20and%20Instrumentation%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 3,
+  "course": "Measurement and Instrumentation",
+  "course_code": "EE212",
+  "exam": "UNKNOWN",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.pdf",
+  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/UNKNOWN_undated_pecss-g161.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g163",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Measurement%20and%20Instrumentation/Measurement%20and%20Instrumentation%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Measurement%20and%20Instrumentation/Measurement%20and%20Instrumentation%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 3,
+  "course": "Measurement and Instrumentation",
+  "course_code": "EE212",
+  "exam": "END-SEM",
+  "year": "2014",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.pdf",
+  "transcript": "papers/EE/Semester-3/Measurement-and-Instrumentation/END-SEM_2014_pecss-g163.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g165",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mech%20Vib%20_amp_%20Aero-Elasticity/Mech%20Vib%20_amp_%20Aero-Elasticity%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "AERO",
+  "semester": "unknown",
+  "course": "Mechanical Vibrations and Aero-elasticity",
+  "course_code": "",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.pdf",
+  "transcript": "papers/AERO/Semester-unknown/Mechanical-Vibrations-and-Aero-elasticity/MID-SEM_2016_pecss-g165.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g166",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mechanical%20Working%20of%20Metals/Mechanical%20Working%20of%20Metals%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 7,
+  "course": "Mechanical Working of Metals",
+  "course_code": "MT421",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-7/Mechanical-Working-of-Metals/MID-SEM_2016_pecss-g166.pdf",
+  "transcript": "papers/META/Semester-7/Mechanical-Working-of-Metals/MID-SEM_2016_pecss-g166.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g167",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mechanical%20Working%20of%20Metals/Mechanical%20Working%20of%20Metals%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Mechanical Working of Metals",
+  "course_code": "MTN303",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Mechanical-Working-of-Metals/MID-SEM_2018_pecss-g167.pdf",
+  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/MID-SEM_2018_pecss-g167.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g169",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mechanical%20Working%20of%20Metals/Mechanical%20Working%20of%20Metals%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Mechanical Working of Metals",
+  "course_code": "MTN303",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2016_pecss-g169.pdf",
+  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2016_pecss-g169.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g170",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mechanical%20Working%20of%20Metals/Mechanical%20Working%20of%20Metals%20-%204.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mechanical%20Working%20of%20Metals/Mechanical%20Working%20of%20Metals%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Mechanical Working of Metals",
+  "course_code": "MTN303",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2018_pecss-g170.pdf",
+  "transcript": "papers/META/Semester-5/Mechanical-Working-of-Metals/END-SEM_2018_pecss-g170.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g171",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microcontroller%20and%20PLC%20Applications/Microcontroller%20and%20PLC%20Applications%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Microcontroller and PLC Applications",
+  "course_code": "EE425A",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.pdf",
+  "transcript": "papers/EE/Semester-8/Microcontroller-and-PLC-Applications/END-SEM_2017_pecss-g171.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g173",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microwave%20and%20Radar%20Engineering/Microwave%20and%20Radar%20Engineering%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microwave%20and%20Radar%20Engineering/Microwave%20and%20Radar%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 8,
+  "course": "Microwave and Radar Engineering",
+  "course_code": "ECN451",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.pdf",
+  "transcript": "papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MID-SEM_2017_pecss-g173.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g175",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microwave%20and%20Radar%20Engineering/Microwave%20and%20Radar%20Engineering%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microwave%20and%20Radar%20Engineering/Microwave%20and%20Radar%20Engineering%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Microwave and Radar Engineering",
+  "course_code": "ECN303",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/END-SEM_undated_pecss-g175.pdf",
+  "transcript": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/END-SEM_undated_pecss-g175.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g176",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microwave%20and%20Radar%20Engineering/Microwave%20and%20Radar%20Engineering%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Microwave and Radar Engineering",
+  "course_code": "ECN303",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.pdf",
+  "transcript": "papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MID-SEM_undated_pecss-g176.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g178",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mobile%20Computing/Mobile%20Computing%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Mobile%20Computing/Mobile%20Computing%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Mobile Computing",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.pdf",
+  "transcript": "papers/CSE/Semester-7/Mobile-Computing/END-SEM_2017_pecss-g178.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g180",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Network%20Security%20_amp_%20Cryptography/Network%20Security%20_amp_%20Cryptography%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Network%20Security%20_amp_%20Cryptography/Network%20Security%20_amp_%20Cryptography%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Network Security and Cryptography",
+  "course_code": "CSN461",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.pdf",
+  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g180.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g183",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Network%20Security%20_amp_%20Cryptography/Network%20Security%20_amp_%20Cryptography%20-%203.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Network%20Security%20_amp_%20Cryptography/Network%20Security%20_amp_%20Cryptography%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Network Security and Cryptography",
+  "course_code": "CSN461",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.pdf",
+  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g183.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g184",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Network%20Security%20_amp_%20Cryptography/Network%20Security%20_amp_%20Cryptography%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Network Security and Cryptography",
+  "course_code": "",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.pdf",
+  "transcript": "papers/CSE/Semester-7/Network-Security-and-Cryptography/MID-SEM_undated_pecss-g184.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g185",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Neural%20Network%20_amp_%20Fuzzy%20System/Neural%20Network%20_amp_%20Fuzzy%20System%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Neural%20Network%20_amp_%20Fuzzy%20System/Neural%20Network%20_amp_%20Fuzzy%20System%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Neural Network and Fuzzy System",
+  "course_code": "EEN411",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-7/Neural-Network-and-Fuzzy-System/END-SEM_2017_pecss-g185.pdf",
+  "transcript": "papers/EE/Semester-7/Neural-Network-and-Fuzzy-System/END-SEM_2017_pecss-g185.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g187",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Object%20Oriented%20Programming/Object%20Oriented%20Programming%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Object Oriented Programming",
+  "course_code": "CS213",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-3/Object-Oriented-Programming/MID-SEM_2016_pecss-g187.pdf",
+  "transcript": "papers/CSE/Semester-3/Object-Oriented-Programming/MID-SEM_2016_pecss-g187.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g189",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Object%20Oriented%20Programming/Object%20Oriented%20Programming%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Object%20Oriented%20Programming/Object%20Oriented%20Programming%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Object Oriented Programming",
+  "course_code": "CSN203",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-3/Object-Oriented-Programming/END-SEM_2017_pecss-g189.pdf",
+  "transcript": "papers/CSE/Semester-3/Object-Oriented-Programming/END-SEM_2017_pecss-g189.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g190",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%204.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%205.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 7,
+  "course": "Operations Research",
+  "course_code": "PE401",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 3,
+  "pdf": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.pdf",
+  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2016_pecss-g190.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g192",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 7,
+  "course": "Operations Research",
+  "course_code": "MAN401",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.pdf",
+  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_2018_pecss-g192.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g196",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%206.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 7,
+  "course": "Operations Research",
+  "course_code": "MAN401",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 3,
+  "pdf": "papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.pdf",
+  "transcript": "papers/PROD/Semester-7/Operations-Research/END-SEM_2018_pecss-g196.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g197",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Operations%20Research/Operations%20Research%20-%207.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 7,
+  "course": "Operations Research",
+  "course_code": "MAN401",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.pdf",
+  "transcript": "papers/PROD/Semester-7/Operations-Research/MID-SEM_undated_pecss-g197.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g198",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Optical%20Communication/Optical%20Communication%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 7,
+  "course": "Optical Communication",
+  "course_code": "ECN408",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/ECE/Semester-7/Optical-Communication/MID-SEM_2017_pecss-g198.pdf",
+  "transcript": "papers/ECE/Semester-7/Optical-Communication/MID-SEM_2017_pecss-g198.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g200",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Power%20system%20operation%20and%20control%20(PSOC)/Power%20system%20operation%20and%20control%20(PSOC)%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Power%20system%20operation%20and%20control%20(PSOC)/Power%20system%20operation%20and%20control%20(PSOC)%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Power System Operation and Control",
+  "course_code": "EEN413",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.pdf",
+  "transcript": "papers/EE/Semester-7/Power-System-Operation-and-Control/MID-SEM_2018_pecss-g200.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g201",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Power%20system%20operation%20and%20control%20(PSOC)/Power%20system%20operation%20and%20control%20(PSOC)%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Power%20System%20Operation%20_amp_%20Control/Power%20System%20Operation%20_amp_%20Control%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Power System Operation and Control",
+  "course_code": "EEN413",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.pdf",
+  "transcript": "papers/EE/Semester-7/Power-System-Operation-and-Control/END-SEM_2018_pecss-g201.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g203",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Python%20Programming/Python%20Programming%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Python Programming",
+  "course_code": "CSN213",
+  "exam": "QUIZ",
+  "year": "2019",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-3/Python-Programming/QUIZ_2019_pecss-g203.pdf",
+  "transcript": "papers/CSE/Semester-3/Python-Programming/QUIZ_2019_pecss-g203.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g205",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Python%20Programming/Python%20Programming%20-%202.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Python%20Programming/Python%20Programming%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 3,
+  "course": "Python Programming",
+  "course_code": "CSN213",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-3/Python-Programming/MID-SEM_2019_pecss-g205.pdf",
+  "transcript": "papers/CSE/Semester-3/Python-Programming/MID-SEM_2019_pecss-g205.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g207",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Quality%20Engineering%20_amp_%20Management/Quality%20Engineering%20_amp_%20Management%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Quality%20Engineering%20_amp_%20Management/Quality%20Engineering%20_amp_%20Management%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "MECH",
+  "semester": 7,
+  "course": "Quality Engineering and Management (Open Elective)",
+  "course_code": "MEN461",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/MECH/Semester-7/Quality-Engineering-and-Management-Open-Elective/MID-SEM_2017_pecss-g207.pdf",
+  "transcript": "papers/MECH/Semester-7/Quality-Engineering-and-Management-Open-Elective/MID-SEM_2017_pecss-g207.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g208",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Restructured%20Power%20System/Restructured%20Power%20System%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Restructured%20Power%20System/Restructured%20Power%20System%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Restructured and Deregulated Power Systems",
+  "course_code": "EEN401",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/END-SEM_2018_pecss-g208.pdf",
+  "transcript": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/END-SEM_2018_pecss-g208.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g210",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Restructured%20Power%20System/Restructured%20Power%20System%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 7,
+  "course": "Restructured and Deregulated Power Systems",
+  "course_code": "EEN401",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.pdf",
+  "transcript": "papers/EE/Semester-7/Restructured-and-Deregulated-Power-Systems/MID-SEM_2018_pecss-g210.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g211",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Smartphones%20_amp_%20Next%20Generation%20Computing/Smartphones%20_amp_%20Next%20Generation%20Computing%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Smartphones%20_amp_%20Next%20Generation%20Computing/Smartphones%20_amp_%20Next%20Generation%20Computing%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": "unknown",
+  "course": "Smartphones and Next Generation Computing",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.pdf",
+  "transcript": "papers/CSE/Semester-unknown/Smartphones-and-Next-Generation-Computing/END-SEM_undated_pecss-g211.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g213",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Soft%20Computing/Soft%20Computing%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Soft%20Computing/Soft%20Computing%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "Soft Computing",
+  "course_code": "CSN403",
+  "exam": "END-SEM",
+  "year": "2020",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.pdf",
+  "transcript": "papers/CSE/Semester-7/Soft-Computing/END-SEM_2020_pecss-g213.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g215",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Software%20Engineering/Software%20Engineering%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Software%20Engineering/Software%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 5,
+  "course": "Software Engineering",
+  "course_code": "CSN302",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-5/Software-Engineering/END-SEM_2021_pecss-g215.pdf",
+  "transcript": "papers/CSE/Semester-5/Software-Engineering/END-SEM_2021_pecss-g215.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g217",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Solid%20_amp_%20Hazardous%20Waste%20Management/Solid%20_amp_%20Hazardous%20Waste%20Management%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 7,
+  "course": "Solid and Hazardous Waste Management",
+  "course_code": "CEN365",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-7/Solid-and-Hazardous-Waste-Management/MID-SEM_2017_pecss-g217.pdf",
+  "transcript": "papers/CIVIL/Semester-7/Solid-and-Hazardous-Waste-Management/MID-SEM_2017_pecss-g217.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g218",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Steel%20Making%20Technology/Steel%20Making%20Technology%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Steel%20Making%20Technology/Steel%20Making%20Technology%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Steel Making Technology",
+  "course_code": "MTN301",
+  "exam": "END-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/META/Semester-5/Steel-Making-Technology/END-SEM_2016_pecss-g218.pdf",
+  "transcript": "papers/META/Semester-5/Steel-Making-Technology/END-SEM_2016_pecss-g218.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g219",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Steel%20Making%20Technology/Steel%20Making%20Technology%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "META",
+  "semester": 5,
+  "course": "Steel Making Technology",
+  "course_code": "MTN301",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/META/Semester-5/Steel-Making-Technology/MID-SEM_2018_pecss-g219.pdf",
+  "transcript": "papers/META/Semester-5/Steel-Making-Technology/MID-SEM_2018_pecss-g219.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g221",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/System%20Software/System%20Software%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "System Software",
+  "course_code": "CS462",
+  "exam": "MID-SEM",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.pdf",
+  "transcript": "papers/CSE/Semester-7/System-Software/MID-SEM_2016_pecss-g221.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g222",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/System%20Software/System%20Software%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/System%20Software/System%20Software%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "System Software",
+  "course_code": "CS462",
+  "exam": "END-SEM",
+  "year": "2015",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-7/System-Software/END-SEM_2015_pecss-g222.pdf",
+  "transcript": "papers/CSE/Semester-7/System-Software/END-SEM_2015_pecss-g222.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g224",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/System%20Software/System%20Software%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "System Software",
+  "course_code": "CS462",
+  "exam": "MID-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/System-Software/MID-SEM_undated_pecss-g224.pdf",
+  "transcript": "papers/CSE/Semester-7/System-Software/MID-SEM_undated_pecss-g224.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g225",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/System%20Software/System%20Software%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "System Software",
+  "course_code": "CS462",
+  "exam": "END-SEM",
+  "year": "2014",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/System-Software/END-SEM_2014_pecss-g225.pdf",
+  "transcript": "papers/CSE/Semester-7/System-Software/END-SEM_2014_pecss-g225.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g226",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/System%20Software/System%20Software%20-%205.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 7,
+  "course": "System Software",
+  "course_code": "CS462",
+  "exam": "QUIZ",
+  "year": "2015",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CSE/Semester-7/System-Software/QUIZ_2015_pecss-g226.pdf",
+  "transcript": "papers/CSE/Semester-7/System-Software/QUIZ_2015_pecss-g226.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g227",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Theory%20of%20Computation/Theory%20of%20Computation%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Theory%20of%20Computation/Theory%20of%20Computation%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 5,
+  "course": "Theory of Computation",
+  "course_code": "CSN301",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-5/Theory-of-Computation/END-SEM_2021_pecss-g227.pdf",
+  "transcript": "papers/CSE/Semester-5/Theory-of-Computation/END-SEM_2021_pecss-g227.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g229",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Thermodynamics/Thermodynamics%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "AERO",
+  "semester": 3,
+  "course": "Thermodynamics",
+  "course_code": "ESC201",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/AERO/Semester-3/Thermodynamics/END-SEM_2017_pecss-g229.pdf",
+  "transcript": "papers/AERO/Semester-3/Thermodynamics/END-SEM_2017_pecss-g229.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g230",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Tool%20Design/Tool%20Design%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 4,
+  "course": "Tool Design",
+  "course_code": "PEN209",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.pdf",
+  "transcript": "papers/PROD/Semester-4/Tool-Design/END-SEM_2017_pecss-g230.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g231",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Tool%20Design/Tool%20Design%20-%201.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Tool%20Design/Tool%20Design%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": 4,
+  "course": "Tool Design",
+  "course_code": "PEN209",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.pdf",
+  "transcript": "papers/PROD/Semester-4/Tool-Design/MID-SEM_2017_pecss-g231.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g233",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Traffic%20Engineering/Traffic%20Engineering%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Traffic%20Engineering/Traffic%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 8,
+  "course": "Traffic Engineering",
+  "course_code": "CEN412",
+  "exam": "END-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.pdf",
+  "transcript": "papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g235",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Transportation%20Engineering-I/Transportation%20Engineering-I%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Transportation Engineering I",
+  "course_code": "CEN203",
+  "exam": "SESSIONAL",
+  "year": "2016",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_2016_pecss-g235.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g236",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Transportation%20Engineering-I/Transportation%20Engineering-I%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Transportation Engineering I",
+  "course_code": "CE213",
+  "exam": "END-SEM",
+  "year": "2013",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/END-SEM_2013_pecss-g236.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g237",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Transportation%20Engineering-I/Transportation%20Engineering-I%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 3,
+  "course": "Transportation Engineering I",
+  "course_code": "CE213",
+  "exam": "SESSIONAL",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.pdf",
+  "transcript": "papers/CIVIL/Semester-3/Transportation-Engineering-I/SESSIONAL_undated_pecss-g237.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g238",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/UEE%20and%20Illumination%20Engg/UEE%20and%20Illumination%20Engg%20-%200.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Utilization of Electrical Energy and Illumination Engineering",
+  "course_code": "EE426",
+  "exam": "END-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.pdf",
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2017_pecss-g238.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g240",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/UEE%20and%20Illumination%20Engg/UEE%20and%20Illumination%20Engg%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Utilization of Electrical Energy and Illumination Engineering",
+  "course_code": "EE426",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.pdf",
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2017_pecss-g240.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g241",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/UEE%20and%20Illumination%20Engg/UEE%20and%20Illumination%20Engg%20-%203.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Utilization of Electrical Energy and Illumination Engineering",
+  "course_code": "EE426",
+  "exam": "QUIZ",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.pdf",
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/QUIZ_undated_pecss-g241.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g239",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/UEE%20and%20Illumination%20Engg/UEE%20and%20Illumination%20Engg%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Utilization of Electrical Energy and Illumination Engineering",
+  "course_code": "EEN414",
+  "exam": "END-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.pdf",
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/END-SEM_2018_pecss-g239.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g242",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/UEE%20and%20Illumination%20Engg/UEE%20and%20Illumination%20Engg%20-%204.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 8,
+  "course": "Utilization of Electrical Energy and Illumination Engineering",
+  "course_code": "EEN414",
+  "exam": "MID-SEM",
+  "year": "2018",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.pdf",
+  "transcript": "papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MID-SEM_2018_pecss-g242.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g243",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/VLSI%20Design/VLSI%20Design%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/VLSI%20Design/VLSI%20Design%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 4,
+  "course": "VLSI Design",
+  "course_code": "ECN208",
+  "exam": "MID-SEM",
+  "year": "2019",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-4/VLSI-Design/MID-SEM_2019_pecss-g243.pdf",
+  "transcript": "papers/ECE/Semester-4/VLSI-Design/MID-SEM_2019_pecss-g243.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g245",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Web%20technologies/Web%20technologies%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Web%20technologies/Web%20technologies%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CSE",
+  "semester": 5,
+  "course": "Web Technologies",
+  "course_code": "",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CSE/Semester-5/Web-Technologies/END-SEM_2021_pecss-g245.pdf",
+  "transcript": "papers/CSE/Semester-5/Web-Technologies/END-SEM_2021_pecss-g245.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g247",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Welding%20Engineering/Welding%20Engineering%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Welding%20Engineering/Welding%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": "MTech-2",
+  "course": "Welding Engineering",
+  "course_code": "PRM5041",
+  "exam": "ASSIGNMENT",
+  "year": "undated",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.pdf",
+  "transcript": "papers/PROD/Semester-MTech-2/Welding-Engineering/ASSIGNMENT_undated_pecss-g247.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g249",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Welding%20Engineering/Welding%20Engineering%20-%202.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "PROD",
+  "semester": "MTech-2",
+  "course": "Welding Engineering",
+  "course_code": "PRM5041",
+  "exam": "END-SEM",
+  "year": "undated",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.pdf",
+  "transcript": "papers/PROD/Semester-MTech-2/Welding-Engineering/END-SEM_undated_pecss-g249.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g250",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Works%20Management%20_amp_%20Construction%20Engineering/Works%20Management%20_amp_%20Construction%20Engineering%20-%200.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Papers/Works%20Management%20_amp_%20Construction%20Engineering/Works%20Management%20_amp_%20Construction%20Engineering%20-%201.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "CIVIL",
+  "semester": 7,
+  "course": "Works Management and Construction Engineering",
+  "course_code": "CEN402",
+  "exam": "MID-SEM",
+  "year": "2017",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/CIVIL/Semester-7/Works-Management-and-Construction-Engineering/MID-SEM_2017_pecss-g250.pdf",
+  "transcript": "papers/CIVIL/Semester-7/Works-Management-and-Construction-Engineering/MID-SEM_2017_pecss-g250.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g000",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Electrical%20machines-1%20end%20sem%20question%20paper.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "EE",
+  "semester": 3,
+  "course": "Electrical Machines I",
+  "course_code": "EL1003",
+  "exam": "END-SEM",
+  "year": "2021",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.pdf",
+  "transcript": "papers/EE/Semester-3/Electrical-Machines-I/END-SEM_2021_pecss-g000.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g017",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Analog%20and%20Digital%20Communication/ECE_5th_Sem_AnalogDigitalCommunication.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Analog and Digital Communication",
+  "course_code": "EC1351",
+  "exam": "MID-SEM",
+  "year": "2022",
+  "reappear": false,
+  "pages": 3,
+  "pdf": "papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.pdf",
+  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g059",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Computer%20Networks/ECE_5th_Sem_ComputerCommunicationNetworks.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Computer Communication Networks",
+  "course_code": "EC2212",
+  "exam": "MID-SEM",
+  "year": "2022",
+  "reappear": false,
+  "pages": 3,
+  "pdf": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.pdf",
+  "transcript": "papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g061",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Control%20System/ECE_5th_Sem_ControlSystems.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Control Systems",
+  "course_code": "EC1352",
+  "exam": "MID-SEM",
+  "year": "2022",
+  "reappear": false,
+  "pages": 5,
+  "pdf": "papers/ECE/Semester-5/Control-Systems/MID-SEM_2022_pecss-g061.pdf",
+  "transcript": "papers/ECE/Semester-5/Control-Systems/MID-SEM_2022_pecss-g061.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g172",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Microwave%20and%20Radar%20Engineering/ECE_5th_Sem_Microwave_Engineering.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Microwave Engineering",
+  "course_code": "EC1353",
+  "exam": "END-SEM",
+  "year": "2022",
+  "reappear": false,
+  "pages": 4,
+  "pdf": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.pdf",
+  "transcript": "papers/ECE/Semester-5/Microwave-Engineering/END-SEM_2022_pecss-g172.md"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g001",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/GS2302%20Universal%20Human%20Values.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EE/Semester-2/Universal-Human-Values (owner upload 2026-11-22)"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g023",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Applied%20Chemistry-1-CH2301/End-Sem-06-05-2024/1.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Applied%20Chemistry-1-CH2301/End-Sem-06-05-2024/2.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EE/Semester-2/Applied-Chemistry END-SEM 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g088",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Engineering%20Drawing%20with%20CAD-ES-2302/End%20Sem%2004-05-2024/1.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Engineering%20Drawing%20with%20CAD-ES-2302/End%20Sem%2004-05-2024/2.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EE/Semester-2/Engineering-Drawing-using-CAD-Software END-SEM 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g123",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Introduction%20to%20mechatronics/08-05-2024/1.jpg",
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Introduction%20to%20mechatronics/08-05-2024/2.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EE/Semester-2/Introduction-to-Mechatronics END-SEM 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g134",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Linear%20Algebra,Differential%20Calculus,Vector%20Calculus%20-%20MA2302/End%20Sem%20-%2001-May-2024/1.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EE/Semester-2/Linear-Algebra... END-SEM 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g138",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Machine%20Joining%20Technology/Machine%20Joining%20Technology%20-%200.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of duplicate photo of g149"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g072",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%205.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of duplicate photo of g071"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g068",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/Digital%20Signal%20Processing/Digital%20Signal%20Processing%20-%201.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of duplicate photo of g070"
+ },
+ {
+  "id": "2026-11-22_github_pec-css:g079",
+  "source": {
+   "batch": "2026-11-22_github_pec-css",
+   "files": [
+    "https://github.com/PEC-CSS/PEC-Previous-Year-Papers/blob/main/EOIT%20(Information%20Technology%20in%20Engineering)/EOIT%20(Information%20Technology%20in%20Engineering)%20-%201.jpg"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of duplicate photo of g080"
  }
 ]

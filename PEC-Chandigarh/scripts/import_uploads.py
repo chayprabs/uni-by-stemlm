@@ -11,7 +11,8 @@ range, and its department / semester / course / code / exam / year.
   auto-rotated, downscaled and wrapped into a PDF.
 Transcript text = the PDF's own text layer or tesseract, whichever reads better.
 
-Usage (from PEC-Chandigarh/):  OMP_THREAD_LIMIT=1 python3 scripts/import_uploads.py data/imports/<batch>.json
+Usage (from PEC-Chandigarh/):  OMP_THREAD_LIMIT=1 python3 scripts/import_uploads.py data/imports/<batch>.json [WORK]
+(WORK is needed for specs whose papers list prepared page "images", e.g. the GitHub batch.)
 Re-running replaces this batch's papers (idempotent).
 """
 import collections
@@ -104,7 +105,32 @@ def image_pages(blobs, dest):
     return texts
 
 
-def main(spec_path):
+def keyed_pages(work, keys, dest, tmp, vocab):
+    """Pages already prepared by prepare_images.py (upright JPGs + OCR text) or whole PDFs, by key."""
+    parts, texts = [], []
+    for i, k in enumerate(keys):
+        pdf = f"{work}/raw/{k}.pdf"
+        if os.path.exists(pdf):
+            n = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout).group(1))
+            part = f"{tmp}/part-{i:03d}.pdf"
+            texts += pdf_pages(pdf, 1, n, part, tmp, vocab)
+        else:
+            part = f"{tmp}/part-{i:03d}.pdf"
+            with open(part, "wb") as f:
+                f.write(img2pdf.convert(f"{work}/proc/{k}.jpg"))
+            texts.append(clean_ocr(open(f"{work}/ocr/{k}.txt").read()))
+        parts.append(part)
+    if len(parts) == 1:
+        os.replace(parts[0], dest)
+    else:
+        subprocess.run(["pdfunite", *parts, dest], check=True)
+        for x in parts:
+            os.remove(x)
+    return texts
+
+
+def main(spec_path, work=None):
+    """work: directory with proc/<key>.jpg, ocr/<key>.txt and raw/<key>.pdf for specs that list 'images'."""
     spec = json.load(open(spec_path))
     batch = os.path.splitext(os.path.basename(spec_path))[0]
     batch_dir = f"{LIB}/sources/{batch.split('_')[0]}"
@@ -115,15 +141,21 @@ def main(spec_path):
 
     with tempfile.TemporaryDirectory() as tmp:
         for p in spec["papers"]:
-            dept = p.get("department", spec["department"])
+            dept = p.get("department") or spec["department"]
             sem, course, code, exam, year = str(p["sem"]), p["course"], p["code"], p["exam"], p["year"]
-            a, b = p["pages"]
+            a, b = p.get("pages", (1, 1))
             folder = f"papers/{dept}/Semester-{sem}/{slug(course)}"
-            base = f"{exam}_{year}_upload-{batch.split('_')[0]}"
+            if "images" in p:
+                a, b = 1, len(p["images"])
+                base = f"{exam}_{year}_{spec.get('suffix', 'src')}-{p['images'][0]}"
+            else:
+                base = f"{exam}_{year}_upload-{batch.split('_')[0]}"
             os.makedirs(f"{LIB}/{folder}", exist_ok=True)
             dest = f"{LIB}/{folder}/{base}.pdf"
 
-            if p["file"].endswith(".docx"):
+            if "images" in p:
+                texts = keyed_pages(work, p["images"], dest, tmp, vocab)
+            elif p["file"].endswith(".docx"):
                 path = f"{batch_dir}/{p['file']}"
                 docx_cache.setdefault(path, docx_images(path))
                 texts = image_pages(docx_cache[path][a - 1:b], dest)
@@ -140,10 +172,13 @@ def main(spec_path):
                 f"- **Course:** {course}",
                 f"- **Course code:** {code}",
                 f"- **Exam:** {label}" + (f" - {p['note']}" if p.get("note") else ""),
+                f"- **Programme:** {'M.Tech' if str(sem).startswith('MTech') else 'B.Tech / B.E.'}",
                 f"- **Year:** {year}",
                 f"- **Pages:** {len(texts)}",
                 f"- **Paper PDF:** [{base}.pdf]({base}.pdf)",
-                f"- **Source:** owner upload `sources/{batch.split('_')[0]}/{p['file']}`, page(s) {a}-{b}",
+                (f"- **Source:** {', '.join(f'[{i + 1}]({u})' for i, u in enumerate(p['source_files']))} ({spec.get('source_name', 'source')})"
+                 if "images" in p else
+                 f"- **Source:** owner upload `sources/{batch.split('_')[0]}/{p['file']}`, page(s) {a}-{b}"),
                 "",
                 "> Text below is OCR of scanned/photographed pages. Equations, diagrams and tables",
                 "> are often garbled - always check against the PDF before solving.",
@@ -159,18 +194,22 @@ def main(spec_path):
                 f.write("\n".join(md))
 
             manifest.append({
-                "id": f"{batch}:{p['file']}:{a}-{b}",
-                "source": {"batch": batch, "file": p["file"], "pages": [a, b]},
-                "status": "included", "department": dept, "semester": int(sem), "course": course,
+                "id": f"{batch}:{p['images'][0]}" if "images" in p else f"{batch}:{p['file']}:{a}-{b}",
+                "source": ({"batch": batch, "files": p["source_files"]} if "images" in p
+                           else {"batch": batch, "file": p["file"], "pages": [a, b]}),
+                "status": "included", "department": dept, "semester": int(sem) if sem.isdigit() else sem, "course": course,
                 "course_code": code, "exam": exam, "year": year, "reappear": False, "pages": len(texts),
                 "pdf": f"{folder}/{base}.pdf", "transcript": f"{folder}/{base}.md",
             })
             print(f"{folder}/{base}.pdf  ({len(texts)}p)")
 
+    for sk in spec.get("skipped", []):
+        manifest.append({"id": f"{batch}:{sk['images'][0]}", "source": {"batch": batch, "files": sk["source_files"]},
+                         "status": "duplicate", "reason": sk["reason"]})
     with open(manifest_path, "w") as f:
         json.dump(manifest, f, indent=1, ensure_ascii=False)
     write_index(LIB, [m for m in manifest if m["status"] == "included"], manifest)
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    main(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else None)

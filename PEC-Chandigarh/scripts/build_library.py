@@ -24,7 +24,21 @@ import img2pdf
 sys.path.insert(0, os.path.dirname(__file__))
 from catalog import BROKEN, COURSES, DEPARTMENTS, DUPLICATE_OF, JUNK, YEAR_OVERRIDES  # noqa: E402
 
-EXAM_LABEL = {"MID-SEM": "Mid-Semester", "END-SEM": "End-Semester", "PRACTICAL": "Practical"}
+EXAM_LABEL = {
+    "MID-SEM": "Mid-Semester",
+    "END-SEM": "End-Semester",
+    "PRACTICAL": "Practical",
+    "QUIZ": "Quiz / Class Test",
+    "SESSIONAL": "Sessional Test",
+    "ASSIGNMENT": "Assignment",
+    "UNKNOWN": "Exam (type not stated)",
+}
+EXAM_ORDER = list(EXAM_LABEL)
+
+
+def sem_key(s):
+    s = str(s)
+    return (not s.isdigit(), s.zfill(3))
 
 
 def slug(s):
@@ -164,10 +178,10 @@ def write_index(lib, entries, manifest):
     out.append("")
     for d in sorted(by):
         out += [f"## {d}", "", f"_{DEPARTMENTS[d]}_", ""]
-        for s in sorted(by[d]):
+        for s in sorted(by[d], key=sem_key):
             out += [f"### {d} - Semester {s}", "", "| Course | Code | Exam | Year | Paper | Transcript |", "|---|---|---|---|---|---|"]
             for (course, code), es in sorted(by[d][s].items()):
-                for e in sorted(es, key=lambda e: (e["exam"] != "MID-SEM", e["year"], e["reappear"])):
+                for e in sorted(es, key=lambda e: (EXAM_ORDER.index(e["exam"]), e["year"], e["reappear"], e["pdf"])):
                     exam = EXAM_LABEL[e["exam"]] + (" (Re-appear)" if e["reappear"] else "")
                     out.append(
                         f"| {course} | {code or '-'} | {exam} | {e['year']} | "
