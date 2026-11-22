@@ -9219,5 +9219,298 @@
   },
   "status": "excluded",
   "reason": "Punjab Engineering College 2005 B.Tech COMPUTER NETWORK - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r16",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Analog%20and%20Digital%20Communication/2022/End-Term.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "ECE",
+  "semester": 5,
+  "course": "Analog and Digital Communication",
+  "course_code": "EC1351",
+  "exam": "END-SEM",
+  "year": "2022",
+  "reappear": false,
+  "pages": 2,
+  "pdf": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.pdf",
+  "transcript": "papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.md"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r98",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Entrepreneurship%20and%20Project%20Management/2025/Mid-Term.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "HSM",
+  "semester": 8,
+  "course": "Entrepreneurship and Project Management",
+  "course_code": "HS2802",
+  "exam": "MID-SEM",
+  "year": "2025",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.pdf",
+  "transcript": "papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r01",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Advanced%20Communication/2021/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of ECN302 end-sem 2021 (pecss-g003)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r17",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Analog%20and%20Digital%20Communication/2022/Mid-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EC1351 mid-sem 2022 (pecss-g017)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r18",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Analog%20and%20Digital%20Communication/ECE_5th_Sem_AnalogDigitalCommunication.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of byte-identical to pecss-g017"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r24",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Applied%20Chemistry%201/2023/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of CH2301 end-sem May 2024 (owner upload; same paper, different photo)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r58",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Computer%20Architecture/2021/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of computer architecture end-sem 2021 (pecss-g056)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r61",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Computer%20Communication%20Network/2022/Mid-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EC2212 mid-sem 2022 (pecss-g059)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r62",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Computer%20Networks/2019/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of compilation of pecss-g060, g058 and g059 pages"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r65",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Control%20Systems/2022/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of EC1352 mid-sem 2022 (pecss-g061; labelled End-Term there)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r69",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Database%20Management%20Systems/2022/Mid-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of CSN208 mid-sem 2020 (pecss-g063; labelled 2022 there)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r70",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Digital%20Design/2016/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of ECN103 end-sem 2016 (pecss-g065)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r88",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Electrical%20machines-1%20end%20sem%20question%20paper.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of byte-identical to pecss-g000"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r95",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Engineering%20Drawing%20using%20CAD%20Software/2023/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of ES2302 end-sem May 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r99",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Financial%20Management/2018/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of compilation of the PEC-CSS Financial Management folder (g090-g093)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r134",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Introduction%20to%20Mechatronics/2024/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of ES2304 end-sem 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r146",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Linear%20Algebra,%20Differential%20Calculus,%20Vector%20Calculus/2024/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of MA2302 end-sem 2024 (owner upload)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r156",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Machine%20Learning%20for%20Data%20Science/2021/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of compilation of the PEC-CSS DSC303 folder (g139-g142)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r186",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Microwave%20and%20Radar%20Engineering/ECE_5th_Sem_Microwave_Engineering.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of byte-identical to pecss-g172"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r204",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Operating%20Systems/2025/Mid-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of CS6801 OS mid-sem 2025 (pecpapers VdOLg7)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r218",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Python%20Programming/2019/Mid-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of compilation of pecss-g203 quiz and g205/g204 mid-sem"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r229",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Soft%20Computing/2020/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of CSN403 end-sem 2020 (pecss-g213)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r232",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Software%20Engineering/2021/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of CSN302 end-sem 2021 (pecss-g215)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r245",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Theory%20of%20Computation/2021/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of CSN301 end-sem 2021 (pecss-g227)"
+ },
+ {
+  "id": "2026-11-22_robotics-pec:r248",
+  "source": {
+   "batch": "2026-11-22_robotics-pec",
+   "files": [
+    "https://github.com/Robotics-PEC/pyq/blob/main/Papers/Thermodynamics/2017/End-Term.pdf"
+   ]
+  },
+  "status": "duplicate",
+  "reason": "duplicate of ESC201 end-sem 2017 (pecss-g229)"
  }
 ]

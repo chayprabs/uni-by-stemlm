@@ -1,6 +1,6 @@
 # HSM - Humanities, Social Sciences and Management
 
-22 papers. [Back to the full index](../../INDEX.md)
+23 papers. [Back to the full index](../../INDEX.md)
 
 ## Semester 1
 
@@ -48,6 +48,7 @@
 | Business Environment and Business Laws | HS2801 | End-Semester | 2026 | [PDF](Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.pdf) (2p) | [text](Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.md) |
 | Business Research (Minor) | HSM432 | Mid-Semester | 2019 | [PDF](Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.pdf) (1p) | [text](Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md) |
 | Business Research (Minor) | HSM432 | End-Semester | 2019 | [PDF](Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.pdf) (2p) | [text](Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md) |
+| Entrepreneurship and Project Management | HS2802 | Mid-Semester | 2025 | [PDF](Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.pdf) (1p) | [text](Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md) |
 | Entrepreneurship and Project Management | HS2802 | End-Semester | 2025 | [PDF](Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.pdf) (1p) | [text](Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.md) |
 | Financial Management | HSM404 | Mid-Semester | 2018 | [PDF](Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.pdf) (1p) | [text](Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md) |
 | Financial Management (Minor) | HSM434 | Mid-Semester | 2019 | [PDF](Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.pdf) (1p) | [text](Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md) |

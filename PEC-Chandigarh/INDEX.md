@@ -3,7 +3,7 @@
 Organised **branch -> semester -> course**. Each paper has a PDF and a `.md` file with
 metadata, a (to be filled) solutions section and the OCR transcript.
 
-**373 papers** across 15 departments (588 pages). Not included: 28 duplicates, 35 excluded (test uploads, or papers from other universities wrongly labelled PEC), 1 missing. Every source file is accounted for in [data/manifest.json](data/manifest.json); see [README.md](README.md) for details.
+**375 papers** across 15 departments (591 pages). Not included: 51 duplicates, 35 excluded (test uploads, or papers from other universities wrongly labelled PEC), 1 missing. Every source file is accounted for in [data/manifest.json](data/manifest.json); see [README.md](README.md) for details.
 
 ## Departments
 
@@ -14,9 +14,9 @@ metadata, a (to be filled) solutions section and the OCR transcript.
 - [CSE - Computer Science and Engineering](#cse) (49 papers)
 - [CSE-AI - CSE (Artificial Intelligence)](#cse-ai) (2 papers)
 - [CSE-DS - CSE (Data Science)](#cse-ds) (8 papers)
-- [ECE - Electronics and Communication Engineering](#ece) (55 papers)
+- [ECE - Electronics and Communication Engineering](#ece) (56 papers)
 - [EE - Electrical Engineering](#ee) (69 papers)
-- [HSM - Humanities, Social Sciences and Management](#hsm) (22 papers)
+- [HSM - Humanities, Social Sciences and Management](#hsm) (23 papers)
 - [MATHS - Mathematics](#maths) (18 papers)
 - [MECH - Mechanical Engineering](#mech) (54 papers)
 - [META - Metallurgical and Materials Engineering](#meta) (17 papers)
@@ -357,6 +357,7 @@ _Electronics and Communication Engineering_
 |---|---|---|---|---|---|
 | Advanced Communication | ECN302 | End-Semester | 2021 | [PDF](papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.pdf) (2p) | [text](papers/ECE/Semester-5/Advanced-Communication/END-SEM_2021_pecss-g003.md) |
 | Analog and Digital Communication | EC1351 | Mid-Semester | 2022 | [PDF](papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.pdf) (3p) | [text](papers/ECE/Semester-5/Analog-and-Digital-Communication/MID-SEM_2022_pecss-g017.md) |
+| Analog and Digital Communication | EC1351 | End-Semester | 2022 | [PDF](papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.pdf) (2p) | [text](papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2022_robopec-r16.md) |
 | Analog and Digital Communication | EC1351 | End-Semester | 2023 | [PDF](papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2023_x0A2vp.pdf) (2p) | [text](papers/ECE/Semester-5/Analog-and-Digital-Communication/END-SEM_2023_x0A2vp.md) |
 | Computer Communication Networks | EC2212 | Mid-Semester | 2022 | [PDF](papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.pdf) (3p) | [text](papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2022_pecss-g059.md) |
 | Computer Communication Networks | EC2212 | Mid-Semester | 2023 | [PDF](papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2023_bAwP8a.pdf) (2p) | [text](papers/ECE/Semester-5/Computer-Communication-Networks/MID-SEM_2023_bAwP8a.md) |
@@ -562,6 +563,7 @@ _Humanities, Social Sciences and Management_
 | Business Environment and Business Laws | HS2801 | End-Semester | 2026 | [PDF](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Environment-and-Business-Laws/END-SEM_2026_0Gamrr.md) |
 | Business Research (Minor) | HSM432 | Mid-Semester | 2019 | [PDF](papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.pdf) (1p) | [text](papers/HSM/Semester-8/Business-Research-Minor/MID-SEM_2019_pecss-g035.md) |
 | Business Research (Minor) | HSM432 | End-Semester | 2019 | [PDF](papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.pdf) (2p) | [text](papers/HSM/Semester-8/Business-Research-Minor/END-SEM_2019_pecss-g034.md) |
+| Entrepreneurship and Project Management | HS2802 | Mid-Semester | 2025 | [PDF](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.pdf) (1p) | [text](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/MID-SEM_2025_robopec-r98.md) |
 | Entrepreneurship and Project Management | HS2802 | End-Semester | 2025 | [PDF](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.pdf) (1p) | [text](papers/HSM/Semester-8/Entrepreneurship-and-Project-Management/END-SEM_2025_DrdNPi.md) |
 | Financial Management | HSM404 | Mid-Semester | 2018 | [PDF](papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.pdf) (1p) | [text](papers/HSM/Semester-8/Financial-Management/MID-SEM_2018_pecss-g090.md) |
 | Financial Management (Minor) | HSM434 | Mid-Semester | 2019 | [PDF](papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.pdf) (1p) | [text](papers/HSM/Semester-8/Financial-Management-Minor/MID-SEM_2019_pecss-g092.md) |

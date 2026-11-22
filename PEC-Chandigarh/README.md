@@ -22,15 +22,15 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
 | CSE | Computer Science and Engineering | 49 |
 | CSE-AI | CSE (Artificial Intelligence) | 2 |
 | CSE-DS | CSE (Data Science) | 8 |
-| ECE | Electronics and Communication Engineering | 55 |
+| ECE | Electronics and Communication Engineering | 56 |
 | EE | Electrical Engineering | 69 |
-| HSM | Humanities, Social Sciences and Management | 22 |
+| HSM | Humanities, Social Sciences and Management | 23 |
 | MATHS | Mathematics | 18 |
 | MECH | Mechanical Engineering | 54 |
 | META | Metallurgical and Materials Engineering | 17 |
 | PHYSICS | Physics | 3 |
 | PROD | Production and Industrial Engineering | 21 |
-| **Total** | | **373 papers, 588 pages** |
+| **Total** | | **375 papers, 591 pages** |
 
 B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
 
@@ -41,11 +41,20 @@ B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
 | [pecpapers.vercel.app](https://pecpapers.vercel.app/) | 169 | 2016-2026 | crowd-sourced site; see "Source and how it was collected" below |
 | Owner uploads (`sources/2026-11-22/`) | 42 | 2023-2025 | EE semesters 1, 2, 3 and 5 |
 | [PEC-CSS/PEC-Previous-Year-Papers](https://github.com/PEC-CSS/PEC-Previous-Year-Papers) (GitHub, PEC CSS student society) | 154 | 2013-2022 | mostly the old *PEC University of Technology* scheme (codes like CSN-409, EEN-413) |
+| [Robotics-PEC/pyq](https://github.com/Robotics-PEC/pyq) (PEC Robotics Society's "PECademic" PYQ page) | 2 | 2022, 2025 | 25 PDFs checked; 23 duplicate papers already here (several are compilations of PEC-CSS folders) |
 | [howtoexam.com](https://www.howtoexam.com) | 8 | 2007, 2010 | first-year MA102, TA101, TA103, PY101; 31 other entries labelled "PEC" there are other universities' papers and were excluded |
 
-File names end with where the paper came from: `_<id>` (pecpapers), `_upload-<date>` (owner upload), `_pecss-gNNN` (GitHub) or `_howtoexam-hNNNN`.
+File names end with where the paper came from: `_<id>` (pecpapers), `_upload-<date>` (owner upload), `_pecss-gNNN` (PEC-CSS GitHub), `_robopec-rNN` (Robotics Society GitHub) or `_howtoexam-hNNNN`.
 
 **Browsing:** start at [INDEX.md](INDEX.md), or open any department folder in `papers/`. Each one has its own README listing its papers.
+
+### Completeness audit (2026-11-22)
+
+- **Owner uploads:** all 7 files are stored byte-for-byte in `sources/2026-11-22/`. All 63 pages in them (16 PDFs inside the zips and bundles, plus 14 photos in the .docx) are assigned to a paper.
+- **pecpapers.vercel.app:** re-queried after the first import and still 193 records with no changes. Every record is in the manifest.
+- **PEC-CSS GitHub:** all 252 files on main, the full history, all branches, all 30 pull requests and 18 forks were checked. Nothing exists beyond the 252 files.
+- **Robotics-PEC/pyq:** all branches, history and pull requests were checked. Its photos are Git LFS pointers to the PEC-CSS images.
+- **howtoexam.com:** all 39 PEC-labelled entries were opened, including multi-page entries and attachments.
 
 ### Sources checked that had nothing usable
 
