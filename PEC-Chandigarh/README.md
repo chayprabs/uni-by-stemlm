@@ -18,6 +18,7 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
 | AERO | Aerospace Engineering | 8 |
 | CHEMISTRY | Chemistry | 9 |
 | CIVIL | Civil Engineering | 30 |
+| COMMON | First-year common courses (all branches) | 8 |
 | CSE | Computer Science and Engineering | 49 |
 | CSE-AI | CSE (Artificial Intelligence) | 2 |
 | CSE-DS | CSE (Data Science) | 8 |
@@ -29,7 +30,7 @@ collected for STEM LM. This folder will also hold worked solutions for each pape
 | META | Metallurgical and Materials Engineering | 17 |
 | PHYSICS | Physics | 3 |
 | PROD | Production and Industrial Engineering | 21 |
-| **Total** | | **365 papers, 580 pages** |
+| **Total** | | **373 papers, 588 pages** |
 
 B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
 
@@ -40,8 +41,29 @@ B-DES (Bachelor of Design) is a department on the site, but it had no uploads.
 | [pecpapers.vercel.app](https://pecpapers.vercel.app/) | 169 | 2016-2026 | crowd-sourced site; see "Source and how it was collected" below |
 | Owner uploads (`sources/2026-11-22/`) | 42 | 2023-2025 | EE semesters 1, 2, 3 and 5 |
 | [PEC-CSS/PEC-Previous-Year-Papers](https://github.com/PEC-CSS/PEC-Previous-Year-Papers) (GitHub, PEC CSS student society) | 154 | 2013-2022 | mostly the old *PEC University of Technology* scheme (codes like CSN-409, EEN-413) |
+| [howtoexam.com](https://www.howtoexam.com) | 8 | 2007, 2010 | first-year MA102, TA101, TA103, PY101; 31 other entries labelled "PEC" there are other universities' papers and were excluded |
 
-File names end with where the paper came from: `_<id>` (pecpapers), `_upload-<date>` (owner upload) or `_pecss-gNNN` (GitHub).
+File names end with where the paper came from: `_<id>` (pecpapers), `_upload-<date>` (owner upload), `_pecss-gNNN` (GitHub) or `_howtoexam-hNNNN`.
+
+**Browsing:** start at [INDEX.md](INDEX.md), or open any department folder in `papers/`. Each one has its own README listing its papers.
+
+### Sources checked that had nothing usable
+
+- **Scribd:** two PEC bundles ("Mech sem 3 Question Papers", "PYQs 1st Year - All Subjects 2023-24") are behind Scribd's bot check and login. Download them by hand and drop them into `incoming/` or `sources/`.
+- **universitypaper.in / universitypaperindia.com, universitynewsindia.com:** SEO pages; every "download" link points to pec.ac.in's homepage.
+- **sample-papers.com:** the PEC page only shows University of Delhi papers as filler.
+- **goeduhub.com:** the PEC page no longer exists.
+- **pec.ac.in:** the official site does not publish question papers.
+- **PEC-CSS's original source** is a private Facebook group, which needs a login.
+
+### howtoexam.com
+
+All 39 entries listed under Punjab Engineering College were opened. Seven have the original scan attached; those were imported as PDFs. One PEC paper (TA103 Engineering Design end-sem) exists only as typed text, which the site has partly machine-reworded, so it is included as a transcript with no PDF. The remaining 31 are excluded, with the reason for each recorded in [data/imports/2026-11-22_howtoexam.json](data/imports/2026-11-22_howtoexam.json):
+
+- the 2005 "B.Tech" set is in Punjab Technical University format;
+- the 2006-2008 papers are Anna University (Regulation 2004/2007 codes such as CS1301 and MA1101) or B.Sc papers.
+
+These 2007/2010 papers are filed under `COMMON` (first-year courses for all branches).
 
 ### GitHub: PEC-CSS/PEC-Previous-Year-Papers
 

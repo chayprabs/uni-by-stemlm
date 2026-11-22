@@ -191,6 +191,25 @@ def write_index(lib, entries, manifest):
             out.append("")
     with open(f"{lib}/INDEX.md", "w") as f:
         f.write("\n".join(out))
+    write_department_readmes(lib, by)
+
+
+def write_department_readmes(lib, by):
+    """papers/<DEPT>/README.md: the same tables with links relative to the department folder."""
+    for d in by:
+        n = sum(len(v) for s in by[d].values() for v in s.values())
+        out = [f"# {d} - {DEPARTMENTS[d]}", "", f"{n} papers. [Back to the full index](../../INDEX.md)", ""]
+        for s in sorted(by[d], key=sem_key):
+            out += [f"## Semester {s}", "", "| Course | Code | Exam | Year | Paper | Transcript |", "|---|---|---|---|---|---|"]
+            for (course, code), es in sorted(by[d][s].items()):
+                for e in sorted(es, key=lambda e: (EXAM_ORDER.index(e["exam"]), e["year"], e["reappear"], e["transcript"])):
+                    rel = lambda x: x.split(f"papers/{d}/", 1)[1]
+                    exam = EXAM_LABEL[e["exam"]] + (" (Re-appear)" if e["reappear"] else "")
+                    paper = f"[PDF]({rel(e['pdf'])}) ({e['pages']}p)" if e.get("pdf") else "text only"
+                    out.append(f"| {course} | {code or '-'} | {exam} | {e['year']} | {paper} | [text]({rel(e['transcript'])}) |")
+            out.append("")
+        with open(f"{lib}/papers/{d}/README.md", "w") as f:
+            f.write("\n".join(out))
 
 
 if __name__ == "__main__":
