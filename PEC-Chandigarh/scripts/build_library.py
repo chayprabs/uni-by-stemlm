@@ -166,8 +166,9 @@ def write_index(lib, entries, manifest):
         "",
         f"**{st['included']} papers** across {len(by)} departments "
         f"({sum(e['pages'] for e in entries)} pages). "
-        f"Skipped: {st['duplicate']} duplicate uploads, {st['excluded']} test uploads, {st['missing']} deleted upload "
-        "(details in [README.md](README.md#data-notes)).",
+        f"Not included: {st['duplicate']} duplicates, {st['excluded']} excluded (test uploads, or papers from other "
+        f"universities wrongly labelled PEC), {st['missing']} missing. Every source file is accounted for in "
+        "[data/manifest.json](data/manifest.json); see [README.md](README.md) for details.",
         "",
         "## Departments",
         "",
@@ -181,11 +182,11 @@ def write_index(lib, entries, manifest):
         for s in sorted(by[d], key=sem_key):
             out += [f"### {d} - Semester {s}", "", "| Course | Code | Exam | Year | Paper | Transcript |", "|---|---|---|---|---|---|"]
             for (course, code), es in sorted(by[d][s].items()):
-                for e in sorted(es, key=lambda e: (EXAM_ORDER.index(e["exam"]), e["year"], e["reappear"], e["pdf"])):
+                for e in sorted(es, key=lambda e: (EXAM_ORDER.index(e["exam"]), e["year"], e["reappear"], e["transcript"])):
                     exam = EXAM_LABEL[e["exam"]] + (" (Re-appear)" if e["reappear"] else "")
+                    paper = f"[PDF]({e['pdf']}) ({e['pages']}p)" if e.get("pdf") else "text only"
                     out.append(
-                        f"| {course} | {code or '-'} | {exam} | {e['year']} | "
-                        f"[PDF]({e['pdf']}) ({e['pages']}p) | [text]({e['transcript']}) |"
+                        f"| {course} | {code or '-'} | {exam} | {e['year']} | {paper} | [text]({e['transcript']}) |"
                     )
             out.append("")
     with open(f"{lib}/INDEX.md", "w") as f:

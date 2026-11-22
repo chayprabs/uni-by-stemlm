@@ -11,6 +11,7 @@ DEPARTMENTS = {
     "B-DES": "Bachelor of Design",
     "CHEMISTRY": "Chemistry",
     "CIVIL": "Civil Engineering",
+    "COMMON": "First-year common courses (all branches)",
     "CSE": "Computer Science and Engineering",
     "CSE-AI": "CSE (Artificial Intelligence)",
     "CSE-DS": "CSE (Data Science)",

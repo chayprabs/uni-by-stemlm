@@ -8711,5 +8711,513 @@
   },
   "status": "duplicate",
   "reason": "duplicate of duplicate photo of g080"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4035",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4035&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4035/punjab-engineering-college-2010-b-e-4035-1.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Mathematics II",
+  "course_code": "MA102",
+  "exam": "ASSIGNMENT",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.pdf",
+  "transcript": "papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4036",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4036&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4036/punjab-engineering-college-2010-b-e-4036-1.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Mathematics II",
+  "course_code": "MA102",
+  "exam": "QUIZ",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.pdf",
+  "transcript": "papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4037",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4037&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4037/punjab-engineering-college-2010-b-e-4037-1.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Mathematics II",
+  "course_code": "MA102",
+  "exam": "MID-SEM",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.pdf",
+  "transcript": "papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4038",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4038&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4038/punjab-engineering-college-2010-b-e-computer-science-4038-1.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Introduction to Computing",
+  "course_code": "TA101",
+  "exam": "MID-SEM",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.pdf",
+  "transcript": "papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4039",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4039&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4039/punjab-engineering-college-2010-b-e-mechanical-engineering-4039-1.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Engineering Design",
+  "course_code": "TA103",
+  "exam": "SESSIONAL",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.pdf",
+  "transcript": "papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4041",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4041&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4041/punjab-engineering-college-2010-b-e-engineering-physics-4041-1.jpg"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Physics I",
+  "course_code": "PY101",
+  "exam": "MID-SEM",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.pdf",
+  "transcript": "papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4040",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4040&Itemid=58",
+    "https://www.howtoexam.com/images/stories/attachment/1920/university/4040/punjab-engineering-college-2007-b-e-engineering-physics-4040-1.pdf"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Physics I",
+  "course_code": "PY101",
+  "exam": "END-SEM",
+  "year": "2007",
+  "reappear": false,
+  "pages": 1,
+  "pdf": "papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.pdf",
+  "transcript": "papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4034",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4034&Itemid=58"
+   ]
+  },
+  "status": "included",
+  "department": "COMMON",
+  "semester": 2,
+  "course": "Engineering Design",
+  "course_code": "TA103",
+  "exam": "END-SEM",
+  "year": "2010",
+  "reappear": false,
+  "pages": 1,
+  "pdf": null,
+  "transcript": "papers/COMMON/Semester-2/Engineering-Design/END-SEM_2010_howtoexam-h4034.md"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4042",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4042&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2008 B.E Computer Science COMPUTER GRAPHICS  - Question Paper - not PEC: B.Sc degree examination paper"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4043",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4043&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2008 B.E Electronics &amp; Tele-Communication Engineering INTERNET AND WEB DESIGN - Question Paper - not PEC: B.Sc degree examination paper"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4044",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4044&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2008 B.E Electrical and Electronics Engineering DATA STRUCTURES - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4045",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4045&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2007 B.E Computer Science TOTAL QUALITY MANAGEMENT - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4046",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4046&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2007 B.E Computer Science DATABASE MANAGEMENT SYSTEMS - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4047",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4047&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2007 B.E Information Technology OBJECT ORIENTED SOFTWARE ENGINEERING - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4048",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4048&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2007 B.E Electrical and Electronics Engineering PRINCIPLES OF ENVIRONMENTAL SCIENCE AND ENGINEERING - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4049",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4049&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2007 B.E Electrical and Electronics Engineering Engineering Economics and Financial Accounting - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4050",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4050&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2007 B.E Civil Engineering CHEMISTRY - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4051",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4051&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2008 B.E MATHEMATICS _ I - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4052",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4052&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2006 B.E MICROPROCESSOR AND ITS APPLICATIONS - Question Paper - not PEC: Anna University-style paper (Regulation 2004/2007 codes, branches PEC never had)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4053",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4053&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Electronic Devices & Circuits - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4054",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4054&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Industrial Electronics - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4055",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4055&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Fibre Optics Communication - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4056",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4056&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Digital Signal Processing - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4057",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4057&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Radar System & Navigation - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4058",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4058&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Microprocessor & Its Application(EC - 307) - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4059",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4059&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Linear Integrated Circuits - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4060",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4060&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Antenna & Wave Propagation - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4061",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4061&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Analog Communication System - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4063",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4063&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Electromagnetic Field Theory - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4064",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4064&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Communication Signals & Systems - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4065",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4065&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Digital Electronics - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4068",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4068&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Analog Electronics - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4069",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4069&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Electronic Measurement & Instrumentation - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4070",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4070&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Networking Operating System - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4071",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4071&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Advanced Internet Technology - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4072",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4072&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Electronic Commerce - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4073",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4073&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Advanced Microprocessor - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4074",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4074&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech Computer Science and Engineering Software Engineering(CS-308)   - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
+ },
+ {
+  "id": "2026-11-22_howtoexam:h4076",
+  "source": {
+   "batch": "2026-11-22_howtoexam",
+   "files": [
+    "https://www.howtoexam.com/index.php?option=com_university&task=show_paper&paper_id=4076&Itemid=58"
+   ]
+  },
+  "status": "excluded",
+  "reason": "Punjab Engineering College 2005 B.Tech COMPUTER NETWORK - Question Paper - not PEC: 2005 'B.Tech' papers in Punjab Technical University format (PEC awarded B.E. then)"
  }
 ]

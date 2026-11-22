@@ -110,6 +110,9 @@ def keyed_pages(work, keys, dest, tmp, vocab):
     parts, texts = [], []
     for i, k in enumerate(keys):
         pdf = f"{work}/raw/{k}.pdf"
+        if os.path.exists(f"{work}/text/{k}.txt"):  # text-only source, no scan exists
+            texts.append(clean_ocr(open(f"{work}/text/{k}.txt").read()))
+            continue
         if os.path.exists(pdf):
             n = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout).group(1))
             part = f"{tmp}/part-{i:03d}.pdf"
@@ -122,7 +125,7 @@ def keyed_pages(work, keys, dest, tmp, vocab):
         parts.append(part)
     if len(parts) == 1:
         os.replace(parts[0], dest)
-    else:
+    elif parts:
         subprocess.run(["pdfunite", *parts, dest], check=True)
         for x in parts:
             os.remove(x)
@@ -175,7 +178,8 @@ def main(spec_path, work=None):
                 f"- **Programme:** {'M.Tech' if str(sem).startswith('MTech') else 'B.Tech / B.E.'}",
                 f"- **Year:** {year}",
                 f"- **Pages:** {len(texts)}",
-                f"- **Paper PDF:** [{base}.pdf]({base}.pdf)",
+                (f"- **Paper PDF:** [{base}.pdf]({base}.pdf)" if os.path.exists(dest)
+                 else "- **Paper PDF:** none - only a typed transcript of this paper exists (see below)"),
                 (f"- **Source:** {', '.join(f'[{i + 1}]({u})' for i, u in enumerate(p['source_files']))} ({spec.get('source_name', 'source')})"
                  if "images" in p else
                  f"- **Source:** owner upload `sources/{batch.split('_')[0]}/{p['file']}`, page(s) {a}-{b}"),
@@ -199,13 +203,13 @@ def main(spec_path, work=None):
                            else {"batch": batch, "file": p["file"], "pages": [a, b]}),
                 "status": "included", "department": dept, "semester": int(sem) if sem.isdigit() else sem, "course": course,
                 "course_code": code, "exam": exam, "year": year, "reappear": False, "pages": len(texts),
-                "pdf": f"{folder}/{base}.pdf", "transcript": f"{folder}/{base}.md",
+                "pdf": f"{folder}/{base}.pdf" if os.path.exists(dest) else None, "transcript": f"{folder}/{base}.md",
             })
             print(f"{folder}/{base}.pdf  ({len(texts)}p)")
 
     for sk in spec.get("skipped", []):
         manifest.append({"id": f"{batch}:{sk['images'][0]}", "source": {"batch": batch, "files": sk["source_files"]},
-                         "status": "duplicate", "reason": sk["reason"]})
+                         "status": sk.get("status", "duplicate"), "reason": sk["reason"]})
     with open(manifest_path, "w") as f:
         json.dump(manifest, f, indent=1, ensure_ascii=False)
     write_index(LIB, [m for m in manifest if m["status"] == "included"], manifest)

@@ -3,13 +3,14 @@
 Organised **branch -> semester -> course**. Each paper has a PDF and a `.md` file with
 metadata, a (to be filled) solutions section and the OCR transcript.
 
-**365 papers** across 14 departments (580 pages). Skipped: 28 duplicate uploads, 4 test uploads, 1 deleted upload (details in [README.md](README.md#data-notes)).
+**373 papers** across 15 departments (588 pages). Not included: 28 duplicates, 35 excluded (test uploads, or papers from other universities wrongly labelled PEC), 1 missing. Every source file is accounted for in [data/manifest.json](data/manifest.json); see [README.md](README.md) for details.
 
 ## Departments
 
 - [AERO - Aerospace Engineering](#aero) (8 papers)
 - [CHEMISTRY - Chemistry](#chemistry) (9 papers)
 - [CIVIL - Civil Engineering](#civil) (30 papers)
+- [COMMON - First-year common courses (all branches)](#common) (8 papers)
 - [CSE - Computer Science and Engineering](#cse) (49 papers)
 - [CSE-AI - CSE (Artificial Intelligence)](#cse-ai) (2 papers)
 - [CSE-DS - CSE (Data Science)](#cse-ds) (8 papers)
@@ -145,6 +146,23 @@ _Civil Engineering_
 |---|---|---|---|---|---|
 | Advanced Structural Design | CE443 | Mid-Semester | 2017 | [PDF](papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.pdf) (2p) | [text](papers/CIVIL/Semester-8/Advanced-Structural-Design/MID-SEM_2017_pecss-g007.md) |
 | Traffic Engineering | CEN412 | End-Semester | 2019 | [PDF](papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.pdf) (2p) | [text](papers/CIVIL/Semester-8/Traffic-Engineering/END-SEM_2019_pecss-g233.md) |
+
+## COMMON
+
+_First-year common courses (all branches)_
+
+### COMMON - Semester 2
+
+| Course | Code | Exam | Year | Paper | Transcript |
+|---|---|---|---|---|---|
+| Engineering Design | TA103 | End-Semester | 2010 | text only | [text](papers/COMMON/Semester-2/Engineering-Design/END-SEM_2010_howtoexam-h4034.md) |
+| Engineering Design | TA103 | Sessional Test | 2010 | [PDF](papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.pdf) (1p) | [text](papers/COMMON/Semester-2/Engineering-Design/SESSIONAL_2010_howtoexam-h4039.md) |
+| Introduction to Computing | TA101 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.pdf) (1p) | [text](papers/COMMON/Semester-2/Introduction-to-Computing/MID-SEM_2010_howtoexam-h4038.md) |
+| Mathematics II | MA102 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/MID-SEM_2010_howtoexam-h4037.md) |
+| Mathematics II | MA102 | Quiz / Class Test | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/QUIZ_2010_howtoexam-h4036.md) |
+| Mathematics II | MA102 | Assignment | 2010 | [PDF](papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.pdf) (1p) | [text](papers/COMMON/Semester-2/Mathematics-II/ASSIGNMENT_2010_howtoexam-h4035.md) |
+| Physics I | PY101 | Mid-Semester | 2010 | [PDF](papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.pdf) (1p) | [text](papers/COMMON/Semester-2/Physics-I/MID-SEM_2010_howtoexam-h4041.md) |
+| Physics I | PY101 | End-Semester | 2007 | [PDF](papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.pdf) (1p) | [text](papers/COMMON/Semester-2/Physics-I/END-SEM_2007_howtoexam-h4040.md) |
 
 ## CSE
 
