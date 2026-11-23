@@ -1,6 +1,6 @@
 # INDEX - PEC Chandigarh question papers
 
-372 papers (585 pages). Every file is a PDF under `papers/`. Paths below are relative to this folder.
+377 papers (583 pages). Every file is a PDF under `papers/`; paths are relative to this folder.
 
 Columns: course, course code (blank = not legible on the paper), file, exam type, year, pages, note.
 
@@ -11,9 +11,9 @@ Columns: course, course code (blank = not legible on the paper), file, exam type
 - [CSE](#cse) - Computer Science and Engineering (44 papers)
 - [CSE-AI](#cse-ai) - CSE (Artificial Intelligence) (2 papers)
 - [CSE-DS](#cse-ds) - CSE (Data Science) (5 papers)
-- [ECE](#ece) - Electronics and Communication Engineering (43 papers)
+- [ECE](#ece) - Electronics and Communication Engineering (46 papers)
 - [EE](#ee) - Electrical Engineering (47 papers)
-- [MECH](#mech) - Mechanical Engineering (54 papers)
+- [MECH](#mech) - Mechanical Engineering (56 papers)
 - [META](#meta) - Metallurgical and Materials Engineering (17 papers)
 - [PROD](#prod) - Production and Industrial Engineering (19 papers)
 - [COMMON](#common) - First-year courses common to all branches (71 papers)
@@ -29,6 +29,7 @@ Aerospace Engineering
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
+| Aircraft Materials and Processes | AEN201 | [EndSem-2017.pdf](papers/AERO/Semester-3/Aircraft-Materials-and-Processes/EndSem-2017.pdf) | End-sem | 2017 | 2 | November 2017 |
 | Aircraft Propulsion | AEN202 | [EndSem-2017.pdf](papers/AERO/Semester-3/Aircraft-Propulsion/EndSem-2017.pdf) | End-sem | 2017 | 1 |  |
 | Thermodynamics | ESC201 | [EndSem-2017.pdf](papers/AERO/Semester-3/Thermodynamics/EndSem-2017.pdf) | End-sem | 2017 | 1 |  |
 
@@ -44,7 +45,6 @@ Aerospace Engineering
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
-| Aircraft Materials and Processes |  | [EndSem-undated.pdf](papers/AERO/Semester-Unknown/Aircraft-Materials-and-Processes/EndSem-undated.pdf) | End-sem | undated | 2 |  |
 | Aircraft Structures |  | [Exam-undated.pdf](papers/AERO/Semester-Unknown/Aircraft-Structures/Exam-undated.pdf) | Not printed | undated | 3 | handwritten paper, no header |
 | Mechanical Vibrations and Aero-elasticity |  | [MidSem-2016.pdf](papers/AERO/Semester-Unknown/Mechanical-Vibrations-and-Aero-elasticity/MidSem-2016.pdf) | Mid-sem | 2016 | 1 |  |
 
@@ -79,8 +79,8 @@ Civil Engineering
 | Design of Steel Structures | CEN301 | [Quiz-2021.pdf](papers/CIVIL/Semester-5/Design-of-Steel-Structures/Quiz-2021.pdf) | Quiz | 2021 | 1 | Quiz No. 2 (objective, 30 min) |
 | Environmental Engineering I | CEN305 | [EndSem-2021.pdf](papers/CIVIL/Semester-5/Environmental-Engineering-I/EndSem-2021.pdf) | End-sem | 2021 | 4 | pages 1-2 are two photos of the first page |
 | Foundation Engineering | CEN302 | [MidSem-2017.pdf](papers/CIVIL/Semester-5/Foundation-Engineering/MidSem-2017.pdf) | Mid-sem | 2017 | 1 |  |
-| Foundation Engineering | CEN302 | [EndSem-2016.pdf](papers/CIVIL/Semester-5/Foundation-Engineering/EndSem-2016.pdf) | End-sem | 2016 | 1 |  |
-| Foundation Engineering | CEN302 | [EndSem-2017.pdf](papers/CIVIL/Semester-5/Foundation-Engineering/EndSem-2017.pdf) | End-sem | 2017 | 2 |  |
+| Foundation Engineering | CEN302 | [EndSem-2016.pdf](papers/CIVIL/Semester-5/Foundation-Engineering/EndSem-2016.pdf) | End-sem | 2016 | 2 |  |
+| Foundation Engineering | CEN302 | [EndSem-2017.pdf](papers/CIVIL/Semester-5/Foundation-Engineering/EndSem-2017.pdf) | End-sem | 2017 | 1 |  |
 | Foundation Engineering | CEN302 | [EndSem-2021.pdf](papers/CIVIL/Semester-5/Foundation-Engineering/EndSem-2021.pdf) | End-sem | 2021 | 2 |  |
 | Geotechnical Engineering I | CE343 | [EndSem-2015.pdf](papers/CIVIL/Semester-5/Geotechnical-Engineering-I/EndSem-2015.pdf) | End-sem | 2015 | 2 |  |
 | Structural Analysis II | CEN303 | [EndSem-2021.pdf](papers/CIVIL/Semester-5/Structural-Analysis-II/EndSem-2021.pdf) | End-sem | 2021 | 2 |  |
@@ -135,8 +135,8 @@ Computer Science and Engineering
 |---|---|---|---|---|---|---|
 | Database Management Systems | CSN208 | [MidSem-2020.pdf](papers/CSE/Semester-4/Database-Management-Systems/MidSem-2020.pdf) | Mid-sem | 2020 | 2 |  |
 | Machine Learning | CSN211 | [MidSem-2020.pdf](papers/CSE/Semester-4/Machine-Learning/MidSem-2020.pdf) | Mid-sem | 2020 | 1 |  |
-| Operating Systems | CS1402 | [EndSem-2023-A.pdf](papers/CSE/Semester-4/Operating-Systems/EndSem-2023-A.pdf) | End-sem | 2023 | 2 |  |
-| Operating Systems | CS1402 | [EndSem-2023-B.pdf](papers/CSE/Semester-4/Operating-Systems/EndSem-2023-B.pdf) | End-sem | 2023 | 2 |  |
+| Operating Systems | CS1402 | [EndSem-2022.pdf](papers/CSE/Semester-4/Operating-Systems/EndSem-2022.pdf) | End-sem | 2022 | 2 |  |
+| Operating Systems | CS1402 | [EndSem-2023.pdf](papers/CSE/Semester-4/Operating-Systems/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
 
 ### CSE - Semester 5
 
@@ -233,8 +233,7 @@ Electronics and Communication Engineering
 | Digital Logic Design | EC1231 | [MidSem-2022.pdf](papers/ECE/Semester-3/Digital-Logic-Design/MidSem-2022.pdf) | Mid-sem | 2022 | 1 |  |
 | Digital Logic Design | EC1231 | [EndSem-2022.pdf](papers/ECE/Semester-3/Digital-Logic-Design/EndSem-2022.pdf) | End-sem | 2022 | 2 |  |
 | Electronic Devices and Circuits | EC1232 | [MidSem-2022.pdf](papers/ECE/Semester-3/Electronic-Devices-and-Circuits/MidSem-2022.pdf) | Mid-sem | 2022 | 1 |  |
-| Information Technology in Engineering (EOIT) | ESC202 | [MidSem-undated-A.pdf](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MidSem-undated-A.pdf) | Mid-sem | undated | 1 |  |
-| Information Technology in Engineering (EOIT) | ESC202 | [MidSem-undated-B.pdf](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MidSem-undated-B.pdf) | Mid-sem | undated | 2 |  |
+| Information Technology in Engineering (EOIT) | ESC202 | [MidSem-undated.pdf](papers/ECE/Semester-3/Information-Technology-in-Engineering-EOIT/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
 
 ### ECE - Semester 4
 
@@ -246,28 +245,32 @@ Electronics and Communication Engineering
 | Communication Engineering | ECN201 | [EndSem-undated.pdf](papers/ECE/Semester-4/Communication-Engineering/EndSem-undated.pdf) | End-sem | undated | 1 |  |
 | Digital Signal Processing | ECN209 | [MidSem-2017.pdf](papers/ECE/Semester-4/Digital-Signal-Processing/MidSem-2017.pdf) | Mid-sem | 2017 | 1 |  |
 | Digital Signal Processing | ECN209 | [EndSem-2017.pdf](papers/ECE/Semester-4/Digital-Signal-Processing/EndSem-2017.pdf) | End-sem | 2017 | 2 |  |
+| Information Technology in Engineering (EOIT) | ESC202 | [MidSem-2020.pdf](papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/MidSem-2020.pdf) | Mid-sem | 2020 | 2 | January 2020 |
 | Information Technology in Engineering (EOIT) | ESC202 | [EndSem-undated.pdf](papers/ECE/Semester-4/Information-Technology-in-Engineering-EOIT/EndSem-undated.pdf) | End-sem | undated | 2 |  |
 | Probability and Random Processes | EC1242 | [MidSem-2023.pdf](papers/ECE/Semester-4/Probability-and-Random-Processes/MidSem-2023.pdf) | Mid-sem | 2023 | 2 |  |
 | Probability and Random Processes | EC1242 | [EndSem-2023.pdf](papers/ECE/Semester-4/Probability-and-Random-Processes/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
-| VLSI Design | ECN208 | [MidSem-2019.pdf](papers/ECE/Semester-4/VLSI-Design/MidSem-2019.pdf) | Mid-sem | 2019 | 2 |  |
+| VLSI Design | ECN208 | [MidSem-2019.pdf](papers/ECE/Semester-4/VLSI-Design/MidSem-2019.pdf) | Mid-sem | 2019 | 2 | header reads February 201?, last digit overwritten (2018 or 2019) |
 
 ### ECE - Semester 5
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
 | Advanced Communication | ECN302 | [EndSem-2021.pdf](papers/ECE/Semester-5/Advanced-Communication/EndSem-2021.pdf) | End-sem | 2021 | 2 |  |
-| Analog and Digital Communication | EC1351 | [MidSem-2022.pdf](papers/ECE/Semester-5/Analog-and-Digital-Communication/MidSem-2022.pdf) | Mid-sem | 2022 | 3 |  |
+| Analog and Digital Communication | EC1351 | [MidSem-2022.pdf](papers/ECE/Semester-5/Analog-and-Digital-Communication/MidSem-2022.pdf) | Mid-sem | 2022 | 1 |  |
 | Analog and Digital Communication | EC1351 | [EndSem-2022.pdf](papers/ECE/Semester-5/Analog-and-Digital-Communication/EndSem-2022.pdf) | End-sem | 2022 | 2 |  |
 | Analog and Digital Communication | EC1351 | [EndSem-2023.pdf](papers/ECE/Semester-5/Analog-and-Digital-Communication/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
-| Computer Communication Networks | EC2212 | [MidSem-2022.pdf](papers/ECE/Semester-5/Computer-Communication-Networks/MidSem-2022.pdf) | Mid-sem | 2022 | 3 |  |
+| Computer Communication Networks | EC2212 | [MidSem-2022.pdf](papers/ECE/Semester-5/Computer-Communication-Networks/MidSem-2022.pdf) | Mid-sem | 2022 | 1 |  |
 | Computer Communication Networks | EC2212 | [MidSem-2023.pdf](papers/ECE/Semester-5/Computer-Communication-Networks/MidSem-2023.pdf) | Mid-sem | 2023 | 2 |  |
-| Control Systems | EC1352 | [MidSem-2022.pdf](papers/ECE/Semester-5/Control-Systems/MidSem-2022.pdf) | Mid-sem | 2022 | 5 |  |
+| Computer Communication Networks | EC2212 | [EndSem-2022.pdf](papers/ECE/Semester-5/Computer-Communication-Networks/EndSem-2022.pdf) | End-sem | 2022 | 2 | December 2022 |
+| Control Systems | EC1352 | [MidSem-2022.pdf](papers/ECE/Semester-5/Control-Systems/MidSem-2022.pdf) | Mid-sem | 2022 | 2 |  |
 | Control Systems | EC1352 | [MidSem-2023.pdf](papers/ECE/Semester-5/Control-Systems/MidSem-2023.pdf) | Mid-sem | 2023 | 2 |  |
+| Control Systems | EC1352 | [EndSem-2022.pdf](papers/ECE/Semester-5/Control-Systems/EndSem-2022.pdf) | End-sem | 2022 | 3 | session 22231 (Dec 2022) |
 | Control Systems | EC1352 | [EndSem-2023.pdf](papers/ECE/Semester-5/Control-Systems/EndSem-2023.pdf) | End-sem | 2023 | 3 |  |
 | Digital Signal Processing | EC2214 | [MidSem-2023.pdf](papers/ECE/Semester-5/Digital-Signal-Processing/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
 | Embedded Systems | ECN305 | [MidSem-undated.pdf](papers/ECE/Semester-5/Embedded-Systems/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
 | Embedded Systems | ECN305 | [EndSem-2016.pdf](papers/ECE/Semester-5/Embedded-Systems/EndSem-2016.pdf) | End-sem | 2016 | 1 |  |
-| Microwave Engineering | EC1353 | [EndSem-2022.pdf](papers/ECE/Semester-5/Microwave-Engineering/EndSem-2022.pdf) | End-sem | 2022 | 4 |  |
+| Microwave Engineering | EC1353 | [MidSem-2022.pdf](papers/ECE/Semester-5/Microwave-Engineering/MidSem-2022.pdf) | Mid-sem | 2022 | 2 | October 2022 |
+| Microwave Engineering | EC1353 | [EndSem-2022.pdf](papers/ECE/Semester-5/Microwave-Engineering/EndSem-2022.pdf) | End-sem | 2022 | 2 |  |
 | Microwave Engineering | EC1353 | [EndSem-2023.pdf](papers/ECE/Semester-5/Microwave-Engineering/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
 | Microwave and Radar Engineering | ECN303 | [MidSem-undated.pdf](papers/ECE/Semester-5/Microwave-and-Radar-Engineering/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
 | Microwave and Radar Engineering | ECN303 | [EndSem-undated.pdf](papers/ECE/Semester-5/Microwave-and-Radar-Engineering/EndSem-undated.pdf) | End-sem | undated | 2 |  |
@@ -285,7 +288,7 @@ Electronics and Communication Engineering
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
-| Low Power VLSI | EC2433 | [MidSem-2025.pdf](papers/ECE/Semester-8/Low-Power-VLSI/MidSem-2025.pdf) | Mid-sem | 2025 | 1 |  |
+| Low Power VLSI | EC2433 | [MidSem-2020.pdf](papers/ECE/Semester-8/Low-Power-VLSI/MidSem-2020.pdf) | Mid-sem | 2020 | 1 | header prints 2020; the handwritten roll number suggests the 2025 exam |
 | Microwave and Radar Engineering | ECN451 | [MidSem-2017.pdf](papers/ECE/Semester-8/Microwave-and-Radar-Engineering/MidSem-2017.pdf) | Mid-sem | 2017 | 2 |  |
 | Semiconductor Package Manufacturing | EC2435 | [EndSem-2025.pdf](papers/ECE/Semester-8/Semiconductor-Package-Manufacturing/EndSem-2025.pdf) | End-sem | 2025 | 1 |  |
 
@@ -303,7 +306,7 @@ Electrical Engineering
 | Measurement and Instrumentation | EEN3002 | [MidSem-2024.pdf](papers/EE/Semester-3/Measurement-and-Instrumentation/MidSem-2024.pdf) | Mid-sem | 2024 | 1 |  |
 | Measurement and Instrumentation | EE212 | [EndSem-2014.pdf](papers/EE/Semester-3/Measurement-and-Instrumentation/EndSem-2014.pdf) | End-sem | 2014 | 2 | includes the honours-students question sheet |
 | Measurement and Instrumentation | EEN3002 | [EndSem-2024.pdf](papers/EE/Semester-3/Measurement-and-Instrumentation/EndSem-2024.pdf) | End-sem | 2024 | 1 |  |
-| Measurement and Instrumentation | EE212 | [Exam-undated.pdf](papers/EE/Semester-3/Measurement-and-Instrumentation/Exam-undated.pdf) | Not printed | undated | 2 |  |
+| Measurement and Instrumentation | EE212 | [Exam-2014.pdf](papers/EE/Semester-3/Measurement-and-Instrumentation/Exam-2014.pdf) | Not printed | 2014 | 2 | dated 24/9/2014; exam type not printed |
 | Networks and Systems | EL3001 | [MidSem-2024.pdf](papers/EE/Semester-3/Networks-and-Systems/MidSem-2024.pdf) | Mid-sem | 2024 | 1 |  |
 | Networks and Systems | EL3001 | [EndSem-2024.pdf](papers/EE/Semester-3/Networks-and-Systems/EndSem-2024.pdf) | End-sem | 2024 | 2 |  |
 | Object Oriented Programming | CSM1001 | [MidSem-2024.pdf](papers/EE/Semester-3/Object-Oriented-Programming/MidSem-2024.pdf) | Mid-sem | 2024 | 2 |  |
@@ -361,7 +364,7 @@ Electrical Engineering
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
 | Digital Signal Processing | EEN417 | [EndSem-2018.pdf](papers/EE/Semester-8/Digital-Signal-Processing/EndSem-2018.pdf) | End-sem | 2018 | 2 |  |
-| Electric Vehicles | EL6012 | [EndSem-2024.pdf](papers/EE/Semester-8/Electric-Vehicles/EndSem-2024.pdf) | End-sem | 2024 | 1 |  |
+| Electric Vehicles | EL6012 | [EndSem-2024.pdf](papers/EE/Semester-8/Electric-Vehicles/EndSem-2024.pdf) | End-sem | 2024 | 1 | header prints 'Examination May 2024', semester 7th |
 | Microcontroller and PLC Applications | EE425A | [EndSem-2017.pdf](papers/EE/Semester-8/Microcontroller-and-PLC-Applications/EndSem-2017.pdf) | End-sem | 2017 | 1 |  |
 | Utilization of Electrical Energy and Illumination Engineering | EE426 | [MidSem-2017.pdf](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MidSem-2017.pdf) | Mid-sem | 2017 | 1 |  |
 | Utilization of Electrical Energy and Illumination Engineering | EEN414 | [MidSem-2018.pdf](papers/EE/Semester-8/Utilization-of-Electrical-Energy-and-Illumination-Engineering/MidSem-2018.pdf) | Mid-sem | 2018 | 1 |  |
@@ -383,7 +386,7 @@ Mechanical Engineering
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
-| Introduction to Mechanical Engineering | MEN101 | [Exam-2016.pdf](papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/Exam-2016.pdf) | Not printed | 2016 | 1 |  |
+| Introduction to Mechanical Engineering | MEN101 | [MidSem-2016.pdf](papers/MECH/Semester-1/Introduction-to-Mechanical-Engineering/MidSem-2016.pdf) | Mid-sem | 2016 | 1 | Aug-Dec 2016 session |
 
 ### MECH - Semester 3
 
@@ -394,8 +397,10 @@ Mechanical Engineering
 | Elements of Thermodynamics | ME1032 | [MidSem-2023.pdf](papers/MECH/Semester-3/Elements-of-Thermodynamics/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
 | Elements of Thermodynamics | ME1032 | [EndSem-2023.pdf](papers/MECH/Semester-3/Elements-of-Thermodynamics/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
 | Elements of Thermodynamics |  | [Exam-undated.pdf](papers/MECH/Semester-3/Elements-of-Thermodynamics/Exam-undated.pdf) | Not printed | undated | 1 | first page with the header was not photographed |
-| Kinematics of Machines | MEN202 | [MidSem-2016.pdf](papers/MECH/Semester-3/Kinematics-of-Machines/MidSem-2016.pdf) | Mid-sem | 2016 | 3 | handwritten paper |
-| Manufacturing Processes | MEN203 | [EndSem-2016.pdf](papers/MECH/Semester-3/Manufacturing-Processes/EndSem-2016.pdf) | End-sem | 2016 | 2 |  |
+| Kinematics of Machines | MEN202 | [MidSem-2016.pdf](papers/MECH/Semester-3/Kinematics-of-Machines/MidSem-2016.pdf) | Mid-sem | 2016 | 1 | handwritten paper, Sept 2016 |
+| Kinematics of Machines | MEN202 | [EndSem-2016.pdf](papers/MECH/Semester-3/Kinematics-of-Machines/EndSem-2016.pdf) | End-sem | 2016 | 2 | December 2016 (MEN-202) |
+| Manufacturing Processes | MEN203 | [MidSem-2016.pdf](papers/MECH/Semester-3/Manufacturing-Processes/MidSem-2016.pdf) | Mid-sem | 2016 | 1 | session 16171 |
+| Manufacturing Processes | MEN203 | [EndSem-2016.pdf](papers/MECH/Semester-3/Manufacturing-Processes/EndSem-2016.pdf) | End-sem | 2016 | 1 |  |
 | Materials Science | ESC203 | [MidSem-2016.pdf](papers/MECH/Semester-3/Materials-Science/MidSem-2016.pdf) | Mid-sem | 2016 | 1 |  |
 | Materials Science | ESC203 | [EndSem-2016.pdf](papers/MECH/Semester-3/Materials-Science/EndSem-2016.pdf) | End-sem | 2016 | 1 |  |
 | Mechanics of Materials | ME1033 | [MidSem-2023.pdf](papers/MECH/Semester-3/Mechanics-of-Materials/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
@@ -529,20 +534,20 @@ Production and Industrial Engineering
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
-| Industrial Trilogy | PR2007 | [MidSem-undated.pdf](papers/PROD/Semester-7/Industrial-Trilogy/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
+| Industrial Tribology | PR2007 | [MidSem-undated.pdf](papers/PROD/Semester-7/Industrial-Tribology/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
 | Operations Research | PE401 | [MidSem-2016.pdf](papers/PROD/Semester-7/Operations-Research/MidSem-2016.pdf) | Mid-sem | 2016 | 3 |  |
 | Operations Research | MAN401 | [MidSem-2018.pdf](papers/PROD/Semester-7/Operations-Research/MidSem-2018.pdf) | Mid-sem | 2018 | 1 |  |
 | Operations Research | MAN401 | [MidSem-undated.pdf](papers/PROD/Semester-7/Operations-Research/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
 | Operations Research | MAN401 | [EndSem-2018.pdf](papers/PROD/Semester-7/Operations-Research/EndSem-2018.pdf) | End-sem | 2018 | 3 |  |
-| Optimization Techniques in Manufacturing | PR2020 | [EndSem-2024.pdf](papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/EndSem-2024.pdf) | End-sem | 2024 | 1 |  |
+| Optimization Techniques in Manufacturing | PR2020 | [EndSem-2024.pdf](papers/PROD/Semester-7/Optimization-Techniques-in-Manufacturing/EndSem-2024.pdf) | End-sem | 2024 | 1 | header prints 'End-Term' but Sept 2024, 25 marks, 1.5 h (likely a mid-term) |
 | Product Design and Development | PR6010 | [MidSem-undated.pdf](papers/PROD/Semester-7/Product-Design-and-Development/MidSem-undated.pdf) | Mid-sem | undated | 1 |  |
 
 ### PROD - M.Tech Semester 2
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
-| Finite Element Analysis | PRM5031 | [MidSem-2019.pdf](papers/PROD/MTech-Semester-2/Finite-Element-Analysis/MidSem-2019.pdf) | Mid-sem | 2019 | 1 | M.Tech (Production and Industrial Engg.) |
 | Finite Element Analysis | PRM5031 | [EndSem-2019.pdf](papers/PROD/MTech-Semester-2/Finite-Element-Analysis/EndSem-2019.pdf) | End-sem | 2019 | 2 | M.Tech (Production and Industrial Engg.) |
+| Finite Element Analysis | PRM5031 | [Quiz-2019.pdf](papers/PROD/MTech-Semester-2/Finite-Element-Analysis/Quiz-2019.pdf) | Quiz | 2019 | 1 | Class Test 1, March 2019 (M.Tech) |
 | Industrial Robotics | PRM5401 | [EndSem-2019.pdf](papers/PROD/MTech-Semester-2/Industrial-Robotics/EndSem-2019.pdf) | End-sem | 2019 | 7 | M.Tech; pages 1-2 are two photos of the first page |
 | Welding Engineering | PRM5041 | [EndSem-undated.pdf](papers/PROD/MTech-Semester-2/Welding-Engineering/EndSem-undated.pdf) | End-sem | undated | 1 |  |
 | Welding Engineering | PRM5041 | [Assignment-undated.pdf](papers/PROD/MTech-Semester-2/Welding-Engineering/Assignment-undated.pdf) | Assignment | undated | 2 | Assignment 2 (coursework, not an exam) |
@@ -594,14 +599,14 @@ First-year courses common to all branches
 | Artificial Intelligence and Machine Learning | ES1701 | [EndSem-2022.pdf](papers/COMMON/Semester-2/Artificial-Intelligence-and-Machine-Learning/EndSem-2022.pdf) | End-sem | 2022 | 2 |  |
 | Communication Skills and Ethics | HS1101 | [EndSem-2022.pdf](papers/COMMON/Semester-2/Communication-Skills-and-Ethics/EndSem-2022.pdf) | End-sem | 2022 | 3 |  |
 | Electromagnetic Theory and Quantum Physics | PY1201 | [MidSem-2022.pdf](papers/COMMON/Semester-2/Electromagnetic-Theory-and-Quantum-Physics/MidSem-2022.pdf) | Mid-sem | 2022 | 1 |  |
-| Engineering Design | TA103 | [EndSem-2010.pdf](papers/COMMON/Semester-2/Engineering-Design/EndSem-2010.pdf) | End-sem | 2010 | 1 | typed copy (no scan exists) |
+| Engineering Design | TA103 | [EndSem-2010.pdf](papers/COMMON/Semester-2/Engineering-Design/EndSem-2010.pdf) | End-sem | 2010 | 1 | typed copy (no scan exists); year from the source listing (not printed on the paper) |
 | Engineering Design | TA103 | [Sessional-2010.pdf](papers/COMMON/Semester-2/Engineering-Design/Sessional-2010.pdf) | Sessional | 2010 | 1 | Sessional Examination 1, 26 Feb 2010 |
 | Engineering Drawing with CAD Software | ES1201 | [MidSem-2023.pdf](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
 | Engineering Drawing with CAD Software | ES2302 | [MidSem-2024.pdf](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/MidSem-2024.pdf) | Mid-sem | 2024 | 1 |  |
 | Engineering Drawing with CAD Software | ES1201 | [EndSem-2023.pdf](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
 | Engineering Drawing with CAD Software | ES2302 | [EndSem-2024.pdf](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/EndSem-2024.pdf) | End-sem | 2024 | 2 |  |
 | Engineering Drawing with CAD Software | ES2302 | [Practical-2024.pdf](papers/COMMON/Semester-2/Engineering-Drawing-with-CAD-Software/Practical-2024.pdf) | Practical | 2024 | 1 | CAD Practical Examination (April 2024), Set 1 |
-| Introduction to Computing | TA101 | [MidSem-2010.pdf](papers/COMMON/Semester-2/Introduction-to-Computing/MidSem-2010.pdf) | Mid-sem | 2010 | 1 | first mid-semester exam; 1st year Aero, Civil, Production, Metallurgy, Mechanical |
+| Introduction to Computing | TA101 | [MidSem-2010.pdf](papers/COMMON/Semester-2/Introduction-to-Computing/MidSem-2010.pdf) | Mid-sem | 2010 | 1 | first mid-semester exam; 1st year Aero, Civil, Production, Metallurgy, Mechanical; year from the source listing (not printed on the paper) |
 | Introduction to Computing | ES1101 | [MidSem-2023.pdf](papers/COMMON/Semester-2/Introduction-to-Computing/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
 | Introduction to Computing | ES1101 | [EndSem-2023.pdf](papers/COMMON/Semester-2/Introduction-to-Computing/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
 | Introduction to Electronics and Electrical Engineering | ES1401 | [MidSem-2023.pdf](papers/COMMON/Semester-2/Introduction-to-Electronics-and-Electrical-Engineering/MidSem-2023.pdf) | Mid-sem | 2023 | 2 |  |
@@ -623,9 +628,9 @@ First-year courses common to all branches
 | Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | [MidSem-2023.pdf](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
 | Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | [EndSem-2022.pdf](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/EndSem-2022.pdf) | End-sem | 2022 | 2 |  |
 | Linear Algebra, Vector Calculus and Partial Differential Equations | MA1201 | [EndSem-2023.pdf](papers/COMMON/Semester-2/Linear-Algebra-Vector-Calculus-and-Partial-Differential-Equations/EndSem-2023.pdf) | End-sem | 2023 | 2 |  |
-| Mathematics II | MA102 | [MidSem-2010.pdf](papers/COMMON/Semester-2/Mathematics-II/MidSem-2010.pdf) | Mid-sem | 2010 | 1 | Mid-Term I |
-| Mathematics II | MA102 | [Quiz-2010.pdf](papers/COMMON/Semester-2/Mathematics-II/Quiz-2010.pdf) | Quiz | 2010 | 1 | Quiz 1, Set A (vector spaces) |
-| Mathematics II | MA102 | [Assignment-2010.pdf](papers/COMMON/Semester-2/Mathematics-II/Assignment-2010.pdf) | Assignment | 2010 | 1 | assignment test on linear algebra |
+| Mathematics II | MA102 | [MidSem-2010.pdf](papers/COMMON/Semester-2/Mathematics-II/MidSem-2010.pdf) | Mid-sem | 2010 | 1 | Mid-Term I; year from the source listing (not printed on the paper) |
+| Mathematics II | MA102 | [Quiz-2010.pdf](papers/COMMON/Semester-2/Mathematics-II/Quiz-2010.pdf) | Quiz | 2010 | 1 | Quiz 1, Set A (vector spaces); year from the source listing (not printed on the paper) |
+| Mathematics II | MA102 | [Assignment-2010.pdf](papers/COMMON/Semester-2/Mathematics-II/Assignment-2010.pdf) | Assignment | 2010 | 1 | assignment test on linear algebra; year from the source listing (not printed on the paper) |
 | Physics I | PY101 | [MidSem-2010.pdf](papers/COMMON/Semester-2/Physics-I/MidSem-2010.pdf) | Mid-sem | 2010 | 1 | Mid Term Test 1, Feb 2010 |
 | Physics I | PY101 | [EndSem-2007.pdf](papers/COMMON/Semester-2/Physics-I/EndSem-2007.pdf) | End-sem | 2007 | 1 | End Semester Examination, May 2007 |
 | Strength of Materials | ES1601 | [MidSem-2023.pdf](papers/COMMON/Semester-2/Strength-of-Materials/MidSem-2023.pdf) | Mid-sem | 2023 | 1 |  |
@@ -716,5 +721,5 @@ Chemistry (electives)
 
 | Course | Code | File | Exam | Year | Pages | Note |
 |---|---|---|---|---|---|---|
-| Green Chemical Processing and Technologies for Circular Economy | CH6004 | [MidSem-2025.pdf](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MidSem-2025.pdf) | Mid-sem | 2025 | 1 |  |
+| Green Chemical Processing and Technologies for Circular Economy | CH6004 | [MidSem-2025.pdf](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/MidSem-2025.pdf) | Mid-sem | 2025 | 1 | header misprints 'End-Term'; 20 marks, 1.5 h mid-term |
 | Green Chemical Processing and Technologies for Circular Economy | CH6004 | [EndSem-2025.pdf](papers/CHEMISTRY/Semester-7/Green-Chemical-Processing-and-Technologies-for-Circular-Economy/EndSem-2025.pdf) | End-sem | 2025 | 2 |  |

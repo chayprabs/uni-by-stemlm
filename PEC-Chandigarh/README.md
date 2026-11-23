@@ -2,7 +2,7 @@
 
 Past exam papers (mid-semester, end-semester and a few quizzes) of **Punjab Engineering College (Deemed to be University), Chandigarh**, as PDFs.
 
-**372 papers, 585 pages, 2005-2026.**
+**377 papers, 583 pages, 2007-2026.**
 
 ## For AI agents: how to navigate
 
@@ -25,9 +25,9 @@ Past exam papers (mid-semester, end-semester and a few quizzes) of **Punjab Engi
 | `CSE` | Computer Science and Engineering | 44 |
 | `CSE-AI` | CSE (Artificial Intelligence) | 2 |
 | `CSE-DS` | CSE (Data Science) | 5 |
-| `ECE` | Electronics and Communication Engineering | 43 |
+| `ECE` | Electronics and Communication Engineering | 46 |
 | `EE` | Electrical Engineering | 47 |
-| `MECH` | Mechanical Engineering | 54 |
+| `MECH` | Mechanical Engineering | 56 |
 | `META` | Metallurgical and Materials Engineering | 17 |
 | `PROD` | Production and Industrial Engineering | 19 |
 | `COMMON` | First-year courses common to all branches | 71 |
@@ -37,7 +37,7 @@ Past exam papers (mid-semester, end-semester and a few quizzes) of **Punjab Engi
 
 - **`COMMON`** holds first-year (semester 1-2) courses that every branch takes: Calculus, Chemistry, Physics, Environmental Sciences, Mechatronics, Engineering Drawing, Computing, Communication Skills and similar. Look here for any branch's first-year papers.
 - **`HSM`** holds humanities and management courses from semester 3 on, such as Economics, Finance and Business Laws. **`MATHS`** and **`CHEMISTRY`** hold those departments' electives.
-- **`Semester-Unknown`** holds 5 papers whose pages do not show a semester. **`MTech-Semester-2`** holds the M.Tech (Production) papers.
+- **`Semester-Unknown`** holds 4 papers whose pages do not show a semester. **`MTech-Semester-2`** holds the M.Tech (Production) papers.
 - **Course folders** use the course name with hyphens, e.g. `Analysis-and-Design-of-Algorithms`. A course whose papers print different semesters appears under each of those semesters.
 
 ## File names
@@ -52,11 +52,11 @@ Past exam papers (mid-semester, end-semester and a few quizzes) of **Punjab Engi
 | `…-undated.pdf` | no year on the paper |
 | `…-A.pdf`, `…-B.pdf` | two different papers with the same exam and year, e.g. two question sets or two dates; INDEX.md notes the difference where known |
 
-The year is the year the exam was held: the date printed on the paper, or its session code (e.g. `24251` is the 2024-25 odd semester, i.e. Nov/Dec 2024).
+The year is the year the exam was held: the date printed on the paper, or its session code (e.g. `24251` is the 2024-25 odd semester, i.e. Nov/Dec 2024). When nothing is printed, it is the year given by the source the paper came from, and INDEX.md says so in the note.
 
 ## Notes
 
-- Each paper appears once; duplicate uploads were removed.
-- Some papers are old *PEC University of Technology* papers (2013-2021) with the older course codes (e.g. CSN-409, EEN-413).
+- Duplicate uploads were removed. Where two different photo sets of one paper exist, the clearer one is kept.
+- Some papers are old *PEC University of Technology* papers (2010-2021) with the older course codes (e.g. CSN-409, EEN-413).
 - One paper, `papers/COMMON/Semester-2/Engineering-Design/EndSem-2010.pdf`, is a typed copy, because no scan of it exists.
 - **Solutions are not included yet.**
